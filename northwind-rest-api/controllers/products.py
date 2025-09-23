@@ -5,18 +5,21 @@ from models.product import Product
 from schemas.product_schema import ProductSchema
 from pydantic import ValidationError
 
+# Listing all products
 def list_products():
     limit = int(request.args.get("limit", 10))
     offset = int(request.args.get("offset", 0))
     products = Product.query.limit(limit).offset(offset).all()
     return jsonify([p.to_dict() for p in products]), 200
 
+# Retrieving single product by ID
 def get_product(product_id):
     p = db.session.get(Product, product_id)
     if not p:
         return jsonify({"error": "Product not found"}), 404
     return jsonify(p.to_dict()), 200
 
+# Creating new product with validation
 def create_product():
     try:
         payload = request.get_json(force=True)
@@ -32,6 +35,7 @@ def create_product():
     db.session.commit()
     return jsonify(new_product.to_dict()), 201
 
+# Updating product details with validation
 def update_product(product_id):
     p = db.session.get(Product, product_id)
     if not p:
@@ -49,6 +53,7 @@ def update_product(product_id):
     db.session.commit()
     return jsonify(p.to_dict()), 200
 
+# Deleting product by ID
 def delete_product(product_id):
     p = db.session.get(Product, product_id)
     if not p:

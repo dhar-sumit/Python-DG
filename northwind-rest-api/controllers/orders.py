@@ -5,18 +5,21 @@ from models.order import Order
 from schemas.order_schema import OrderSchema
 from pydantic import ValidationError
 
+# Listing all orders
 def list_orders():
     limit = int(request.args.get("limit", 10))
     offset = int(request.args.get("offset", 0))
     orders = Order.query.limit(limit).offset(offset).all()
     return jsonify([o.to_dict() for o in orders]), 200
 
+# Retrieving single order by ID
 def get_order(order_id):
     o = db.session.get(Order, order_id)
     if not o:
         return jsonify({"error": "Order not found"}), 404
     return jsonify(o.to_dict()), 200
 
+# Creating new order with validation
 def create_order():
     try:
         payload = request.get_json(force=True)
@@ -32,6 +35,7 @@ def create_order():
     db.session.commit()
     return jsonify(new_order.to_dict()), 201
 
+# Updating order details with validation
 def update_order(order_id):
     o = db.session.get(Order, order_id)
     if not o:
@@ -49,6 +53,7 @@ def update_order(order_id):
     db.session.commit()
     return jsonify(o.to_dict()), 200
 
+# Deleting order by ID
 def delete_order(order_id):
     o = db.session.get(Order, order_id)
     if not o:
@@ -57,6 +62,7 @@ def delete_order(order_id):
     db.session.commit()
     return jsonify({"message": f"Order {order_id} deleted"}), 200
 
+# Retrieving all orders for a single customer by ID
 def get_customer_orders(customer_id):
     limit = int(request.args.get("limit", 10))
     offset = int(request.args.get("offset", 0))
