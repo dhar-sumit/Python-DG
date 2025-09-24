@@ -1,0 +1,16 @@
+Continent,Gender,JobSat,CareerSat
+Africa,Man,3.46,3.79
+Africa,Others,3.21,3.26
+Africa,Woman,3.23,3.69
+America,Man,3.82,4.13
+America,Others,3.65,3.92
+America,Woman,3.94,4.17
+Asia,Man,3.43,3.7
+Asia,Others,3.4,3.63
+Asia,Woman,3.46,3.67
+Europe,Man,3.7,3.94
+Europe,Others,3.72,3.83
+Europe,Woman,3.73,3.96
+Oceania,Man,3.79,4.06
+Oceania,Others,3.63,3.89
+Oceania,Woman,3.87,4.05

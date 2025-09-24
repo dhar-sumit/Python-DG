@@ -1,0 +1,15 @@
+Continent,Gender,Total_respondents,Hobbyists,pct_hobbyist
+Africa,Man,65,56,86.15
+Africa,Woman,4,2,50.0
+America,Man,1399,1210,86.49
+America,Others,11,11,100.0
+America,Woman,58,40,68.97
+Asia,Man,516,428,82.95
+Asia,Others,2,2,100.0
+Asia,Woman,13,7,53.85
+Europe,Man,1246,1093,87.72
+Europe,Others,1,1,100.0
+Europe,Woman,39,31,79.49
+Oceania,Man,114,93,81.58
+Oceania,Others,1,1,100.0
+Oceania,Woman,3,2,66.67
