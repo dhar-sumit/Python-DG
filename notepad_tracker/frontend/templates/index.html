@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Notepad Tracker</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <h1>Notepad Tracker</h1>
+
+  <div>
+    <input type="text" id="filepath" placeholder="Enter full file path to start editing" />
+    <small>Press Enter or use Browse buttons</small>
+  </div>
+
+  <div id="editor-section">
+    <textarea id="editor" placeholder="Start typing..."></textarea>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <script src="{{ url_for('static', filename='js/autosave.js') }}"></script>
+</body>
+</html>

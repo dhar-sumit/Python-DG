@@ -1,0 +1,1 @@
+Hello this is a recursive folder text file 'dummy'.
