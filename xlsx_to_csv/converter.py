@@ -24,16 +24,16 @@ def download_google_sheet(sheet_url, output_file):
     # Constructing the export URL
     export_url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=xlsx"
 
-    print(f"📥 Downloading Google Sheet from: {export_url}")
+    print(f"Downloading Google Sheet from: {export_url}")
     response = requests.get(export_url)
 
     if response.status_code == 200:
         with open(output_file, 'wb') as f:
             f.write(response.content)
-        print(f"✅ Downloaded: {output_file}")
+        print(f"Downloaded: {output_file}")
         return output_file
     else:
-        print(f"❌ Failed to download file. HTTP Status Code: {response.status_code}")
+        print(f"Failed to download file. HTTP Status Code: {response.status_code}")
         return None
 
 # Converting the downloaded or local Excel file to CSV files
@@ -49,7 +49,7 @@ def convert_xlsx_to_csv(input_path):
     try:
         excel_data = pd.read_excel(input_path, sheet_name=None, engine='openpyxl')
     except Exception as e:
-        print(f"❌ Error reading the Excel file: {e}")
+        print(f"Error reading the Excel file: {e}")
         return
 
     # Saving each sheet as a separate CSV file
@@ -57,13 +57,13 @@ def convert_xlsx_to_csv(input_path):
         output_file = os.path.join(output_dir, f"{sheet_name}.csv")
         try:
             df.to_csv(output_file, index=False)
-            print(f"✅ Saved: {output_file}")
+            print(f"Saved: {output_file}")
         except Exception as e:
-            print(f"❌ Failed to save '{sheet_name}': {e}")
+            print(f"Failed to save '{sheet_name}': {e}")
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage:\n  python converter.py <google_sheet_link | local_xlsx_file>")
+        print("Input should be:\n  python converter.py <google_sheet_link | local_xlsx_file>")
         sys.exit(1)
 
     input_arg = sys.argv[1]
@@ -76,7 +76,7 @@ if __name__ == "__main__":
             convert_xlsx_to_csv(result_file)
     else:
         if not os.path.exists(input_arg):
-            print(f"❌ File not found: {input_arg}")
+            print(f"File not found: {input_arg}")
         else:
             convert_xlsx_to_csv(input_arg)
 
