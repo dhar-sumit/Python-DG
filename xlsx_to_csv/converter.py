@@ -18,7 +18,7 @@ def extract_sheet_id(url):
 def download_google_sheet(sheet_url, output_file):
     sheet_id = extract_sheet_id(sheet_url)
     if not sheet_id:
-        print("❌ Could not extract Sheet ID from the link.")
+        print("Could not extract Sheet ID from the link.")
         return None
 
     # Constructing the export URL
