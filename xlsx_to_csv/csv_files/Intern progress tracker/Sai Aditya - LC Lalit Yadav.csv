@@ -1,0 +1,204 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-07-14,Information Security (ISO27001 Standards),ISO 27001,Information Security Course,,,,,,,
+2025-07-15,DevOps,Docker,"1) Installation, container management
+2) Image creation, volume and networking",,,,,,,
+2025-07-16,DevOps,Jenkins,"1) Installation, Job Creation
+2) Integration with Docker, AWS account created",,,,,,,
+2025-07-17,DevOps,"1) Jenkins
+2) EC2","1) SAM template, Deployed Lambda function and API Gateway.
+2) Jenkins with Docker.",,,,,,,
+2025-07-18,Devops,Assignment,"1)Set up Jenkins on an AWS EC2 instance. 
+2)Developed a serverless calculator application using AWS SAM and AWS Lambda. 
+3)Implemented a Jenkins pipeline that automated the build and deployment process using ""sam build"" and ""sam deploy"" commands. 
+4)Deployed the application to AWS, obtained the API Gateway endpoint, and successfully accessed the calculator via the deployed API",,,,,,,"Completed info sec training, devops assignment after learning docker, jenkins, gihub integration, plugins, SAM template, creation of lambda and API Gateway, deploying a sample application. He did very well in this week."
+2025-07-19,,,,,,,,,,
+2025-07-20,,,,,,,,,,
+2025-07-21,DevOps,Git,"1) how Git works? 
+2) Understood concepts like repositories, branches, and commits. 
+3) created and managed local and remote repositories. 
+4) Practiced branching, merging, rebasing, and resolving merge conflicts. 
+5) Learned to manage commit history through adding, removing, and squashing commits. ",,,,,,,
+2025-07-22,DevOps,Github Actions,"1) What is GitHub Actions?  
+2) Created a GitHub action for a sample python code  
+4) Created an action that installs dependencies and runs tests on the python code  
+5) Created an action that deploys the calculator python code using SAM template ",,,,,,,
+2025-07-23,Python,"1) Coding practice
+2) Error handling
+3) SQL connection","1) Learned Python coding standards (PEP8) for writing clean code. 
+2) Understood logging, handling errors, and writing unit tests. 
+3) Connected Python to SQL and ran memory-efficient queries. 
+4) Worked with classes, lists, sets, map() and cleaned HTML from URLs. ",,,,,,,
+2025-07-24,Python,Testing,"1) Learned to write tests using unittest and pytest 
+2) Practiced mocking database records for isolated testing 
+3) Used boto3 and moto to mock AWS DynamoDB 
+4) Generated test coverage reports with coverage ",,,,,,,
+2025-07-25,Python,"1) Flask
+2) MVC pattern","1) Learned how to build APIs using Flask 
+2) Got comfortable with the MVC pattern in Flask apps 
+3) Split code into models, views, and controllers for clarity 
+4) Used Blueprints and app factories to organize projects better ",,,,,,,"In this week, He started Git, its concepts, did hands on all the concepts and conpleted the assignment, Then he completed github action training and completed the assignment, also did the devops assignment with using github actions. Created his AWS Account to solve the assignments directly on AWS environment. Python is in progress."
+2025-07-26,,,,,,,,,,
+2025-07-27,,,,,,,,,,
+2025-07-28,Leave,,,,,,,,,
+2025-07-29,Python,"1) Flask
+2) Deployment","1) The application performs CRUD operation on customers, orders and products 
+2) Created the project with MVC model structure 
+3) Deployed the application on AWS 
+4) Used DynamoDB for storage  ",,,,,,,
+2025-07-30,Leave,,,,,,,,,
+2025-07-31,Python,ETL,"1) Analysed data using Python and Pandas 
+2) Grouped data by country, gender, and continent as per requirement 
+3) Mapped countries to continents 
+4) Generated reports on salary, language trends, and developer habits ",,,,,,,
+2025-08-01,Python,Assignment,"1) Created a simple notepad application 
+2) used git to save the content when the user stops editing in the notepad 
+3) converted xlsx to csv using pandas dataframe as intermediate 
+4) Solved some complex ETL problems ",,,,,,,"Continued with python assignments, solving questions with good approach and fast.  "
+2025-08-02,,,,,,,,,,
+2025-08-03,,,,,,,,,,
+2025-08-04,Python,Assignment,"1) Loaded json data into SQL table using mysql-connector module 
+2) unloaded the same data into dataframe and did data manipulation as mentioned SQL information extraction 
+3) Used regex to find and extract required information from sql file ",,,,,,,
+2025-08-05,SQL,"1) CRUD
+2) JOINS
+3) Conditional expressions and procedures","1) Learned basic SQL commands like SELECT, INSERT, UPPDATE, and DELETE. 
+2) Understood GROUP BY and different types of joins. 
+3) Explored advanced SQL features like subqueries, string functions and self-join. 
+4) Worked with conditional expressions and stored procedures. ",,,,,,,
+2025-08-06,SQL,"1) Triggers
+2) Assignment","1) learned about triggers, views and procedures  
+2) finished 8 questions from the assignment ",,,,,,,
+2025-08-07,SQL,"1) DCL
+2) Assignment","1) Learned about role creation, granting and revoking access
+2) Learned about transactions
+Finished the last 2 from 1st assignment
+Finished 3 question from adv assignment",,,,,,,
+2025-08-08,SQL,Assignment,"finished the last 2 questions from adv assignment
+also did 70 questions from https://sql-practice.com",,,,,,,"Completed python all the assignments and then started with SQL assignments, learning advanced concepts of SQL also and then took initiative himself to solve extra questions."
+2025-08-09,,,,,,,,,,
+2025-08-10,,,,,,,,,,
+2025-08-11,PowerBI,,"1) loaded different kinds of data into powerBI
+2) Did Transformation on the data
+3) Explored types of visualizations present in powerBI
+4) learned data modeling with powerBI",,,,,,,
+2025-08-12,PowerBI,,"1) Learnt about DAX, its data types and operators
+2) Created calculated fields, measures and explored various functions
+3) Created some dashboards on different kinds of dataset
+4) Understood about reports, dashboards and collaboration",,,,,,,
+2025-08-13,PowerBI,,"1) created pizza report, abank report and financial report
+2) understood about row level security
+3) created various kinds of reports like flight delay report, seattle weather report",,,,,,,
+2025-08-14,Spark,,"1) Learned about YARN, spark and their architecture.
+2) Understood how Spark applications run on YARN.
+3) Explored RDDs, their types, and operations like map and filter.
+4) Learned about implementing MapReduce using Spark.",,,,,,,"Going with good pace with learning power bi, visualization, creating dashboards etc."
+2025-08-15,Holiday,,,,,,,,,
+2025-08-16,,,,,,,,,,
+2025-08-17,,,,,,,,,,
+2025-08-18,Spark,,"1) Learned about all spark transformations and actions
+2) Created a databricks account and did transformation on sample data",,,,,,,
+2025-08-19,Spark,,"1) installed and setup of spark
+2) Run and understood the different types of pyspark programs given",,,,,,,
+2025-08-20,Spark,Assignment,Finished all assignment questions,,,,,,,
+2025-08-21,Spark,Assignment,"Did 30 pyspark questions
+1) Worked with RDD and dataframes
+2) Did some sparkSQL questions with joins, transformations and optimizations",,,,,,,
+2025-08-22,AWS,"1) IAM and AWS CLI 
+2) EC2 Fundamentals
+3) EC2 associate level","1) IAM users, groups and policies
+2) AWS CLI setup
+3) EC2 setup, security groups and ports
+4) Private vs Public vs Elastic IPs",,,,,,,"Completed Pyspark assignment and solved extra questions also, Started with AWS assignment. AWS is new for him."
+2025-08-23,,,,,,,,,,
+2025-08-24,,,,,,,,,,
+2025-08-25,AWS,"1) EC2 associate level
+2) EC2 Instance Storage","1) Placement groups, ENI and Advanced concepts
+2) EBS, EBS snapshot and AMI
+3) EC2 instance store and EFS",,,,,,,
+2025-08-26,AWS,"1) ELB
+2) ASG","1) Classical load balancer, application load balancer
+2) network load balancer, elastic load balancer
+3) Auto Scaling Groups",,,,,,,
+2025-08-27,Holiday,,,,,,,,,
+2025-08-28,AWS,"1) RDS
+2) ElasticCache
+3) Route 53","1) Aurora, MySQL, PostgreSQL
+2) ElasticCache- Redis and MemCached
+3) Route 53",,"1) Learned about AWS' Aurora
+2) Replicas and multi AZ
+3) cache architecture
+3) different types of records in Route 53",,,,,
+2025-08-29,AWS,1) S3,"1) S3 security
+2) S3 versioning
+3) S3 replication
+4) S3 storage classes",,,,,,,"Learning AWS basic services, but as he is new in AWS, so doing hands on on all the services."
+2025-08-30,,,,,,,,,,
+2025-08-31,,,,,,,,,,
+2025-09-01,AWS,"1) S3
+2) CloudFront
+3) AWS global accelerator","1) S3 lifecycle rules, event notifications, performance
+2) S3 encryption, CORS, MFA, access logs
+3) S3 presigned urls, object lock, access points, oject lambda
+4) CloudFront and global accelerator",,,,,,,
+2025-09-02,AWS,"1) S3 Storage Extras
+2) Decoupling Applications","1) AWS snow family, gateway
+2) SQS, SNS",,,,,,,
+2025-09-03,AWS,"1) Decoupling Applications
+2) Containers","1) Kinesis and Data Firehose
+2) ECS and ECR",,,,,,,
+2025-09-04,AWS,"1) Containers
+2) Serverless","1) EKS and App Runner
+2) Lambda overview",,,,,,,
+2025-09-05,AWS,1) Lambda,"1) Lambda limits, concurrency
+2) Sanpshot and Lambda in VPC",,,,,,,"Explored S3, event based achirecture services, Data processing and Containerization."
+2025-09-06,,,,,,,,,,
+2025-09-07,,,,,,,,,,
+2025-09-08,AWS,"1) Serverless Tools
+2) Serverless architectures","1) DynamoDB, API Gateway
+2) Step functions and Cognito
+3) Todolist, myblog, microservices and software update architectures",,,,,,,
+2025-09-09,AWS,"1) Databases
+2) Data & Analysis
+3) Machine Learning","1) Learned about choosing the right database
+2) Learned different data handling and analytics tools
+3) Learned about Rekognition, transcribe, polly, translate and lex+connect",,,,,,,
+2025-09-10,leave,,,,,,,,,
+2025-09-11,AWS,"1) Machine Learning
+2) Monitoring and audit","1) Learned about SageMaker AI, Kendra, Personalized and Textract
+2) CloudWatch metrics, logs, agent and alarms
+3) EventBridge
+4) CloudTail",,,,,,,
+2025-09-12,AWS,"1) IAM advanced
+2) Security and Encryption","1) Organizations, advanced policies and resource based policy
+2) Identity center, directory services and control tower
+3) Encryption 101 and KMS",,,,,,,
+2025-09-13,,,,,,,,,,
+2025-09-14,,,,,,,,,,
+2025-09-15,Leave,,,,,,,,,
+2025-09-16,,,,,,,,,,
+2025-09-17,,,,,,,,,,
+2025-09-18,AWS,"1) Security and Encryption
+2) Networking","1) AWS secrets manager, ACM, WAF
+2) Sheild, GuardDuty, Inspector, Macie
+3) CIDR, Public and privare IP
+4) VPC overview",,,,,,,
+2025-09-19,AWS,1) Networking,"1) VPC, Subnets, IGW and route table
+2) Bastion host, NAT instances, NAT gateway
+3) NACL and security groups",,,,,,,
+2025-09-20,,,,,,,,,,
+2025-09-21,,,,,,,,,,
+2025-09-22,AWS,"1) Networking
+2) Disaster recovery","1) VPC peering, VPC endpoints and flow logs
+2) S2S connection, Direct connect, transit gateway and traffic mirroring
+3) IPv6 VPC, Engress only Internet gateway and firewall
+4) DMS, Backup, application migration service and VMware cloud on AWS",,,,,,,
+2025-09-23,AWS,"1) Architectures
+2) other services","1) Event processing, Caching stratergy, blocking IP
+2) HPC and EC2 high availability
+3) CloudFormation, SES, Pinpoint, SSM
+4) Outposts, Batch, AppFlow and Amplify",,,,,,,
+2025-09-24,,,,,,,,,,
+2025-09-25,,,,,,,,,,
+2025-09-26,,,,,,,,,,
+2025-09-27,,,,,,,,,,
+2025-09-28,,,,,,,,,,

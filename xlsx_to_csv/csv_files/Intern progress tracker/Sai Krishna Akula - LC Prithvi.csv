@@ -1,0 +1,82 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-09-03,Information & Security,"ISO/IEC 27001
+12:00  - 13:00  ISO
+14:00  - 17:45  ISO",Information Security,,"ISO27001 importance and security measures,scope,structure,audit,Toolkits",,,,,
+2025-09-04,Information Security,"10:00 - 13:30 ISO
+14:00 - 15:00 Git Basics
+15:00 - 16:00 Repository, Branches
+16:00 - 16:30 Git Commands
+16:45-17:00 Git merge Conflict
+17:00-18:00 Git Rebase, viewing history
+",Compting remaining modules in Infosec and starting git cmds,,Git basic commands and actions,,,,,
+2025-09-05,GIT Cmds,"10:00-11:00 Git Branching Strategy
+11:00-12:00 Git Commit
+12:00-13:30 Git Removing commit,squashing commit
+14:15-15:00 Git ammend commit
+15:00-16:00 Town Hall
+16:00-17:45 Hand on git commits
+17:50-18:30 Assignement-1",learning git cmds andworking on git cmds hands on,,"git squashing and 
+git ammend commit",,,,,
+2025-09-08,GitHub Actions Pipeline,"10:00-1:30 understanding workflow
+14:00-15:30 Github actions assignment
+15:45-16:15 Devops understanding
+16:20-18:00 installing docker and jenkis",completed github actions with assisgnment and started with install of docker and jenkis,,"github actions pipeline-runner,jobs,steps,test_case_runner_unit_testing",,,,,
+2025-09-09,Docker and Jenkis,"10:00-12:00 Docker Cmds
+12:00-13:30 Jenkis basics
+14:00-15:30 Assisgenment Devops Started with python
+16:00-17:45 Understanding Jenkis arckitecture and variables","Docker Container,DockerFile,Docker Hub,Jenkins and architecture and its UI",,,,,,,
+2025-09-10,Jenkis pipeline,"10:00-12:00 jenkis pipeline
+12:15-13:30 uninstall jenkins
+14:00-15:30 Resumed remaining part of Assisgnment
+15:45-16:15 install jenkins using war
+16:15-17:00 uninstall jenkins and install using wsl
+17:15-17:45 working on jenkis pipeline configuration
+17:45-18:15 creating webhook using ngork",Done  with assisgnment Jenkis with docker configuration,,,,,,,
+2025-09-11,"Documentation of assisgnment, 
+Python","10:00 -11:00 documentation
+11:15-13:30 revision devops models
+14:15-17:45 advanced python","advanced python-Lists,tuples,dict,sets,strings,collections,iterools,lambda,
+exception,shallow vs deep copying,decorators",,"collections,lambda,decorator,
+shallow vs deep copy",,,,,
+2025-09-12,"advanced python
+and 
+SQL","10:00-11:00 generator
+11:00-13:00 asterisk and function arguments
+14:00-15:00 sql connectivity
+15:15-16:30 Assignment on  sql and python
+16:45-17:30 python concepts like oops basic","assignment practice problem 1,3,4 done,python-sql connectivity
+ started with oops basics",,,,,,,
+2025-09-15,"Oops topics
+Web scraping","10:00-11:30 Abstraction,inheritance etc
+11:45-12:30 Assignment oops 
+12:45-13:30 web scraping-requests
+14:05-15:45 beautifulsoup basis
+16:00-17:30 Assignment on web scraping
+17:30-18:00 TDD assignemnt overview","assignment practice problem 2,5 done,
+python-oops concepts like Polymorphism,abstration,
+requests,beautifulsoup libraries",,,,,,,
+2025-09-16,"TDD and
+Flask basics","10:00-12:30 TDD  assignment
+13:00-14:00 Intern Meeting
+15:00-16:00 Testing part in TDD assignment
+16:15-18:00 Flask  basics
+",Flask basics,,,,,,,
+2025-09-17,Rest API and Orm sqlalchemy,"10:00-12:00 REST API  basics
+12:15-13:30 REST API using sql connector
+14:15-15:45 ORM sqlalchemy 
+16:00-17:45 RestAPI assignment orm sqlalchemy",REST API and orm Sqlalchemy working,,,,,,,
+2025-09-18,Rest API assignment,"10:00-12:00 adding endpoints for get data
+12:15-13:30 correcting errors
+14:00-15:00 adding endpoints for add data
+15:15:16:45 endpoints for update data
+17:00-17:45 correcting errors in delete data",Rest api assignement started ,,,,,,,
+2025-09-19,"Testing REST API and
+ pandas basics","10:00-11:30 REST API testing overview
+11:30-1:30 Rest API Assignement 
+14:15-17:45 Pandas basics DataFrames, Series, Indexing, Basic Operations",Testing flask endpoints and pandas basics,,,,,,,
+2025-09-24,ETL ,"10:00-11:00 Hands-on Pandas
+11:05-13:30 ETL assignment
+14:15-17:45 ETL assignement","ETL assignment , uses of pandas -applying 
+functions to extracte information from
+the table,Grouping and aggr functions on them",,,,,,,
+2025-09-24,,,,,,,,,,

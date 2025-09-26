@@ -1,0 +1,203 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-08-25,Information & Security,ISO/IEC 27001,ISO/IEC 27001,,"ISO27001 overview & structure, Scope & Statement of Applicability, Risk assessment & treatment, Mandatory documentation & audits, Tools & organizational support",,,He has gained good understanding of the concept.,Validated recall of the concept learnt,
+2025-08-26,Git & Github,"10:30 - 11:30 :- DevOps
+11:30 - 12:00 :- Lc Meet
+12:30 - 14:00 :- Git, Vs Code Installation and Exploration
+14:00 - 14:45 :- Lunch
+14-45 - 17:30 :- GIT basics, commands, branches, merges 
+17:30 - 19:30 :- GitHub","
+1- Learned Basic DevOps
+2- Done installation (Git, Gitbash, Vs Code)
+3- Learned Git and its commands
+4- Github",Stash,"Git & Github , Vscode",Stash,"Thanks for the feedback! 
+I’ll revise Git commands category-wise 
+and apply them in practical use cases.",Needs to revisit git commands and understand each one using case scenario.,,
+2025-08-27,Docker,"
+10:30 - 11:30 :- Installation of Docker
+11:30 - 12:00 :- Lc Meet
+12:30 – 18:30 :- Docker commands
+","1-	Learnt docker commands
+2-	Image pulling
+3-	Creating Containers
+
+",Creating Docker Images,Docker Commands and its use case,,,,Validated his learning on Docker.,
+2025-08-28,Git stash & Docker,"
+10:30 - 12:30 :- Git stash
+11:00 -11:30 :- LC Meeting
+11:30 - 15:30 :- Creating docker image
+15:30 - 16:30 :- Lunch
+16:30 - 18:30 :- Revised Docker
+","1- Learned Git Stash and its command usecases.
+2- Created Docker Image
+3- Revised Docker",,"
+1- Git Stash
+2- Docker Image",,,,,
+2025-08-29,Docker,"10:00 - 11:00 :- Revision
+11:00 - 11:45 :- LC Meet
+12:00 - 15:30 :- Hands on experience on Docker
+15:30 - 16:30 :- Lunch
+16:30 - 19:30 :- Docker commands and its practical usecases
+","
+1- Worked on docker images
+2- Created docker containers
+3- Practically used all the commands",,Hands on experience on Docker,,,,,
+2025-08-30,Weekend Holiday,,,,,,,,,
+2025-08-31,,,,,,,,,,
+2025-09-01,DevOps & CI CD Pipelines,"11:30 - 14:30 :- Building Docker Image
+14:30 - 15:30 :- Lunch
+16:30 : 16:30 :- LC meeting
+16:30 - 18:30 :- Devops
+18:30 - 20:00 :- CI/CD ","Build Docker Image
+Explored DevOps 
+CI/CD PIpeline",Jenkins,"DevOps
+CI/CD ",,,,,
+2025-09-02,Jenkins,"10:00 - 11:00 :- Revision
+11:00 - 11:30 :- LC Meet
+12:00 - 12:45 :- POSCH Meeting
+12:45 - 13:30 :- Setup Jenkins with Docker
+13:30 - 14:30 :- Lunch
+14:30 - 18:00 :- Explored Jenkins and created pipeline
+18:00 - 20:00 :- Assignment",Jenkins,Assignment,Jenkins,,,,,
+2025-09-03,DevOps Assignment,"10:00 - 11:00 :- Revision
+11:00 - 11:45 :- LC Meet
+12:00 - 19:00 :- DevOps Assignment",Done Assignment,,Jenkins,"I faced several challenges while automating Jenkins because my antivirus kept shutting down ngrok. After exploring multiple solutions, I was finally able to complete the assignment successfully.",,,,
+2025-09-04,Python,"10:00 - 11:00 :- Revision
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Python Fundamentals
+13:30 - 14:30 :- Lunch
+14:30 - 18:30 :- Data types, Loops
+","Learnt Python basic concepts, data types, Loops",,"Data types, Loops",,,,,
+2025-09-05,Python,"0:00 - 11:00 :- Revision
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Loops Questions
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- list,Set ,Dict","Solved some questions on (List, Set , Dict)",,"List, Set, Dict",,,,,
+2025-09-06,,,,,,,,,,
+2025-09-07,,,,,,,,,,
+2025-09-08,Python,"10:00 - 11:00 :- Python
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Git Action
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- Git Action Assignment",Explored Git Action and completed git action Assignment,,Git Action,,,,,Great progress in SQL that I have noticed and no hiccups found.
+2025-09-09,SQL,"10:00 - 11:00 :- SQL Basics
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Installation
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :-  Windows function, Cte, Joins
+",Cover basics of  SQL ,,"Schema, Table Structure, Windows function, CTE",,,Validated his understanding on the important SQL topic.,,
+2025-09-10,SQL,"10:00 - 11:00 :- Subquery
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- date functions
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :-  Advance SQL, Assignment 1
+",completed SQL concepts & SQL Assignment 1  done,,"Date functions, rank functions",,,,,
+2025-09-11,SQL,"10:00 - 11:00 :- SQL Leetcode practice
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :-  Assignment 2
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :-  Assignment 2
+",SQl 1st assignment completed so LC gave new assignment,,Completed both assignments,,,Showcased good problem solving skill using SQL,,
+2025-09-12,Python,"10:00 - 11:00 :- Python basics
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Loops
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- OOPs",Done with python basics & OOPs concept,,"For Loop, While loop, Array, Inheritance , Polymorphism, Abstraction, encapsulation",,,,,
+2025-09-13,,,,,,,,,,
+2025-09-14,,,,,,,,,,
+2025-09-15,Python,"10:00 - 11:00 :- Solved Python assignment
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Advance Python
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- Pandas, Assignment (ETL)",Done pandas and solved ETL assignment ,,"Series, DataFrame, Data Cleaning, pandas commands",,,,,
+2025-09-16,Python,"10:00 - 11:00 :- OOPs
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- Unit Testing Assignment
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- Lambda , Array",Completed OOPs concept and Unit Testing Assignment,,"Unit Testing, Array, Lambda Function",,,,,
+2025-09-17,Python,"10:00 - 11:00 :- GFG questions 
+11:00 - 11:45 :- LC Meet
+12:00 - 13:30 :- File Handling concepts
+13:30 - 14:30 :- Lunch
+14:30 - 19:30 :- file handling ques, Functional Programming
+","Solved File Handling ques on GFG, Functional programming,",,File Handling and Functional programming,,,,,
+2025-09-18,Python,"10:00 - 11:00 :- GFG questions 
+11:00 - 14:00 :- Recursion, Functions
+14:00 - 15:00 :- Lunch
+15:00 - 18:00 :- Python Custom Assignment
+","Recursion, Custom assignment",,Completed recursion and solved 50% custom assignment questions.,,,,,
+2025-09-19,Pyhton,"10:00 - 11:00 :- GFG questions 
+11:00 - 14:00 :- Completed Custom assignment
+14:00 - 15:00 :- Lunch
+15:00 - 18:00 :- Practices questions on OOPs",Completed Custom python assignment,,,,,,,
+2025-09-20,,,,,,,,,,
+2025-09-21,,,,,,,,,,
+2025-09-22,Python,"10:00 - 11:00 :- Practice python questions
+11:00 - 11:40 :- LC Meet
+12:00 - 14:00 :- Created API Endpoint
+14:00 - 15:00 :- Lunch
+15:00 - 19:30 :- solved Python data manipulation problem",Completed python assignment,,"Created API, Endpoint",,,,,
+2025-09-23,Power BI,"10:00 - 11:00 :- Power Bi basics
+11:00 - 11:40 :- LC Meet
+12:00 - 14:00 :- Data transformation
+14:00 - 15:00 :- Lunch
+15:00 - 19:30 :- DAX, Expolored various charts , Slicers","Learnt Power BI , Done data transforamtion and created a sample dashboard",,"Power Bi, Data transformation, DAX, Various Charts, Slicers, Modeling, Visualization",,,,,
+2025-09-24,Power BI,"10:00 - 11:00 :- Model View
+11:00 - 11:40 :- LC Meet
+12:00 - 14:00 :- Snowflake
+14:00 - 15:00 :- Lunch
+15:00 - 19:30 :- Completed Power Bi assignment","Explored Snowflake, Upload data on snowflake for power bi assignment, Fetch data from snowflake to power bi, Completed power bi assignment",,"Snowflake, Model View",,,,,
+2025-09-25,,,,,,,,,,
+2025-09-26,,,,,,,,,,
+2025-09-27,,,,,,,,,,
+2025-09-28,,,,,,,,,,
+2025-09-29,,,,,,,,,,
+2025-09-30,,,,,,,,,,
+2025-10-01,,,,,,,,,,
+2025-10-02,,,,,,,,,,
+2025-10-03,,,,,,,,,,
+2025-10-04,,,,,,,,,,
+2025-10-05,,,,,,,,,,
+2025-10-06,,,,,,,,,,
+2025-10-07,,,,,,,,,,
+2025-10-08,,,,,,,,,,
+2025-10-09,,,,,,,,,,
+2025-10-10,,,,,,,,,,
+2025-10-11,,,,,,,,,,
+2025-10-12,,,,,,,,,,
+2025-10-13,,,,,,,,,,
+2025-10-14,,,,,,,,,,
+2025-10-15,,,,,,,,,,
+2025-10-16,,,,,,,,,,
+2025-10-17,,,,,,,,,,
+2025-10-18,,,,,,,,,,
+2025-10-19,,,,,,,,,,
+2025-10-20,,,,,,,,,,
+2025-10-21,,,,,,,,,,
+2025-10-22,,,,,,,,,,
+2025-10-23,,,,,,,,,,
+2025-10-24,,,,,,,,,,
+2025-10-25,,,,,,,,,,
+2025-10-26,,,,,,,,,,
+2025-10-27,,,,,,,,,,
+2025-10-28,,,,,,,,,,
+2025-10-29,,,,,,,,,,
+2025-10-30,,,,,,,,,,
+2025-10-31,,,,,,,,,,
+2025-11-01,,,,,,,,,,
+2025-11-02,,,,,,,,,,
+2025-11-03,,,,,,,,,,
+2025-11-04,,,,,,,,,,
+2025-11-05,,,,,,,,,,
+2025-11-06,,,,,,,,,,
+2025-11-07,,,,,,,,,,
+2025-11-08,,,,,,,,,,
+2025-11-09,,,,,,,,,,
+2025-11-10,,,,,,,,,,
+2025-11-11,,,,,,,,,,
+2025-11-12,,,,,,,,,,
+2025-11-13,,,,,,,,,,
+2025-11-14,,,,,,,,,,
+2025-11-15,,,,,,,,,,
+2025-11-16,,,,,,,,,,
+2025-11-17,,,,,,,,,,
+2025-11-18,,,,,,,,,,

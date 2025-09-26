@@ -1,0 +1,168 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+21/07/2025,Information Security,"12:00 PM - 1:00 PM ISO
+2:00 PM - 5:00 PM ISO",Security Standards,,ISO27001,,,,,
+22/07/2025,ISO27002                                Git Basics,"10:30 - 14:00  ISO 
+14:00 - 14:30  lunch
+14:30 - 15:30  GIT basics, commands, branches,  merges  
+15:30 - 16:30  merge conflicts and rebasing
+",1. Completed ISO                         2.Learnt GIT basics,,1.Squashing                           2.Merge Conflict                  3.Rebasing,,,,,
+23/07/2025,Git Assignment                                     ,"10:00 - 11:30   Git Assignment 1  
+11:30 - 13:30   Git Assignment2
+12:30 - 12:45   Meet with LC  
+13:30 - 14:00   Lunch  
+14:00 - 17:00   Jenkins and Docker Installation                                                         ","1.Git assignment 1 and 2  2.What is DevOps?
+3.CI/CD, IaC
+4.What are CD pipelines
+5.What is Jenkins?
+6.Installation of chocolatey and jenkins           ",,"CI/CD pipeline , Jenkins",,,,,
+24/07/2025,Jenkins ,"10:00 - 12:30  Jenkins build job and pipeline
+12:30 - 12:45  Meet with LC
+12:45 - 13:30  Jenkinsfile
+13:30 - 14:00  Lunch
+14:00 - 16:00  Docker Commands 
+16:00 - 17:00  Webhooks","1.Jenkins build job
+2.How to make jekins pipeline
+3.Jenkinsfile
+4.learnt basic docker command                                        5. created webhook",,"Pipelines, Jenkins job, Jenkins file, docker commands, webhook",,,,,
+25/07/2025,Docker,"10:00 - 11:30 Revision
+11:30 - 12:00 Docker Container
+12:00 - 14:30 Docker Hub
+14:30 - 15:00 Lunch
+15:00 - 17:00 CI/CD Assignment
+17:00 - 18:00 Revision","1. Docker Container                   2. DockerFile
+3.  Docker Hub
+4. Assignment",,"Dockerfile, Using jenkins to build docker container ",,,,,
+28/07/2025,Python,"10:00 - 11:30 Revision of Docker
+11:30 - 12:00  Docker Volume,Docker Network
+12:00 - 12:20 Meet with LC
+12:30 - 14:00 Python Basic
+14:00 - 14:30  Lunch
+15:30 - 18:00  Strings, Functions, ","                                                          1. Docker                                     2. Docker Volume
+3.  Docker Network
+4. Python Basic : Datatypes,Operators, Input and Output, Control Statements                                      5.String Manipulation                                 6. Functions, Global and Local Variable
+",,"Docker Volume, Network  lamda function, Membership and Identity operator",,,,,
+29/07/2025,Python,"10:00 - 11:30 Functions
+11:30 - 12:30  List
+12:30 - 13:00 Meet with LC
+13:00 - 14:00  Aws account Creation
+14:00 - 16:00  Tuple, Set
+16:00 - 17:00  Dictionary","1. Differnt types of functions 2.List, List Methods, List comprehensation                        3. Aws Account                            4. Tuple methods, set operations                                         5.Dictionary, Methods, Nested Dictionary",,"List Comprehensation, Nested Dictionary",,,,,
+30/07/2025,Python,"10:00 - 10:30 Revision
+10:30 - 13:00  OOPS
+13:00 - 14:00  Lunch
+14:00 - 15:00  Linked List
+15:00 - 18:00  Stack and Queues
+","1. Class, objects, Inheritance, ABC                      2. Class and Instance variable                                                                    3.Linked List                     4.Stack                            5.Queues",,"ABC, Map function, Linked in, Stack, Queue Operations ",,,,,
+31/07/2025,Python,"10:00 - 11:30 Assignment Questions
+11:30 - 13:00  map, Generators, Numpy , Arrays
+13:00 - 14:00  Lunch
+14:00 - 15:00  Database Connectivity
+15:00 - 18:00  Assignment Q.1
+","1. Solved assignment questions 2,3,4,,5,6,7,8,10      2.Practiced Numpy arrays, map and generators yeild 3.Data Base Connectivity with python                            4.My SQL connector                5.Sql injection                               6.Executed insert,delete,update and create sql command with python ",,"Database Connectivity,SQl injection, Generators, Map function",,,,,
+2025-01-08 00:00:00,Python,"10:00 - 11:30 File Handling
+11:30 - 13:00  Unit Testing
+13:00 - 14:00  Lunch
+14:00 - 15:00  Unit Testing assignment 
+15:00 - 18:00  Flask
+","1.Open,read , write append file                                            2.Pytest practice                    3.Using Unittest                  4.Hello world app            5.Routing  ",,"Routing , Untitesting",,,,,
+2025-04-08 00:00:00,Flask,"10:00 - 11:30  Redirect, Render, Variable
+11:30 - 13:00  Restful apis
+13:00 - 14:00  Lunch
+14:00 - 15:00  Connecting Flask with MySql
+15:00 - 18:00  Form handling
+","1.Rendering html content       2.Using route variables             3. using add_url_path, redirect, url_for                         4. Restfull api get,put & post    5. Getting  data from form",,"Render html content, jinja ,Form handling , Using sql to save form content",,,,,
+2025-05-08 00:00:00,Flask,"10:00 - 11:30  Flask Assignment
+11:30 - 13:00  Mocking
+13:00 - 14:00  Lunch
+14:00 - 14:30  Meet with LC
+14:30 - 18:00  Pandas
+",1.Completed with north wind api                                         2.Moking                                  3.Pandas                   4.Cleaning the data       5.Data Extraction,,"Api creation, Using POST man ,  Reading data from different files using pandas",,,,,
+2025-06-08 00:00:00,Pandas,"10:00 - 11:30  Sorting, Filtering and Slicing
+11:30 - 13:00  Aggregations
+13:00 - 14:00  Lunch
+14:00 - 15:30  Merging, Joining and Concatenation
+15:30 - 18:00  ETL job assignment q 1,2,3
+","1.Indexing, Slicing ,Dataframes vs Series                                     2.Group by and aggregations 4.Concatenation                                  5.ETL Job asignment",,"Cleaning data, handling null values,Slicing ",,,,,
+2025-07-08 00:00:00,Python,"10:00 - 11:30  Remaining ETL job assignment
+11:30 - 13:00  Xlxs to CSV converter
+13:00 - 14:00  Lunch                                      14:00-14:30 Meet with LC
+14:30 - 16:00  LeetCode - 1678, 1436, 1365
+16:00 - 18:00  LeetCode - 704, 409, 169,  27
+","1. Remaining ETL job assignment                                 2. Xlxs to csv converter                 3. Assignment 9,11            4.OS and SYS module                               5.Solving leet code questions on list and strings",,"Os and Sys module, argv",,,,,
+2025-08-08 00:00:00,Python,"10:00 - 11:30 LeetCode -    217, 242, 1, 49                                                            11:30 - 13:00  LeetCode - 347,238
+13:00 - 14:00  Lunch
+14:00 - 16:30 Assignment -DataManipulation Problem
+16:30 - 18:00 Assignment- SQL information extraction
+","1.Solve leet Code problems on Arrays, List, Tuples, Dictionary                                                 2.Completed DataManipulation assignment                                    3.How to read sql from pandas   ",,Reading SQL information using pandas,,,,,
+2025-11-08 00:00:00,SQL,"10:00 - 11:30 RDBMS, SQL datatypes,DDL commands                            11:30 - 13:00 DML Commands                                13:00-14:00 Lunch                     14:00-16:00 Integrity Constraints, Order By                                                            16:00-17:15 Intern Touch Point17:30-18:00 sql bootcamp  assignment ","1.Databases , DBMS, RDBMS                                              2. Installed Mysql and postgre sql                                             3.Practiced Basic Sql commands                                     4. Primary key, Foreign Key, Null Constraints                                         5.Completed bootcamp assignment 1, 2",,,,,,,
+2025-12-08 00:00:00,SQL,"10:00 - 11:30 Aggregate functions, Group by                                                         11:30 - 13:00 Asssigment 1 Q - 1,2,3                                13:00-14:00 Lunch                              14:00-16:00 Views,  JOINS                                                        16:00-17:00 LeetCode                    17:00-18:00 Subqueries",1.SQL GROUP Functions - Aggregate                                              2.Having Clause                     3.Completed Assignment 1 - 3questions                          4.How to create views                                                 5.Joins                                                6.Subqueries,,"Self JOIN , UNION , UNION ALL",Assiginemt q no.3,,,,
+13/8/2025,SQL,10:00 - 11:30 CTE                                                     11:30 - 13:00 String Functions and operators                                                        13:00-14:00 Lunch                              14:00-16:00  Assignment 1 q4-7                                                  16:00-17:00 Leetcode                   17:00-18:00 Revision,1.CTE                                                2.String Functions                        3.Solved assignment questions                                                                  4.Practiced LeetCode,,"CTE, String Functions",Assiginemt q no. 8,,,,
+14/8/2025,SQL,"10:00 - 11:30 Window Functions           11:30-1:30 Assignment questions 8,9                                                         2:30-3:00 Meet WIth LC                             3:00-5:00 Stored Procedures                  5:00-6:00 Assignment Question 10","1. Practiced Window function                                           2.Partition By                                   3.Order By                       4.Assignment                               5.Stored Procedures, View ",,"Window Functions,Stored procedures",Assignment q no 10,,,,
+18/08/2025,SQL,10:00 - 11:30 Triggers  and Window Function                                                       11:30-1:30 Assignment 2                                01:30-2:30 Lunch                                                        2:30-3:00 Meet WIth LC                             3:00-5:00 Assignment 2                                5:00-6:00 Leet Code ,Completed Assignment 2        Solved leetcode Questions,,,,,,,
+19/08/2025,Power BI,10:00 - 11:30  Power BI Installation and Set up                                                    11:30-1:30  Loading different types of data                                                                     01:30-2:30 Lunch                                                         2:30-3:00 Meet WIth LC                             3:00-5:00   Power Query Editor                             ,Power BI Desktop                        Load and Transform data          Handling data with Power Query Editor,,,,,,,
+20/08/2025,Power BI,10:00 - 11:30  Data Modeling Concept                                                 11:30-1:30  Report  Visualization                                                             01:30-2:30 Lunch                                                         2:30-3:00 Meet WIth LC                             3:00-5:00   Creating Dash Boards                           ,Data View                                         Model View                                      Report View                            Creating Relationship                               Differnt Visualizations                                Created DashBoard,,Modeling,,,,,
+21/08/2025,Power BI,10:00 - 11:30  DAX                                             11:30-1:30  KPI and Cards                                                             01:30-2:30 Lunch                                                         2:30-3:00 Meet WIth LC                             3:00-5:00  Assignment                        ,Aggregation Functions                  Filter Functions                              Time Functions                               DAX measures and columns                Creating KPI and Cards                                                   ,,,"DAX queries,KPI",,,,
+22/08/2025,Power BI,10:00 - 11:30  SQL assignment                                          11:30-1:30  Power BI assignment                                                            01:30-2:30 Lunch                                                         2:30-3:00 Meet WIth LC                             3:00-5:00  Power BI  Services and Creating Dashboard                       ,Completed Power BI assignment                                               Practiced creating dashboard                        publishing dashboard,Sql Assignment,Creating Interactive dashboard,,,,,
+25/08/2025,Power BI,10:00 - 11:30  SQL assignment                                          11:30-1:30  SQL leetcode question                                                            01:30-2:30 Lunch                                                         2:30-3:00 Meet WIth LC                             3:00-6:00 Pyspark Basics  and Pyspark installation                       ,Completed SQL assignment  Practiced for mock test             Installed Pyspark in Jupyter Notebook                                                   Introduction to pyspark,,,Pyspark,,,,
+26/08/2025,Pyspark,10:00 - 11:30 Pyspark Architecture    11:30-1:30 Working with Data Bricks      01:30-2:00 Lunch                                 2:00-2:30 Meet WIth LC                          2:30-5:00 Basic Data Operation,Data  Bricks Account Creation Loading data into databricks                            Loading different types of data using pyspark                                  Column Operation        Custom schema,,Data Operations using Pyspark,,,,,
+28/08/2025,Pyspark,"10:00 - 11:30 Data Cleaning and Null Handaling                                              11:30-1:30 Transformation, filtering and Selection                                          01:30-2:00 Lunch                                 2:00-3:30  Joins,  Pivot , sorting, Group By                                                      3:30-5:00 Window Functions","1.Datacleaning handling null     2.withColumn, Select, Filter, Contitional Transformation 3.Joins, Groupby, sorting                     4.Rank, Densrank, Row_number",,,,,,,
+29/08/2025,Pyspark,10:00 - 11:30  RDDs                                            11:30-1:00 Spark SQl                                           01:00-2:00 Lunch                                 2:00-3:30 Partitioning & Shuffling                                                   3:30-6:00 Pyspark assignment,"1.Map, Flatmap,reducebykey                              2.Spark SQL                                   3.repartition() ,coalesce() 4.Loading Parquet file",,partition  and repartition,Loading Multiple parquet files,,,,
+2025-01-09 00:00:00,Pyspark,"10:00 - 11:30  Pyspark revision                                           11:30-1:00  Loading parquet file to coloab                                                               01:00-2:00 Lunch                                 2:00-3:30 Assignment question 1,2,3                                                   3:30-6:00 Assignment question 4,5,6","1.Revised concepts of pyspark                             2.Loadinng  the six spark exercise dataset                        3.Solved Assignment question 1-3                          4.Solved q4,5",Assignment q6,Loading parquet files,,,,,
+2025-02-09 00:00:00,Pyspark,10:00 - 11:00 Pyspark Assignment 11:00-12:00  AWS account creation     12:00-12:30 POSH session                 12:30-1:30 AWS CLI set up                          1:30-2:30 Lunch                                                                                 2:00-3:30 Mock Test                                3:30-5:00 Leet Code ,1.Completed Spark Assignment                                                        2.Created AWS Account      3.AWS CLI set up                                       4.Attended Mock test from LC                                            5.Solved Leetcode Question on SQL ,,,,,,,
+2025-03-09 00:00:00,AWS,"10:00 - 11:30 IAM                                           11:30-1:30  IAM Policy, Roles, Security Tools                                                          01:30-2:30 Lunch                                 2:30-2:45 Meet with LC                                2:45-3:30 AWS CLI and Cloud shell                                                  3:30-6:00 Installation of Jenkins on EC2","1.IAM Users and Groups          2.AWS CLI setup                           3.Creating Policies, MFA          4. Installation and set up AWS CLI                                            5.Uploading files and Using Linux commands in Cloud Shell                                                             6.Installing Jenkins on EC2 instance",,"AWS CLI, IAM, MFA",,,,,
+2025-04-09 00:00:00,AWS,10:00 - 11:30 EC2 Fundamentals                                                 11:30-1:30 EC2 instance as web server                                                                  01:30-2:30 Lunch                                   2:30-2:45 Meet with LC                                 2:45-3:30 Security Groups                                                       3:30-5:00 SSH using windows,1.AWS budget setup                  2.Creating an EC2 instance     3.Creating webserver using httpd                                                              4.Creating Security groups                                               5. Connecting EC2 instance using putty and RDC,,"Budget Setup, HTTPD, Security Groups",,,,,
+2025-05-09 00:00:00,AWS,10:00 - 11:30 EC2 Placement Groups  11:30-1:30 Elastic Network Interface  01:30-2:30 Lunch                                         2:30-2:45 Meet with LC                           2:45-4:00 Townhall Meeting                                                 4:00-6:00 EBS,1. Creating AMI                              2.Creating Placement Groups                                        3.Taking snapshot              4.Using Elastic Ip                                        5.Elastic Block Storage,,,,,,,
+2025-08-09 00:00:00,AWS,10:00 - 11:30 EFS                                         11:30-1:30 Load Balancing                01:30-2:30 Lunch                                         2:30-2:45 Meet with LC                           2:45-5:00 Application and Network Loadbalancing                                                 5:00-6:00 AutoScaling Groups,1.Hands on on EFS                      2.Classic Load balancing        3. Application load balancing                                                                     4.Creating Target Groups                                               5.Network LoadBalancing      ,AutoScaling Groups,1.EFS                                          2.LoadBalancing          ,,,,,
+2025-09-09 00:00:00,AWS,10:00 - 11:30 Auto Scaling Groups                                        11:30-1:30 RDS                                       01:30-2:30 Lunch                                         2:30-2:45 Meet with LC                           2:45-4:00  S3                                                4:00-6:00 S3,"1.Creating auto scale group   2. Scale In and Scale out          3.RDS - Aurora                        4.S3 Bucket creation                                5. Versioning                   6.Access Policies
+ 7. Host a website from s3
+ 8. Setup CRR",,,,,,,
+2025-10-09 00:00:00,AWS,"10:00 AM - 11:00 AM Introduction on VPC
+11:00 AM - 1:30 PM Subnet (Private and Public), CIDR Block                              1:30-2:30 Lunch                                                  2:30-2:45 Meet with LC
+3:00 PM - 4:30 PM Route Table
+4:30 PM - 5:30 PM Internet Gateway, Elastic IP","1. VPC
+2. Subnet (Private and Public)
+3. CIDR Block
+4. Route Table, Internet Gateway
+5. Elastic IP",,,,,,,
+2025-11-09 00:00:00,AWS,"10:00 AM - 11:00 AM Dynomo DB
+11:00 AM - 1:30 PM Cloud Watch                             1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 PM Cloud Watch
+4:30 PM - 5:30 PM Aws CLI","1.Creating table , Primary Key(partition key + Sort key) , Query and Scan                             2. Cloud watch basics, Metrics, alarms, Logs                              3. Creating VCP, subnets (private and public), Internetgateway using CLI",,,,,,,
+2025-12-09 00:00:00,AWS,"10:00 AM - 11:00 AM Serverless
+11:00 AM - 1:30 PM AWS lambda                             1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 PM BOTO 3
+4:30 PM - 5:30 PM SNS and SQS",1. Lambda functions                   2.Simple notification Service 3.SQS,BOTO3,,,,,,
+15/9/2025,Python and Sql revision,"10:00 AM - 11:00 AM Basic Python 
+11:00 AM - 1:30 PM Python Assignment revision                             1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 SQL practice
+4:30 PM - 5:30 PM Solving leetcode questions",1.Python revision                        2.SQL revision                                  3.Practiced leetcode questions,,,,,,,
+16/9/2025, Python and Sql,"10:00 AM - 1:00 AM Revision  
+1:00 PM-2:00 PM  Intern Catch Up                                               2:30-4:00 Evaluation test 
+4:00 PM - 5:00 PM ",Revising conceps of python and sql,,,,,,,
+17/9/2025,AWS ECS,"10:00 AM - 11:00 AM  ECS introduction 
+11:00 AM - 1:30 PM ECS hands on                              1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 SAM configuration
+4:30 PM - 5:30 PM Devops assignment","1.ECS, Creating cluster, Task defination, AWS fargate, adding service                               2.Using Ecs launched nginx    3.SAM installation                      4.SAM template",Devops assignment,,,,,,
+18/9/2025,Devops assignment,"10:00 AM - 1:30 PM Cloud formation                             1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 5:00 PM Devops assignment",1. Creating stacks                                                             2.Creating SAM template for assignment         3.Completed devops assignment,,,,,,,
+19/9/2025,AWS Cloud formation,"10:00 AM - 11:00 AM  Cloud formation hands on
+11:00 AM - 1:30 PM Cloud formation custom template                                   1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 RDS - mysql
+4:30 PM - 5:30  connecting rds to ec2",1.Deploy s3 and ec2 using template                                               2.Created template for EC2 + security groups                                    3.updating stack              4.Creating mysql db                   5.connecting sql with ec2 instance,,,,,,,
+22/9/2025,AWS CDK,"10:00 AM - 11:00 AM  CDK
+11:00 AM - 1:30 PM CDK hands On                                  1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00 PM - 4:30 IGW
+4:30 PM - 6:30  API Gateway","1.Installing CDK tookit              2.Created SNS,SQS and s3 bucket using cdk                       3.Internet gateway",,,,,,,
+23/9/2025,AWS assignment,"10:00 AM - 1:30 PM Creating Event rule, Lambda function and dynamo Db                                                                          1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00  - 5:30  API Creating Sam template ","1. Created event rule for ec2 instance state 
+ 
+2. Using lambda function added the record to dynamo dB
+(Instances id, state)
+ 
+3.Created SNS topic for Instances which state is pending
+ 
+4. For all above wrote a SAM temple ",,,Writing SAM Template,,,,
+24/9/2025,AWS assignment,"10:00 AM - 1:30 PM Assignmet -2                                                                 1:30 PM-2:30 PM  Lunch                                                2:30-2:45 Meet with LC
+3:00  - 5:30 PM   Assignment - 3","1. Step Function                     2.Step Function Hands on     3.Solved leetcode 197, 1661","Assignment 2,3",,,,,,
+25/9/2025,AWS Revision,"10:00 AM - 1:00 PM Assignmet -3                                                              1:00 PM-2:00 PM  Meet with LC                                               
+2:30  - 4:30 PM  Cloud Flont                         4:30PM - 5:30 PM Leetcode-python","1.Completed Assignment -3   2. Solved evaluation test questions - sql                                3.cloudfront basics, Cloudfront Edge location          4. Solved leetcode questions ",,,,,,,

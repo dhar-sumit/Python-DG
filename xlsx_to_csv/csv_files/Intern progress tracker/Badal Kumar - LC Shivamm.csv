@@ -1,0 +1,186 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-11-08 00:00:00,Information Security (ISO27001 Standards),"12:00 PM-01:00 PM ISO
+02:00 PM-05:00 PM ISO",Information Security Course,,"ISMS, ISO27001",,,,,
+2025-12-08 00:00:00,"ISO27002, GitHub","10:30 AM-01:00 PM ISO
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Lunch
+02:30 PM-03:30 PM Git basics, commands, branches
+03:30 PM-04:30 PM Git Repository, commit","1. Completed InfoSec
+2. Git- Basic
+3. Branching",,Alternate Git Commands,,,,,
+13/8/2025,Git,"10:00 AM-12:00 PM Merge Conflict, Rebase
+12:00 PM-01:00 PM Viewing history and squashing
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Lunch
+02:30 PM-04:00 PM GitHub Assignment-1
+04:00 PM-04:30 PM Break
+04:30 PM-05:30 PM Review Git Actions","1. Rebasing
+2. In-depth squashing
+3. More about Reflog, Revert
+4. Git Action",,"Git logs, Branching strategies",,,,,
+14/8/2025,"Git, Docker and its Basics","10:30 AM-01:00 PM Git remainings, Pull Request, .gitignore imp, Assignment-II
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-05:00 PM Docker - container, files and images","Writing a good readme file.
+How to merge and pull request on GitHub.
+Hands-on assignments (file reading, ignoring modules, .csv files).
+Docker images, files",,"Understanding of .gitignore
+Basic understanding of Docker files and containers",,,,,
+18/8/2025,Working and Installation: Docker,"10:30 AM-01:00 PM Docker installation, Port Binding, Env variables, pulling images
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:30 PM Troubleshooting, Creating network, merging","Port Binding (bind port for container).
+Pulling images and publishing to DockerHub.",,"Docker commands (list container/images, 
+creating network)",,,,,
+19/8/2025,"Docker: Volumes, Network, Login","10:00 AM-12:30 PM Data persistence with volume, volume commands, network
+12:30 PM-01:00 PM Wrap up Docker
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-05:00 PM DevOps basics, Lifecycle of DevOps, CI/CD","How to keep data permanent via volume.
+Logs & troubleshooting.
+DevOps basics (integration, deployment).",,"Data Persistency
+Code History (Docker)
+Lifecycle of DevOps",,,,,
+20/8/2025,DevOps: Basics & Jenkins,"10:00 AM-01:00 PM DevOps culture, CI/CD concepts
+01:00 PM-02:00 PM Lunch
+02:00 PM-05:00 PM Jenkins overview, pipelines, CI/CD demo","Understood DevOps culture.
+Difference: CI, CD, Deployment.
+Explored Jenkins as CI/CD tool.",,"DevOps culture, CI/CD workflow, Jenkins basics",,,,,
+21/8/2025,Jenkins: Final Understanding,"10:00 AM-01:00 PM Jenkins concepts, installation, manual deployment
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-06:00 PM Freestyle project (Python, Docker, Git)","Built end-to-end CI pipeline.
+Wrote Jenkinsfile (Pipeline as Code).
+Configured Jenkins with Docker agent.",,"Jenkinsfile scripted syntax (docker.image.inside),
+ Debugging CI pipeline logs",Faced persistent Docker pathing error on Windows requiring revisions,,,,
+22/8/2025,CI/CD Assignment & Documentation,"10:30 AM-01:00 PM Assignment completion
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-03:00 PM Debug
+03:00 PM-05:00 PM Revision","Configuring Docker file for Jenkins, Code
+ debugging, Assignment overview",,"Jenkinsfile, Webhooks",,,,,
+25/8/2025,Python: Basics and Datatypes,"10:30 AM-01:00 PM Variables & Datatypes
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-05:30 PM Strings & Functions","String Manipulation, Global & Local Variables",,"String slicing, concatenation, string methods",,,,,
+26/8/2025,"Python: List, Tuple, Set & Dict","10:00 AM-11:00 AM Loops
+11:00 AM-01:00 PM List & Tuple
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM Sets & Dict
+04:00 PM-05:00 PM Revision","Mutable vs Immutable.
+List comprehensions.
+Tuple methods, Set operations, Dictionary.",,"Practiced list comprehensions, Set operations 
+(union, intersection, difference). Dictionary basics.",,,,,
+28/8/2025,Python: Loops and Conditions,"10:00 AM-11:30 AM Conditional Expressions
+11:30 AM-01:00 PM Practice if-else
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-03:00 PM Loops (For, While)
+03:00 PM-04:30 PM Practice loops",Hands-on with loops and conditions.,,"Confidence in writing logic-based programs via 
+practice questions",,,,,
+29/8/2025,"Python: Function, Recursion, Project","10:30 AM-01:00 PM Functions & Recursion, Backtracking
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM Recursion problems",Function call & Backtracking,,,,,,,
+2025-01-09 00:00:00,"Python: File I/O, Intro to OOPs","10:30 AM-12:30 PM File handling
+12:30 PM-01:00 PM Break
+01:00 PM-02:00 PM File problems
+02:00 PM-03:00 PM Break
+03:00 PM-03:30 PM Meet LC
+03:30 PM-04:30 PM Intro to OOPs","File handling (open, read, write, append).
+Intro to OOPs (class, init).",,"File modes (r, w, a, rb, wb). Intro to OOP (self, class
+ & object basics).",,,,,
+2025-02-09 00:00:00,"Python: OOPs (Constructor, Destructor, Class)","10:00 AM-12:00 PM Classes, OOP pillars
+12:00 PM-01:00 PM POSH Session
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:30 PM Inheritance, Encapsulation","Destructor in Python, Encapsulation, Data binding 
+with init, private/protected vars",,"Destructor (del), Encapsulation (public, private,
+ protected).",,,,,
+2025-03-09 00:00:00,DevOps Revision & OOPs Pillars,"10:00 AM-01:00 PM DevOps revision (CI/CD assignments)
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM Polymorphism, Abstraction",,,,,,,,
+2025-04-09 00:00:00,"Advanced Python: Numpy, Pandas","10:00 AM-01:30 PM NumPy & Pandas (datasets, CSV→XLSX, SQL connection)
+01:30 PM-02:00 PM Meet LC
+02:00 PM-03:00 PM Break
+03:00 PM-05:00 PM Assignment","Practiced data analysis with NumPy & Pandas.
+Read CSV, converted to Excel.",,"Pandas DataFrame, CSV/Excel handling, Connecting  SQL databases",,,,,
+2025-05-09 00:00:00,"Python: API, Flask","10:00 AM-01:00 PM Flask CRUD (app→templates→SQLAlchemy DB→CRUD→deploy)
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-03:00 PM Revision
+03:00 PM-04:00 PM Meeting","Completed Flask CRUD + deployment. Attended 
+meeting.",,Flask workflow (minimal app → deployment).,,,,,
+2025-08-09 00:00:00,Python & SQL,"10:00 AM-01:00 PM SQL docs & practice
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM SQL practice
+04:00 PM-05:30 PM Python assignment","SQL documentation, practice queries. Python 
+assignment.",,"SQL basics (ordering, joins, group by, aggregates).",,,,,
+2025-09-09 00:00:00,SQL: Practice & Assignment,"10:00 AM-01:00 PM SQL practice (easy→hard)
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:30 PM SQL assignment
+04:30 PM-06:00 PM Jenkins-Docker config","Solved SQL assignment (GROUP BY, HAVING, JOINs).
+Configured Docker integration with Jenkins.",,"Advanced SQL (HAVING, nested queries). 
+Docker-Jenkins integration.",,,,,
+2025-10-09 00:00:00,Flask & SQL,"10:00 AM-01:00 PM Flask demo app
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-05:30 PM SQL assignment","Revised Flask (routes, templates, DB). Practiced 
+SQL joins, group by, nested queries.",,"Flask demo app, SQL advanced queries",,,,,
+2025-11-09 00:00:00,SQL Completion & Python Web App,"10:00 AM-01:00 PM Flask Notepad app, ETL code, SQL extraction
+01:00 PM-01:30 PM Break
+01:30 PM-02:30 PM Meet LC
+02:30 PM-05:00 PM Data manipulation + SQL assignment","Built Flask Notepad app (routes, forms).
+Wrote ETL job (SQL extract, Python transform, load).",,"ETL pipeline basics, Python data transformation",,,,,
+2025-12-09 00:00:00,SQL Completion & Python Web App,"10:00 AM-01:00 PM Flask Notepad app, ETL job, SQL extraction
+01:00 PM-01:30 PM Break
+01:30 PM-02:30 PM Meet LC
+02:30 PM-05:00 PM Data manipulation + SQL assignment","Flask Notepad app (routes, templates).
+ETL job (extract SQL, transform data, load).",,"ETL pipeline basics, Python scripting for data 
+manipulation",,,,,
+15/9/2025,PySpark and DSA,"10:00 AM-01:00 PM PySpark basics, Spark Ecosystem
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM DSA practice (Arrays, Strings, Hashing)
+04:00 PM-05:30 PM LeetCode DSA in Python","Watched Spark tutorial till Ecosystem.
+Understood Spark vs Hadoop.
+Practiced Arrays & Hashing.",,"Spark Ecosystem, Hadoop vs Spark comparison.",,,,,
+16/9/2025,PySpark and DSA,"10:00 AM-01:00 PM PySpark (DAG, Schema, Transformations, Notebook)
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM DSA (Recursion, Josephus)
+04:00 PM-05:30 PM LeetCode practice","Completed Spark tutorial till Data Transformation.
+Solved Josephus problem with recursion.",,"Spark DAG execution, 
+StructType schema in PySpark.",,,,,
+17/9/2025,PySpark: Data Transformation,"10:00 AM-01:00 PM Data Transformation with PySpark 
+01:00 PM-01:30 PM Meet LC										
+01:30 PM-02:30 PM Break										
+02:30 PM-04:00 PM PySpark Intermediate Level Transformations										
+04:00 PM-05:30 PM PySpark Advanced Level Functions""","Completed Data Transformation in PySpark (beginner → advanced)
+Explored advanced PySpark functions",,"Understood various transformation functions
+ and their chaining.
+Improved confidence in PySpark transformations",,,,,
+18/9/2025,PySpark: Window & UDFs + DSA,"10:00 AM-01:00 PM Window Functions in PySpark								
+01:00 PM-01:30 PM Meet LC										
+01:30 PM-02:30 PM Break										
+02:30 PM-04:00 PM User Defined Functions in PySpark										
+04:00 PM-05:30 PM Solved Spark assignment questions + DSA practice""","""Learned Window Functions in PySpark									
+Created and used UDFs										
+",,"Minor confusion in UDF syntax, resolved after
+ practice.
+""Applied PySpark transformations in assignments								
+Improved DSA problem-solving speed",,,,,
+19/9/2025,PySpark,"10:00 AM-01:00 PM Data Writing with PySpark, Data Writing Modes, Parquet File Format, Managed vs External Tables, SparkSQL
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM Practice & SparkSQL Queries
+04:00 PM-05:30 PM DSA Practice","Completed data writing modes, Parquet file format",,wrote some SparkSQL queries ,,,,,
+22/9/2025,PySpark: Assignment & Wrapping up,"10:00 AM-01:00 PM Gone throught the requirements of assignment
+01:00 PM-01:30 PM Meet LC
+01:30 PM-02:30 PM Break
+02:30 PM-04:00 PM Wrap-up & revise assignment","Completed PySpark assignment and wrapped up,",,"MD5 iterative hashing, SHA256 hashing,
+Duplicate checks",,,,,

@@ -1,0 +1,61 @@
+"How To Use This Roadmap Really Well : https://youtu.be/qqvYFlBJMSw
+
+","StartDate
+(Change whenever you start this roadmap)",2023-09-01 00:00:00,Unnamed: 3,Unnamed: 4,Email Id,upskillwithparikh@gmail.com,Unnamed: 7
+Must Read This Before Following This Roadmap!,Topic,Total Questions,Questions Done,,Status,Number of days,"Deadline 
+(Set According To Start Date)"
+Use This Roadmap On Laptop For Much Better User Experience,,,,,,,
+Basic DSA,,,,,,,
+"Most common questions asked by every company (product based or service based) or any startup. These are the basic things which every programmer should know. For every role in tech including software development, backend development, front-end development, full stack web development, data scientists etc., these questions can be asked. ",Arrays,5,5/5,5.0,Completed,2,2023-09-03 00:00:00
+,String,5,5/5,5.0,Completed,2,2023-09-05 00:00:00
+,2d Arrays,5,5/5,5.0,Completed,2,2023-09-07 00:00:00
+,Maps/Sets,5,5/5,5.0,Completed,2,2023-09-09 00:00:00
+,Two Pointers,4,4/4,4.0,Completed,2,2023-09-11 00:00:00
+,Basic Algorithms,6,6/6,6.0,Completed,3,2023-09-14 00:00:00
+,,,,,,,
+,Mixed Questions - 1,20,11/20,11.0,In Progress,8,2023-09-22 00:00:00
+,,,,,,,
+,Overall Basic DSA Progress,50,41/50,41.0,In Progress,,
+,,,,,,,
+,Revision/Break Days,,,,,3,
+,,,,,,,
+Intermediate DSA,,,,,,,
+"Asked by most of the product based companies or even small/big product based startups. Roles include software development, backend development, full stack web development, data scientists. Some big product companies like Amazon, Google, Microsoft can ask these for front-end development role as well.",Binary Search,5,0/5,0.0,Not Started,2,2023-09-27 00:00:00
+,Recursion Basics,5,0/5,0.0,Not Started,2,2023-09-29 00:00:00
+,Linked List,10,0/10,0.0,Not Started,4,2023-10-03 00:00:00
+,Stacks & Queues,10,0/10,0.0,Not Started,4,2023-10-07 00:00:00
+,Binary Trees & BST,15,0/15,0.0,Not Started,7,2023-10-14 00:00:00
+,,,,,,,
+,Mixed Questions - 2,30,0/30,0.0,Not Started,15,2023-10-29 00:00:00
+,,,,,,,
+,Overall Intermediate DSA Progress,75,0/75,0.0,Not Started,,
+,,,,,,,
+,Revision/Break Days,,,,,6,
+,,,,,,,
+Advanced DSA,,,,,,,
+"Mostly asked by Amazon, Microsoft, Google, Uber or other big product based companies. Some big startups like Zomato, Ola can also ask these questions. Roles include backend development, software development, full stack web development. Not much asked for front-end developer or data scientist roles.",Greedy Techniques,5,0/5,0.0,Not Started,3,2023-11-07 00:00:00
+,Tries,5,0/5,0.0,Not Started,3,2023-11-10 00:00:00
+,Silding Window & Dequeue,7,0/7,0.0,Not Started,4,2023-11-14 00:00:00
+,Priority Queues & Heaps,7,0/7,0.0,Not Started,4,2023-11-18 00:00:00
+,Advanced Recursion & Backtracking,8,0/8,0.0,Not Started,4,2023-11-22 00:00:00
+,Dynamic Programming,15,0/15,0.0,Not Started,8,2023-11-30 00:00:00
+,Graphs,13,0/13,0.0,Not Started,7,2023-12-07 00:00:00
+,,,,,,,
+,Mixed Questions - 3,40,0/40,0.0,Not Started,20,2023-12-27 00:00:00
+,,,,,,,
+,Overall Advanced DSA Progress,100,0/100,0.0,Not Started,,
+,,,,,,,
+,Revision/Break Days,,,,,10,
+,,,,,,,
+DSA Project,,,,,,,
+"This is a great DSA project as it includes solving the problem with the use of various data structures like trees, heaps, arrays etc. Also concepts of bits are used. This really gives us great feeling of applying data structures and algorithms. ",Huffman Coding,1,0/1,,False,,
+,,,,,,,
+Miscelleanous DSA,,,,,,,
+"Asked by companies like Codenation, DirectI, and sometimes Google which do very hard interviews related to DSA. Not asked in interviews of majorly other companies.",Bit Manipulation,7,0/7,0.0,Not Started,3,
+,String Algorithms,5,0/5,0.0,Not Started,3,
+,Segment Tree,6,0/6,0.0,Not Started,3,
+,Number Theory,5,0/5,0.0,Not Started,3,
+,DP With Trees,2,0/2,0.0,Not Started,2,
+,,25,0/25,0.0,Not Started,,
+,,,,,,,
+,OVERALL PROGRESS,251,41/251,,,,

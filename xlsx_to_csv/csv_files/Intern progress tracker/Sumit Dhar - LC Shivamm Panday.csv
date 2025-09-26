@@ -1,0 +1,61 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-09-03,Information Security (ISO27001),"12:00 PM – ISO/IEC 
+02:00 PM – ISMS 
+02:30 PM – Annex A, Certification 
+03:30 PM – Risk Management","Information Security Course completed: ISO/IEC 27001 & 27002, Annex A controls, Certification & benefits, Risk management, SoA overview",–,"ISO/IEC 27001:2022 Annex A controls, SoA, risk management process, certification requirements",,Learned how ISO27001 standard ensures structured ISMS implementation,,,
+2025-09-04,Docker Basics + Jenkins Setup,"10:00 AM – Install prerequisites (Java, Jenkins, Docker, Python, Git) 
+01:00 PM – Configure Jenkins locally 
+03:30 PM – Verify Docker integration","Installed Java (JDK17), Jenkins, Docker Desktop, Git, Python Verified Jenkins running on localhost:8080 Confirmed Docker working",–,"Installed Jenkins via Chocolatey, integrated Docker, basics of Jenkins dashboard setup",Faced issues in Docker installs (resolved by retries & PATH config),Excited to see Jenkins working locally for the first time,,,
+2025-09-05,Calculator App + Jenkins Pipeline,"10:00 AM – Create Python calculator app 12:00 PM – Write unit tests 
+02:00 PM – Create Dockerfile 
+04:00 PM – Integrate with Jenkins",Created calc.py and unit tests (unittest framework) Wrote Dockerfile to containerize app Configured Jenkins pipeline job (Checkout + Build),–,"Basics of Jenkins pipeline config, writing Jenkinsfile syntax, Dockerfile best practices",Initial builds failed due to Jenkinsfile misconfig & missing setup.py (fixed later),Learned importance of automation & error debugging in pipeline setup,,,
+2025-09-08,Jenkinsfile + GitHub Webhook,"10:00 AM – Finalize Jenkinsfile stages (Build, Test, Package) 
+01:00 PM – Setup GitHub repo 
+03:00 PM – Configure webhook",Added Jenkinsfile with stages: Checkout → Build → Test → Package Pushed project to GitHub Configured webhook using ngrok to trigger builds,–,"Webhooks, ngrok tunneling for localhost exposure, linking GitHub with Jenkins CI",Faced issues exposing Jenkins to GitHub → solved using ngrok free endpoint,First successful auto-triggered pipeline run from GitHub commit,,,
+2025-09-09,CI/CD End-to-End + Documentation,"10:00 AM – Run end-to-end pipeline 
+01:00 PM – Capture success/failure screenshots 
+03:00 PM – Document architecture diagram + report","Achieved successful end-to-end run: code push → Jenkins trigger → Docker build → tests → packaging Wrote full report, README.md, architecture diagram",–,"CI/CD runbook documentation, architecture diagrams, packaging artifacts in pipeline",Jenkins build failed initially due to wrong path (fixed after correction),Felt accomplished completing full CI pipeline with clear documentation,,,
+2025-09-10,GitHub Actions CI/CD,"10:00 AM – Create main.yml workflow 
+12:00 PM – Configure triggers & jobs 
+02:00 PM – Add linting, testing, caching 
+04:00 PM – Enable email notifications & update README","Created main.yml under .github/workflows Configured triggers (push, PR on main) Added steps: checkout → setup Python → install deps → flake8 → pytest Implemented caching + email notifications Updated README with status badge",–,"Triggers, jobs, steps in GitHub Actions; caching dependencies; email notification setup",No blockers – only minor delay in badge cache refresh,"Excited to compare GitHub Actions vs Jenkins, noticed simpler setup and instant GitHub-native integration",,,
+2025-09-11,Python Practice Programs (Part 1),"10:00 AM – Setup MySQL + Load Test DB 12:00 PM – Python MySQL Integration 
+02:00 PM – Query Optimization & Generator Use
+ 04:00 PM – Person, Male, Female Classes","Installed MySQL using Docker and loaded test DB from GitHub Used Python (mysql-connector-python) to connect, query, and process large datasets via generators Defined Person, Male, Female classes and explored abc module for abstract class implementation",–,"MySQL setup, Python-MySQL integration, generators for memory-efficient querying, abstract classes using abc, OOP inheritance",Faced issues importing test DB via GUI – resolved using CLI. Debugged generator scope in query loop,Learned how to optimize memory usage in data handling and grasped abstract class utility in enforcing method definitions,,,
+2025-09-12,Python Practice Programs (Part 2),"10:00 AM – Duplicates Removal Logic 
+12:00 PM – Generate 3D Arrays 
+02:00 PM – Binary Search + Divisible Generator 
+04:00 PM – Email Parsing + Lambda Map",Solved list duplicate removal while preserving order Generated 3D array using nested list comprehension Wrote binary search and a generator for numbers divisible by 5 & 7 Parsed company names from emails Used map() with lambda to square numbers,–,"Python set vs list behavior, nested comprehensions, binary search logic, generator usage, string manipulation, functional programming basics (map, lambda)","Initial confusion with list nesting in 3D array, fixed after restructuring; handled binary search edge cases",Felt more confident writing clean Python logic; functional and iterative approaches are clearer now,,,
+2025-09-15,Python Practice Programs (Part 3),"10:00 AM – dir_tree.py Recursive Traversal 01:00 PM – Reverse Iterator Class 
+03:00 PM – anti_html.py with Regex 
+04:30 PM – Code Cleanup + GitHub Push + Documentation",Created dir_tree.py using recursion to print directory structure Built ReverseIter custom iterator class Used requests + regex to strip HTML tags in anti_html.py Finalized and pushed all code + documentation to GitHub,–,"os module (listdir, isdir), custom iterator class (__iter__, __next__), regex for tag stripping, requests library, docstring usage",Regex parsing was tricky – basic tag removal works but not robust for nested tags,"Successfully wrapped up all 11 programs, applied multiple Python concepts, and improved real-world scripting confidence",,,
+2025-09-16,Python Unit Testing (Part 1 – Basics & Coverage),"10:00 AM – Setup pytest + coverage 
+12:00 PM – Write unit tests for general_example.py 
+02:00 PM – Implement TDD in tdd_example.py 04:00 PM – Run tests and generate coverage report","Installed pytest & pytest-cov, created tests for general_example.py with mocks, completed tdd_example.py functions, ran tests with pytest --cov, achieved 92% → debugged → fixed to 100% coverage",–,"pytest framework basics, pytest-cov usage, mocking with unittest.mock, coverage report analysis, debugging untested branches","Initial coverage stuck at 81% for tdd_example.py due to missing edge case tests, fixed by adding missing test paths",Learned how to systematically reach 100% coverage by analyzing term-missing output; TDD process made coding cleaner,,,
+2025-09-17,Python Unit Testing (Part 2 – AWS & Advanced Cases),"10:00 AM – DynamoDB unit tests with moto 12:00 PM – S3 unit tests 
+02:00 PM – Finalize all tests (12/12 pass) 04:00 PM – Documentation formatting (step-by-step format)","Wrote DynamoDB tests with moto mock, added S3 upload/download tests, ensured all 12 tests pass, achieved 100% coverage across all src files, documented assignment in step-by-step style",–,"moto library for AWS service mocking, boto3 testing, test structuring best practices, CI-ready pytest execution","Faced minor version mismatch with moto decorators (mock_dynamodb2 vs mock_aws), resolved after checking docs",Felt accomplished completing end-to-end testing assignment with full coverage ,,,
+2025-09-18,REST API – Customers CRUD,"10:00 AM – Setup Flask project 
+12:00 PM – Implement Customer model + schema 
+02:30 PM – Add controllers 
+04:30 PM – Test with Postman","Completed Flask project setup, added Customer model + Pydantic schema, implemented list, get, create, update, delete routes, tested all endpoints in Postman",–,"Flask blueprints, SQLAlchemy session usage (db.session.get), request validation with Pydantic",Faced JSON schema validation errors – resolved with Pydantic error details,"Learned how to build a structured REST API module with models, schemas, controllers",,,
+2025-09-19,REST API – Orders CRUD + Unit Testing,"10:00 AM – Implement Orders model + controllers 
+01:00 PM – Write pytest cases 
+03:00 PM – Add db fixtures 
+05:00 PM – Validate coverage","Implemented Order model & routes, wrote pytest cases for all CRUD ops, added SQLite in-memory fixture for isolation, achieved ~90% coverage initially",–,"Using pytest fixtures for test DB setup/teardown, mocking API requests with Flask test client",Accidentally modified real DB – fixed by switching to in-memory SQLite for tests,Understood importance of isolated test environments to prevent production data loss,,,
+2025-09-22,REST API – Products CRUD + Tests,"10:00 AM – Create Product model 
+12:00 PM – Add controllers 
+02:00 PM – Write tests 
+04:30 PM – Debug conflicts","Created Product model with attributes, implemented CRUD endpoints, wrote tests, fixed ID auto-generation conflict, all cases passing",–,"Handling primary key conflicts, ensuring consistent constraints across models",Only Products caused ID conflict – resolved by explicit key handling & schema adjustment,Gained deeper insight into maintaining consistency across related models,,,
+2025-09-23,REST API – Test Coverage Improvement,"10:00 AM – Run coverage reports 
+12:00 PM – Add missing edge case tests 
+02:30 PM – Verify 100% coverage 
+04:30 PM – Final cleanup","Analyzed coverage gaps in customers.py, added tests for validation errors, duplicate ID, missing customer, etc. Achieved 100% coverage for controllers",–,"Coverage analysis workflow, writing negative test cases for robustness",Initially missed edge paths (validation & conflict cases) – resolved by adding explicit tests,"Felt confident with test-driven approach, ensured complete reliability of API",,,
+2025-09-24,ETL Project – 2019 StackOverflow Survey Data,"10:00 AM – Design project structure_x000D_
+12:00 PM – Perform ETL (cleaning, transformation, aggregation)_x000D_
+03:00 PM – Solve Q1–Q6 (reports)_x000D_
+06:00 PM – Export CSV outputs & summary","Completed ETL pipeline in Jupyter notebook: handled missing values, normalized gender & countries, mapped continents, calculated Q1–Q6 (avg age first code, Python %, salaries by continent, desired language 2020, hobby coding report, job/career satisfaction). Exported results to CSV and generated final summary.",–,"Data cleaning (gender normalization, country→continent), mapping categorical satisfaction to numeric, generating grouped reports, structuring ETL pipeline","Faced repeated ""Other Country not found"" warnings in coco (fixed by dropping/replacing)",Learned how to structure an ETL pipeline with reusable steps and export clean reports,,,
+2025-09-25,Python Notepad Tracker (Full-stack Project),"10:00 AM – Set up project structure
+12:00 PM – Build file input UI & textarea editor
+02:00 PM – Implement autosave logic & backend file save
+04:00 PM – Add Git commit integration
+05:00 PM – Toast notification system & final polish","Built a Flask-based notepad web app with modular frontend/backend. Users can enter a path, open or create a file, edit content, and autosave with Git commit integration. Notifications show save status or errors. Clean, modular code with reusable helpers.",–,"File path validation, autosave debounce logic, GitPython usage for auto-commit, toast notification system, modular Flask routing, JS async fetch","Faced initial issues with Git repo detection in custom folders, fixed using search_parent_directories=True. Also handled empty paths and incorrect inputs with proper UX feedback.","Loved combining Python, JS, and Git into a real-world tool. Modular code and UX feedback make the app feel polished and usable. First time integrating Git commits automatically in a save operation.",,,

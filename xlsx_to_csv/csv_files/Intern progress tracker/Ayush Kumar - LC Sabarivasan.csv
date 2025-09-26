@@ -1,0 +1,462 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-07-07 00:00:00,ISO27001: Standards,11:30 - 2:00 Information Security  Course  2:30 - 5:00 Information Security Course,Information Security,,,,,,,
+2025-08-07 00:00:00,ISO27001: Standards,"11:00 -14:00 Information Security
+14:00 - 14:30 Lunch
+14:30 - 15:00 Version Control System
+15:00 - 15:30 Git Basics
+15:30 - 16:00 Repository, Branches
+16:00 - 16:30 Git Commands","1 Information Security
+2 Version Control System
+3 Git Basic
+4 Repository
+5 Branch",,,,,,,
+2025-09-07 00:00:00,GIT Assignment Pdf,"10:00 - 12:30 Git Repository, Branch, Commit
+12:30 - 14:30 Git - Merge, Merge Conflict
+14:30 - 15:00 Lunch
+15:00 - 16:30  Rebase, Viewing History
+16:30 - 17:30 Branching Strategy","1 Repository
+2 Branch
+3 Merge
+4 Merge Conflict
+6 Rebase
+7 Branching Strategy",,Merge Conflict,,,,,
+2025-10-07 00:00:00,GIT Assignment Pdf,"10:00 - 11:00   GIT - Commit 
+11:00 - 11:15  Disscuss with LC 
+11:15 - 11:20 Removing Commit
+11:20 - 11:30  Squashing Commit  
+11:30 - 11:45 Ammend Commit 
+11:45 - 14:30  GIT Assignment pt -1
+14:30 - 16:30 GIT Assignment pt -2","1 GIT - Commit 
+2 Squashing Commit
+3 Amending Commit
+4 Deleting Commit
+5 Assignment Part 1 ✅",,Squashing Commit,,,,,
+2025-11-07 00:00:00,Jenkins CI/CD,"10:00 - 11:00 GIT Assignment pt -2
+11:00 - 11:25 Call with the LC
+11:25 - 12:15 What is DevOps?
+12:15 - 13:00 What is Jenkins/Installation 
+13:00 - 14:00 What is CI/CD?
+14:00 - 14:30 Lunch
+14:30 - 15:30 How to create a CI/CD pipeline?
+15:30 - 18:00 Documentation","1 GIT Assignment 2 ✅
+2 What is DevOps
+3 What is Jenkins?
+4 What is CI/CD
+5 Documentation",,Continous Integration / Continous Deployment,,,,,
+13/7/2025,Jenkins CI/CD,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with the LC
+11:30 - 12:30 How to write a JenkinsFile
+12:30 - 14:30 Create a Jenkins pipeline
+14:30 - 15:00 Lunch
+15:00 - 17:00 What is Docker
+17:00 - 18:00 Revision","1 Jenkins File
+2 Pipeline Creation
+3 Docker",,,,,,,
+15/7/2025,CI/CD,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 13:30 Docker Commands
+13:30 - 14:00 Docker hub
+14:00 - 14:30 Lunch
+14:30 - 16:30 CI/CD Assignment
+16:30 - 18:00 Revision","1 Docker
+2 Assignment
+3 Docker Hub",,,,,,,
+16/7/2025,Docker,"10:00 - 11:30 Revision
+11:30 - 12:00 Call with the LC
+12:00 - 14:30 Docker
+14:30 - 15:00 Lunch
+15:00 - 17:00 Docker
+17:00 - 1800 Revision/Assignment","1 Docker
+2 Assignment ✅ 
+3 Docker Hub",,,Push the image to the Docker hub,,,,
+17/7/2025,Docker and SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 12:30 Databases
+12:30 - 13:30 Installation/SQL Fundamentals
+13:30 - 14:00 SELECT Statement
+14:00 - 14:30 Lunch
+14:30 - 15:00 DISTINCT
+15:00 - 16:30 WHERE, ORDER BY, LIKE, IN, BETWEEN, LIKE, LIMIT","1 SQL Basic
+2 SQL Fundamentals
+3 SELECT
+4 WHERE
+5 ORDER BY
+6 LIKE
+7 IN
+8 BETWEEN",,,,,,,
+18/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with the LC
+11:30 - 14:00 SQL Commands
+14:00 - 14:30 Lunch
+14:30 - 17:30 SQL Commands
+17:30 - 18:00 Revision","1 ILIKE
+2 GROUP BY
+3 AGGREGATE FUNCTION
+4 HAVING
+5 JOIN",,,,,,,
+21/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:00 Inner Join and Left Join
+13:00 - 14:00 Practice
+14:00 - 14:30 Lunch
+14:30 - 17:30 Right Join and Full Join
+17:30 - 18:00 Revision ","1 Practice 
+2 Inner Join
+3 Left Join
+4 Right Join",,,,,,,
+22/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:00 SQL Assignment 1 IC
+14:00 - 14:30 Lunch
+14:30 - 15:30 SQL Assignment 1 TH
+15:30 - 17:30 SQL Assignment 2 IC
+17:30 - 18:00 Revision","1) SQL Assignment 1
+2) SQL Assignment 2",,,,,,,
+23/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with the LC
+11:30 - 14:00 Window Function
+14:00 - 14:30 Lunch
+14:30 - 16:30 Window Function
+16:30 - 17:30 CTE
+17:30 - 18:00 Revision","1) Window Function
+2) Aggregate Function
+3) Rank Function
+4) CTE",,,,,,,
+24/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 14:00 Jenkins with Docker Agent
+14:00 - 14:30 Lunch
+14:30 - 15:30 Common Table Expression
+15:30 - 16:30 Standalone CTE
+16:30 - 17:30 Nested CTE
+17:30 - 18:00 Revision","1) CTE
+2) Standalone CTE
+3) Nested CTE
+4) Multiple CTE",,,,,,,
+25/7/2025,SQL,"10:00 -  11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 14:00 Views
+14:00 - 14:30 Lunch
+14:30 - 17:30 SQL Assignment
+17:30 - 18:00 Revision","1) Views
+2) SQL Assignment",,,,,,,
+28/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 14:00 SQL Assignment
+14:00 - 14:30 Lunch
+14:30 - 17:30 SQL Assignment
+17:30 - 18:00 Revision",SQL Assignment,,,,,,,
+29/7/2025,SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 14:00 SQL Assignment
+14:00 - 14:30 Lunch
+14:30 - 17:30 TCL, CTE vs View, Window Func
+17:30 - 18:00 Revision","1) SQLAssignment
+2) CTE vs View
+3) TCL
+4) Window Function",,,,,,,
+,,,,,,,,,,
+31/7/2025,Pyhton,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 12:30 Python Basics
+12:30 - 13:00 Python Data Types
+13:00 - 14:00 Python Variables, Operator, Conditional Statement
+14:00 - 14:30 Lunch
+14:30 - 15:00 Loops in Python
+15:00 - 16:00 Practice on hackerrank","1) Python Basics
+2) Python Datatypes
+3) Python Variables
+4) Python Operator
+5) Conditional Statement
+6) Loops in Python",,,,,,,
+2025-01-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 12:30 Python function
+12:30 - 13:30 Python *args, *kwargs and Self
+13:30 - 14:00 Python Map, Reduce and Filter
+14:00 - 14:30 Lunch
+14:30 - 15:00 First class and Innerfunction
+15:00 - 15:30 Decorator
+15:30 - 16:00 Iterator
+16:30 - 17:00 Generator
+17:00 - 17:30 Practice on hackerrank","1) Function
+2) Map 
+3) Filter
+4) Reduce
+5) Inner function
+6) Decorator
+7) Iterator
+8) Generator",,"1) Inner Function
+2) Decorator
+3) Generator",,,,,
+2025-04-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Discuss with LC
+11:30 - 12:30 List, Tuples
+12:30 - 13:30 Dictionary
+13:30 - 14:00 Set
+14:00 - 14:30 Lunch
+14:30 - 17:00 Data Structure
+17:00 - 18:00 Revision","1) List
+2) Tuples
+3) Dictionary
+4) Set
+5) DSA - Array
+6) DSA - String",,,,,,,
+2025-05-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 12:15 String Methods
+12:15 - 13:30 Merge Sort
+13:30 - 14:00 Lunch
+14:00 - 14:45 Quick Sort
+14:45 - 16:15 Linked List
+16:15 - 17:00 Stack","1) String Method
+2) Merge Sort
+3) Quick Sort
+4) Linked List
+5) Stack",,,,,,,
+2025-06-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 12:30 Queue
+12:30 - 14:00 Practice on Leetcode
+14:00 - 14:30 Lunch
+14:30 - 14:55 Pandas Introduction
+14:55 - 15:15 Pandas Data structure
+15:15 - 17:30 Different Pandas Function
+17:30 - 18:00 Revision  ","1) Queue
+2) Pandas - Series
+3) Pandas - Dataframe
+4) Pandas - creating, filtering, head(), tail()",,,,,,,
+2025-07-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:30 Python Pandas
+13:30 - 14:00 Practice on Leetcode
+14:00 - 14:30 Lunch
+14:30 - 15:00 Numpy Introduction
+15:00 - 17:30 Different Numpy Function
+17:30 - 18:00 Revision  ","1) Pandas
+2)Numpy",,,,,,,
+2025-08-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:30 File Handling, Exception Handleing
+13:30 - 14:00 Practice on Leetcode
+14:00 - 14:30 Lunch
+14:30 - 17:30 Python Assignment
+17:30 - 18:00 Revision  ","1) File Handling
+2) Exception Handling
+3) Assignment",,,,,,,
+2025-11-08 00:00:00,Flask,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:30 Python Web Scraping - beautifulsoup
+13:30 - 14:30 Python unittest library
+14:30 - 15:00 Lunch
+14:30 - 17:30 Flask Framework
+17:30 - 18:00 Revision  ","1) Web Scraping
+2) Unittest library
+3) creating a simple application with flask
+4) Flask Routes",,,,,,,
+2025-12-08 00:00:00,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:30 Python File Handling
+13:30 - 14:30 Python Exception Handling
+14:30 - 15:00 Lunch
+15:00 - 17:30 Generator, list method, dict method
+17:30 - 18:00 Revision  ","10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 13:30 Python File Handling
+13:30 - 14:30 Python Exception Handling
+14:30 - 15:00 Lunch
+15:00 - 17:30 Generator, list method, dict method
+17:30 - 18:00 Revision  ",,,,,,,
+13/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Python Assignment
+14:30 - 15:00 Lunch
+15:00 - 17:30 Generator, Iterator
+17:30 - 18:00 Revision  ","1) Assignment 1-5
+2) Generator
+3)Yeild Keyword",,,,,,,
+14/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Python Assignment
+14:30 - 15:00 Lunch
+15:00 - 17:30 Pandas Introduction
+17:30 - 18:00 Revision  ","1) Assignment 6 - 11
+2) Pandas info, head, tail
+3) Pandas loc",,,,,,,
+18/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Pandas Slicing
+14:30 - 15:00 Lunch
+15:00 - 17:30 Pandas Concat, merge, join
+17:30 - 18:00 Revision  ","1) Slicing
+2) Concat
+3) Merge
+4) Join
+",,,,,,,
+19/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Revisiting Generator, List methods, set methods, dict method
+14:30 - 15:00 Lunch
+15:00 - 17:30 Pandas 
+17:30 - 18:00 Revision  ","1)Generator
+2)Iterator
+3) Yeild Keyword
+4)List Methods
+5) Set Methods
+6)Dict Methods",,,,,,,
+20/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Pandas apply, applymap, map()
+14:30 - 15:00 Lunch
+15:00 - 17:30 Flask 
+17:30 - 18:00 Revision  ","1) Apply()
+2) ApplyMap()
+3) Map()
+4 Flask",,,,,,,
+21/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Sql Database connection with python
+14:30 - 15:00 Lunch
+15:00 - 15:15 ETL Question1
+15:15 - 15:40 ETL Question 2 
+15:50 - 16:10 ETL Question 3
+16:10 - 16:30 ETL Question 4
+16:30 - 17:30 Revision  ","1) SQL Database Python 
+2) ETL  Assigment",,,,,,,
+22/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 ETL Question 5,6
+14:30 - 15:00 Lunch
+15:00 -  16:30 Flask Assignment
+16:30 - 17:30 Revision  ","1) ETL Question
+2) Flask Assignment a",,,,,,,
+25/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Flask Assignment
+14:30 - 15:00 Lunch
+15:00 -  16:30 Flask Assignment
+16:30 - 17:30 Revision  ","1) Flask Assignment 1
+2) Flask Assignment 2
+3) Flask Assignment 3",,,,,,,
+26/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Testing in Python
+14:30 - 15:00 Lunch
+15:00 -  16:30 Testing in Python
+16:30 - 17:30 Revision  ",,,,,,,,
+28/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Flask Assignment
+14:30 - 15:00 Lunch
+15:00 -  16:30 Flask Assignment
+16:30 - 17:30 Revision  ","1) Flask Assignment 1
+2) Flask Assignment 2
+3) Flask Assignment 3
+4) Flask Assignment 4",,,,,,,
+29/8/2025,Python,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Notepad Tracker Assignment
+14:30 - 15:00 Lunch
+15:00 -  16:30 XLXS to CSV, SQL Extractor, Data Manipulation Assignment
+16:30 - 17:30 Revision  ","1) Notepad Tracker
+2) XLXS to CSV Assignment
+3) SQL Extractor
+4) Data Manipulation",,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+2025-03-09 00:00:00,Devops,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Github Revison
+14:30 - 15:00 Lunch
+15:00 -  16:30 DevOps Revison
+16:30 - 17:30 Revision  ",,,,,,,,
+2025-04-09 00:00:00,Spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Apache Spark, Pyspark
+14:30 - 15:00 Lunch
+15:00 -  16:30 Spark Introduction, Key Component
+16:30 - 17:30 Revision  ",,,,,,,,
+2025-05-09 00:00:00,Spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Feature and Why we use Pyspark
+14:30 - 15:00 Lunch
+15:00 -  16:30 Spark SQL, MLlib, advantages
+16:30 - 17:30 Revision  ",,,,,,,,
+2025-08-09 00:00:00,Spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 RDD
+14:30 - 15:00 Lunch
+15:00 -  16:30 Spark Context Broadcast and Accmulator
+16:30 - 17:30 Revision  ","1 RDD
+2 Spark Context
+3 Broadcast
+4 Accumulator",,,,,,,
+2025-09-09 00:00:00,spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Assignment 1,2
+14:30 - 15:00 Lunch
+15:00 -  16:30 Assignment 3,4
+16:30 - 17:30 Revision  ","1) Assignment 1
+2) Assignment 2
+3) Assignment 3
+4) Assignment 4",,,,,,,
+2025-10-09 00:00:00,Spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Assignment 4,5
+14:30 - 15:00 Lunch
+15:00 -  16:30 Assignment 6,7
+16:30 - 17:30 Revision  ","1) Assignment 4
+2) Assignment 5
+3) Assignment 6
+4) Assignment 7",,,,,,,
+,,,,,,,,,,
+2025-12-09 00:00:00,Spark,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Notepad Tracker Assignment
+14:30 - 15:00 Lunch
+15:00 -  16:30 Lazy Evaluation, Broadcast Join
+16:30 - 17:30 Revision  ","1) Note pad Tracker
+2) Lazy Evaluation
+3) Broadcast join",,,,,,,
+15/9/2025,Python & SQL,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Revison of Python
+14:30 - 15:00 Lunch
+15:00 -  16:30 Revison of SQL
+16:30 - 17:30 Revision  ",Revision,,,,,,,
+16/9/2025,Test,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Revison
+14:30 - 15:00 Lunch
+15:00 -  16:30 Test",,,,,,,,
+17/9/2025,Power BI,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Power BI Loading Data, Data Transform, Edit Query
+14:30 - 15:00 Lunch
+15:00 -  16:30 File merge, Joining and relationship
+16:30 - 17:30 Revision  ","1) Loading Data
+2) Data Transform
+3) Power BI Edit Query
+4)  File Merge
+5) Joining and relationship",,,,,,,
+18/9/2025,Power BI,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Power BI DAX Query
+14:30 - 15:00 Lunch
+15:00 -  16:30 Visualisation, Drill-down
+16:30 - 17:30 Revision  ","1) DAX QUERY
+2) Direct Query
+3) Visualisation
+4) Drill Down",,,,,,,
+22/9/2025,Power BI,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 Power BI Assignment
+14:30 - 15:00 Lunch
+15:00 -  16:30 Assignment
+16:30 - 17:30 Revision  ",Assignment,,,,,,,
+23/9/2025,AWS,"10:00 - 11:00 Revision
+11:00 - 11:30 Call with LC
+11:30 - 14:30 AWS IAM Users, Groups
+14:30 - 15:00 Lunch
+15:00 -  16:30 Create Policy and user group
+16:30 - 17:30 Revision  ",,,,,,,,

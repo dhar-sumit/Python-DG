@@ -1,0 +1,120 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-09-03,ISO27001: Standards,"11:30 - 13:30 - InfoSec Course
+13:30 - 14:30 - Lunch
+14:30 - 17:30 - InfoSec Course",Information Security,,"Importance of ISO27001
+Heartbleed, Poodle attacks
+Cryptography
+Compliance of Standards",,,,,
+2025-09-04,"ISO27001: Standards
+Git & GitHub","10:00 - 12:00 - InfoSec Course
+12:00 - 13:40 - Git Basics
+13:40 - 14:20 - Lunch
+14:20 - 15:00 - Repos, Branching
+15:00 - 17:30 - Git Commands
+17:30 - 18:00 - Branching Strategies
+18:00 - 18:30 - Squash, Amend Commits","1. Information Security
+2. Git Fundamentals
+3. Git Commands
+4. Branching Strategies
+5. Rebase, Squash, Amend commits",,"Rebase, Squash, Amend
+Branching Strategies",,,,,
+2025-09-05,Git Assignments,"09:30 - 10:00 - Revision
+10:00 - 11:30 - Hands On
+11:30 - 12:00 - Call With LC
+12:00 - 14:00 - Git Assignment 1
+14:00 - 15:00 - Lunch
+15:00 - 16:00 - Town Hall Meeting
+16:00 - 17:30 - Git Assignment 2","Git Assignment 1 ✔️
+Git Assignment 2 ✔️",,"Pull Requests
+Hands on with Git commands
+",,,,,
+2025-09-08,"Devops
+GitHub Actions
+Jenkins","10:00 - 12:00 - DevOps Intro
+12:00 - 13:30 - GitHub Actions Assignment
+13:30 - 14:30 - Lunch
+14:30 - 15:30 - GitHub Actions Assignment
+16:00 - 17:00 - Jenkins & Docker Setup","DevOps Intro
+GitHub Actions Assignment✔️
+Jenkins & Docker Setup",,"IaC (Infra as Code)
+GitHub Actions",,,,,
+2025-09-09,"Jenkins
+Docker","10:00 - 12:00 - Jenkins Basics
+12:00 - 13:30 - Docker Basics
+13:00 - 14:30 - Lunch
+14:30 - 15:30 - Jenkins-Docker Integration
+15:30 - 17:00 - Calculator-Pipeline
+17:00 - 18:00 - Revision","Jenkins & Docker Fundamentals
+Basic CI Pipelines",,"Jenkinsfile (groovy)
+Dockerfile
+Creating and building pipelines",Jenkins Windows Setup,,,,
+2025-09-10,Jenkins-Docker Assignment,"10:00 - 10:45 - AWS CloudFormation
+10:45 - 11:30 - Call With LC
+11:30 - 13:30 - DevOps Assignment
+13:00 - 14:30 - Lunch
+14:30 - 17:30 - DevOps Assignment",DevOps Assignment✔️,,"Webhooks
+Pushed image to DockerHub",,,,,
+2025-09-11,"Git detail concepts &
+Revision","10:00 - 11:30 - DevOps Assignment Documentation
+11:30 - 12:30 - Revision of Docker concepts
+12:30 - 13:00 - Docker Architecture & Commands
+13:30 - 14:30 - Lunch
+14:30 - 16:30 - Git Revision and Hands-on
+16:30 - 17:30 - Git new concepts","Revised Docker
+Learned new git concepts",,"Git Reflog, Revert
+Restoring lost commits",,,,,
+2025-09-12,"Jenkins, Docker, SQL","10:00 - 11:00 - Jenkins + Docker Revision
+11:00 - 11:30 - Some new git concepts
+12:45 - 13:15 - Call with LC
+13:15 - 14:00 - Lunch
+14:00 - 17:00 - Modifications in DevOps Assignment
+17:00 - 18:00 - MySQL Installation & Setup","Revised Jenkins & Docker
+Learned some new git concepts
+Pushing docker image from docker agent in Jenkins Pipeline
+SQL started",,"Git cherry-pick, subtree,
+submodule",Pushing docker image to dockerhub through docker agent,,,,
+2025-09-15,SQL,"10:00 - 12:00 - Modified DevOps Assignment
+12:00 - 13:15 - SQL Basics Brushup
+13:30 - 14:30 - Lunch
+14:30 - 18:00 - SQL Concepts","DevOps Assignment Modified✔️
+SQL Joins and types
+Case statements,
+Subqueries",,Case statements,,,,,
+2025-09-16,SQL,"10:30 - 13:00 - SQL Window Functions
+13:00 - 14:00 - Naveen Catchup with Interns
+14:00 - 15:00 - Lunch
+15:00 - 18:00 - SQL CTEs","SQL Window functions, CTEs
+",,Window functions and CTEs,,,,,
+2025-09-17,SQL,"10:00 - 14:00 - SQL Stored Procedures, Triggers, Events
+14:00 - 15:00 - Lunch
+15:00 - 18:00 - SQL Hands-on","Various SQL Concepts
+like triggers, events, functions,
+stored procedures",,"Triggers, Events",,,,,
+2025-09-18,SQL,"10:30 - 13:30 - SQL Assignment
+13:30 - 14:30 - Lunch
+14:30 - 18:00 - SQL Assignment","Completed 4 questions
+from the assignment",,,,,,,
+2025-09-19,SQL,"11:00 - 14:00 - SQL Indexes, Views
+14:00 - 15:00 - Lunch
+15:00 - 18:00 - SQL Hands-on","SQL concepts like views, 
+materialized views, indexes,
+temp tables",,Materialized views,,,,,
+2025-09-22,SQL,"10:30 - 13:30 - SQL Assignment
+13:30 - 14:30 - Lunch
+14:30 - 18:00 - SQL Assignment","Completed till question 8
+from the assignment",,,,,,,
+2025-09-23,SQL,"10:30 - 13:30 - SQL Assignment
+13:30 - 14:30 - Lunch
+14:30 - 18:00 - SQL Assignment","SQL Assignment-1 Completed✔️
+Alternate queries to achieve same results",,,,,,,
+2025-09-24,Python,"10:30 - 12:30 - Python Basics
+12:30 - 13:30 - Exception Handling
+13:30 - 14:30 - Lunch
+14:30 - 17:30 - Python with MySQL, Decorator functions","Python fundamentals
+exception handling
+decorator functions
+ Basic MySQL queries with Python",,,,,,,
+2025-09-25,Python,"10:30 - 11:30 - File Handling
+11:30 - 13:30 - OOPs
+13:30 - 14:30 - Lunch
+14:30 - 15:30 - ",,,,,,,,

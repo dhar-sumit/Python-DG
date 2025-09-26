@@ -1,0 +1,399 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+21/07/2025,Information Security,12:00 PM - 1:00 PM Information Security,Information Security,,,,,,,
+22/07/2025,"Information Security,Git ","Information Security, Git Basics",,,,,,,,
+23/07/2025,Git ,"12:30 -1:30 Git command 
+1:30 --2:30  Git Assignment 1
+2:30 - 3:00 Lunch 
+3:00 - 5:00 Git Assignment 2","Git command  complete
+Git Assignment 1 Complete
+Git Assignment 2 README file complete",,Merge Conflict,,,Commit messages cane be short and understandable as per the changes made.,,
+24/07/2025,Github Actions,"11:00 -1:30 Git actions
+1:30 --2:30 Continuous Integration 
+2:30 - 3:00 Lunch 
+3:00 - 5:00 Workflow Steps"," Git actions
+Continuous Integration 
+Workflow Steps",,Actions,,,,,
+25/07/2025,,PTO,,,,,,,,
+28/07/2025,"Github Actions,Jenkins ","10:00-12:30 Github Actions Assignment
+12:30 -1:30 what is Jenkins and architecture? 
+1:30 --2:30 Jenkins installation and its UI
+2:30 - 3:00 Lunch 
+3:00 - 5:00 Jenkins pipeline"," Github Actions Assignment completed
+Jenkins and architecture 
+Jenkins installation and its UI Jenkins pipeline",,"
+Jenkins
+Jenkins pipeline",,,,,
+29/07/2025,Jenkins,"
+10:00-11:30 Jenkins CICD job 
+12:30 -1:30 Jenkins integration with GitHub  
+1:30 -2:30 Triggers in Jenkins
+2:30 - 3:00 Lunch 
+3:00 - 4:00 Jenkins Master slave architecture 	
+4:00 -6:00 Jenkind CICD pipeline
+","Jenkins jobs 
+Jenkins integration with GitHub  
+Triggers in Jenkins 
+Jenkins Master slave architecture 	
+Jenkind CICD pipeline",,"Jenkins Triggers
+Jenkins pipeline scripting","configuring the environment variables
+",,,,
+30/07/2025,Jenkins,2:00- 5:00,jenkins webhook,,,,,,,
+31/07/2025,"Jenkins , Python ","10:00-11:00 Jenkins Assignment
+11:00-12:30 Function
+12:30-1:30 String
+1:30-2:30 Decorators
+2:30-3:00 Lunch 
+3:00-4:00 Lists, Tuples
+4:00-5:00 Dictionary , Array","Jenkins Assignment
+Function
+String
+Decorators
+lists,Tuples
+ Dictionary , Array",,Decorators,,,,,
+2025-01-08 00:00:00,"Docker ,Python ","10:00-12:00 Docker
+11:00-12:30 Encapsulation,Inheritance
+12:30-1:30 Polymorphism
+1:30-2:30 Generators
+2:30-3:00 Lunch 
+3:00-4:00 Data Abstraction
+4:00-5:00 Pyspark","Docker
+Encapsulation,Inheritance
+Polymorphism
+Generators
+Pyspark",,Docker ,,,,,
+2025-04-08 00:00:00,Python,"10:00-11:30 File Handling 
+11:30-1:30 Unit testing and Pytest
+1:30-2:30 Pandas 
+2:30-3:00 Lunch 
+3:00-4:00 Pandas 
+4:00-6:00 Data structures ","File Handling 
+Unit testing and Pytest
+Pandas 
+Data structures ",,Unit Testing ,,,,,
+2025-05-08 00:00:00,Python ,"
+10:00-12:30 Python Assignment 
+12:30-1:00 Meeting with LC
+1:30-2:30 Flask
+2:30-3:00 Lunch
+3:00-5:00 Flask
+","Python Assignment 
+Flask",,Flask and how to connect SQL with python,,,,,
+2025-06-08 00:00:00,Python  ,"10:00-2:00 Python Assignment 
+2:00-2:30 Lunch
+2:30-5:00 Python Assignment",Python Assignment 1,,,,,,,
+2025-07-08 00:00:00,Python,"10:00-2:00 Python Assignment2 
+2:00-2:30 Lunch
+2:30-5:00 Python Assignment2",Python Assignment 2,,,,,"1. Try to write code within functions, have logging info and use try except blocks to catch errors",,
+2025-08-08 00:00:00,SQL,"
+10:00 - 12:30 SQL Basics 
+12:30 - 1:00 Meet with LC
+1:00 - 2:00  SQL Schema 
+2:00 - 2:30 Lunch
+2:30 - 3:30 SQL ER diagram 
+3:30 - 5:00 WHERE, ORDER BY, LIKE, IN, BETWEEN, LIKE, LIMIT, Inner join","SQL Basics 
+SQL Schema 
+Lunch
+SQL ER diagram 
+WHERE, ORDER BY, LIKE, IN, BETWEEN, LIKE, LIMIT, Inner join",,Learned how to propery create a schema,,,,,
+2025-11-08 00:00:00,SQL,"10:00 - 11:30 Windows function  
+11:30 - 2:00 Trigger 
+2:00 - 2:30  Lunch
+2:30 - 4:00  Leet code 
+4:00 - 5:00  Intern Touchpoint
+5:00 - 6:00  Revision","
+Windows function  
+Trigger 
+Leet code Questions ",,Learned about window function and how to use it,,,,,
+2025-12-08 00:00:00,SQL,"10:00 - 11:30 View 
+11:30 - 12:30 Subquery
+12:30 - 1:00  Meet with LC
+1:00 - 4:00 CTE
+4:00 - 5:00  Leet code 
+5:00 - 6:00  Revision","views
+Subquery
+CTE
+solved questions in codechief ",,Leaned about sql subquarys,,,,,
+13/8/2025,SQL,"
+10:00 - 10:30 CTE revesion
+10:30 - 2:00 Stored procedure 
+2:00 - 2:30 Lunch  
+2:30 - 4:00  Leet code/codechief 
+4:00 - 6:00  Revision/practice","Stored procedure   
+solved problems on Leet code/codechief ",,Leaned about sql Stored procedures,,,,,
+14/8/2025,SQL,"
+10:00 - 11:30 Transactions 
+11:30 - 12:30 SQL Basics Theory 
+12:30 - 1:00  Meeting with LC
+1:00 - 2:00  SQL Relations
+2:00 - 2:30 Lunch 
+2:30 - 5:00 SQL schema , ER diagram Theory","Transactions 
+SQL Basics Theory
+SQL Relations
+SQL schema , ER diagram Theory",,Learned about SQL data normalization,,,,,
+18/8/2025,SQL,"10:00-12:30 SQL Assignment1 
+12:30 - 1:00 Meeting with LC
+1:00 - 2:00 SQL Assignment1
+2:00-2:30 Lunch
+2:30-5:00 Python Assignment2",SQL Assignment1 1-7 questions,,,,,,,
+19/8/2025,SQL,"10:00-12:30 SQL Assignment1 8-10
+12:30 - 1:00 Meeting with LC
+1:00 - 2:00 SQL advanced assignment
+2:00-2:30 Lunch
+2:30-5:00 SQL advanced assignment","Solved SQL Assignment1 8-10
+completed SQL advanced assignment",,,,,,,
+20/8/2025,AWS,"10:00  - 11:00  Introduction to AWS
+12:30  - 1:00 Meeting with LC
+2:00  - 4:00 EC2
+","Introduction to AWS
+EC2
+",,,,,,,
+21/8/2025,AWS/Power BI,"10:00 - 10:30 creating account in AWS
+10:30 - 12:30 AMIs and instance types
+12:30 - 1:00 Meeting with LC
+1:00 - 1:30 Power BI installation 
+1:30 - 3:00 Learning the interface
+3:00 - 4:00 Importing data
+4:00 - 5:00 Creating visuals","creating account in AWS
+AMIs and instance types
+Power BI installation 
+Learning the interface
+Importing data
+Creating visuals",,"Learned How to create valies 
+kind of graph with variour data",Initialy understanding to learn how to properly import the data and finding the corerct type of data to practace was hard,,,,
+22/8/2025,Power BI,"
+10:00-10:30 Power queary editor
+10:30-12:00 Data Modeling
+12:00-12:30 Visualizations & Reports 
+1:00:2:00 Visualizations & Reports
+2:00-4:00 Bookmarks,button
+4:00-5:00 Selection,drill through","Power queary editor
+Data Modeling
+Visualizations & Reports 
+Bookmarks,button
+drill through",,Learned  different types of graphs and how to use bookmark and button to cerate a more user friendly report ,,,,,
+25/8/2025,Power BI,"10:00-1:00 Transform Data,DAX 
+1:00-3:00 Measures,Practice
+3:00-5:00  Import, Direct Query Mode","Transform Data,DAX 
+Measures,Practice
+Import, Direct Query Mode",,,,,,,
+26/8/2025,Power BI,"
+10:00-11:30 Dynamic Parameter, Publish Workspace
+11:30-12:30 App (Power BI online service) 
+1:00 -3:00 Creating dashboard
+3:00-5:00 Mini project
+","Dynamic Parameter Publish Workspace
+Power BI online service
+Creating dashboard
+
+",,,,,,,
+28/8/2025,Power BI,"10:00-11:00 Revision
+11:00-5:00 Power bi Assignment 
+",Power bi Assignment,,,,,,,
+29/8/2025,Power BI,"10:00-3:00 Power BI assignement 
+3:00-5:00 Pyspark interdiction ",Started pyspark,,,,,,,
+2025-09-01 00:00:00,Pyspark,"10:00 - 11:00 Pyspark Installation 
+11:00 - 11:30 Pyspark Architecture
+11:30 - 12:30 Basic Data Operation
+1:00 - 2:00 Data Cleaning and Null Handaling       
+2:00 - 5:00  filtering and Selection ","Basic Data Operation
+Data Cleaning and Null Handling
+Transformation, filtering and Selection
+",,"pyspark schema 
+pyspark aggregate function max,min,avg
+pyspark groupby function
+pyspark orderby function 
+",,,,,
+2025-09-02 00:00:00,Pyspark,"10:00-11:00 Transformation
+11:00-12:30 Joins,pivot,sorting
+1:00-2:00 Actions
+2:00-5:00 UDFs ,Window functions
+","Transformation
+joins,
+pivot,
+sorting,
+UDFs,windows ",,"
+Transformation
+joins,
+pivot,
+sorting,
+UDFs,windows ",,,,,
+2025-03-09 00:00:00,Pyspark,"10:00-11:30 Spark SQL
+11:30-12:30 RDD introduction 
+1:00-3:00  RDD
+3:00-5:00 Partitioning & Shuffling","Spark SQL
+views
+RDD creation and some Transformation function
+",,"Spark SQL
+views
+RDD creation and some Transformation function
+",,,,,
+2025-04-09 00:00:00,Pyspark,"10:00-11:30 RDD
+11:30-12:30 DAG scheduler
+1:00-2:00 Lineage Graph
+2:00-3:00 client/cluster mode
+3:00-5:00 Revision ","RDD
+DAG scheduler
+Lineage Graph
+client/cluster mode",,"Map,filter,
+flatmap,aggregate functions,
+DAG,lineage graph ",,,,,
+2025-05-09 00:00:00,Pyspark,"10:00-11:30 RDD revision
+11:30-12:30 Spark Assignment 
+1:00-5:00 Spark Assignment ",pyspark assignment ,,,,,,,
+2025-08-09 00:00:00,"Pyspark,AWS","10:00-12:30 Spark Assignment
+1:00-2:00 AWS introduction
+2:00-5:00 Identity & Access management","pyspark assignment,AWS IAM ,users,groups , roles and resources ,Polices",,,,,,,
+2025-09-09 00:00:00,AWS,"10:00-12:30 EC2 Fundamentals
+1:00-5:00 EC2 associate level","EC2 Instance Types 
+Security Groups
+EC2 Instances Purchasing Options
+Elastic IPs
+Placement Groups
+Elastic Network Interfaces 
+EC2 Hibernate 
+",,"EC2 Instance Types 
+Security Groups
+EC2 Instances Purchasing Options
+Elastic IPs
+Placement Groups
+Elastic Network Interfaces 
+EC2 Hibernate 
+",,,,,
+2025-10-09 00:00:00,AWS,"10:00-12:30 Instance Storage
+1:00-5:00 High Availability and Scalability ELB&ASG","EBS volume
+EBS Snapshot
+AIM
+EC2 Instence store
+EBS volumes types
+EBS multi attach
+EBS encryption
+Elastic file system
+Load balancing",,"EBS volume
+EBS Snapshot
+AIM
+EC2 Instence store
+EBS volumes types
+EBS multi attach
+EBS encryption
+Elastic file system
+Load balancing",,,,,
+2025-11-09 00:00:00,AWS,"10:00-11:30 High Availability and Scalability ELB&ASG
+11:30-3:00 AWS fundamentals rds ,aurora, Elasticache"," Elastic Load Balancer
+Classic Load Balancers 
+Application Load Balancers 
+network  Load Balancers 
+gateway load balancer
+Cross-Zone Load Balancing
+SSL/TLS
+Auto Scaling Group 
+CloudWatch Alarms & Scaling",," Elastic Load Balancer
+Classic Load Balancers 
+Application Load Balancers 
+network  Load Balancers 
+gateway load balancer
+Cross-Zone Load Balancing
+SSL/TLS
+Auto Scaling Group 
+CloudWatch Alarms & Scaling",,,,,
+2025-12-09 00:00:00,AWS,"
+10:00-5:00  AWS fundamentals rds ,aurora, Elasticache","Amazon RDS
+Storage Auto Scaling
+RDS Read Replicas
+RDS Multi AZ
+Amazon Aurora
+Backups
+Database Cloning
+RDS Proxy
+Elasticache",,"Amazon RDS
+Storage Auto Scaling
+RDS Read Replicas
+RDS Multi AZ
+Amazon Aurora
+Backups
+Database Cloning
+RDS Proxy
+Elasticache",,,,,
+15/9/2025,AWS,"10:00-2:00 Route 53
+2:00-5:00  Classic Solution Architecture discussion 
+5:00-6:00 Revision ","DNS
+Route 53
+Domain registration 
+Ec2 set up for dns
+TTL
+CNAME and Alias
+Routing policy
+",,,,,,,
+16/9/2025,"python ,sql","10:00-1:00 revision
+3:00-6:00 Classic Solutions Architecture","WhatTheTime.com
+Mycolthes.com
+MywordPress.com",,,,,,,
+17/9/2025,AWS,"10:00-11:00 Classic Solutions Architecture
+11:00-3:00 AWS S3 introduction
+3:00-5:00 Advanced amazon S3
+5:00-6:00 Revision ","BeanStalk
+S3
+S3 Bucket policy
+s3 website
+s3 versioning
+s3 replication
+s3 storage class
+S3 lifecycle rules
+S3 requester
+s3 Event notice
+S3 performance
+S3 Stroage Lens",,,,,,,
+18/9/2025,AWS,"10:00-11:00 Boto3
+11:00:2:00 S3 Security 
+2:00-5:00  CloudeFront and AWS global accelerot
+5:00-6:00 Revision
+","
+
+S3 Encryption
+S3 CORS
+S3 MFA
+S3 Access Log
+S3 pre-signed URLS
+S3 Access points
+CloudeFront
+AWS global Accelerator",,,,,,,
+19/9/2025,AWS,"10:00-12:30 AWS Storage Extras
+1:00-5:00 Decoupling application
+5:00-6:00 Revision","snow family
+Amazon Fsx
+Storage gateway
+Datasync
+Sqs
+SNS
+Kinesis
+Data Firehose",,,,,,,
+22/9/2025,AWS,"10:00-11:00 Revision
+11:00-2:00 Decoupling application
+2:00-5:00 Containers on AWS 
+5:00-6:00 Revision","Docker 
+Amazon ECS
+ESC cluster
+ESC autoscaling
+Amazon ECR
+Amazon EKS
+AWS app runner",,,,,,,
+23/9/2025,AWS,"10:00-10:30 Revision
+10:30-5:00 Serverless overview ","
+lambda
+DynamoDB
+API gateway
+Step functions
+Amazon cognito",,,,,,,
+24/9/2025,AWS,"10:00-11:00 revision
+11:00-11:30 Serverless solution architecture discussion
+11:30-12:30 Databases in AWS
+1:00-5:00 Task1
+5:00-6:00 Revision","Serverless solution architecture discussion
+Databases in AWS",,,,,,,
+25/9//2025,AWS,"10:00-11:00 Revision
+11:00-12:30 Data& Analytics
+1:00-3:00 Python
+3:00-6:00 SQL","Data&analytics
+Revision on python and sql",,,,,,,
+26/9/2025,AWS,"10:00-12:00 Python
+12:00-3:00 SQL
+3:00-6:00 Meachine learning,cloudewatch",,,,,,,,

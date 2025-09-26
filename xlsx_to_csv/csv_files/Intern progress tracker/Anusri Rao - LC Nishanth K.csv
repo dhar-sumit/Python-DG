@@ -1,0 +1,284 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+07-21-2025,Information & Security,ISO/IEC 27001 ,ISO/IEC 27001 ,case study on Globomantics,Advantages ,none, ,She has a good understanding of ISO/IEC 27001 and its application from a company's perspective., ,Has clear understanding of the concepts she goes through.
+07-22-2025,Git & Gitlab,"10:30 - 14:00  ISO
+14:00 - 14:30  lunch
+14:30 - 15:30  GIT basics, commands, branches,  merges 
+15:30 - 16:30  Git Assignment1","1.ISO Course done
+2.Github
+3.Setting up git and git bash 
+4.Assignment1 Github",assignment,Git basic commands and actions,none, ,She has high level understanding of assignment using Git Actions. I then prompted her to complete the assignment using Jenkins and to explore Docker., ,
+07-23-2025,docker and jenkins,"09:30 - 11:30    Understnding docker
+11:30 - 13:30   Viewing history 
+12:30 - 12:45   Meet with LC 
+13:30 - 14:00   Lunch 
+14:00 - 17:00   Docker setup",1. Worked on docker image                            2. Created docker container,Webhook,Docker and Jenkins,none, ,-, ,
+07-24-2025,docker ,"09:30 - 11:30    Docker commands
+11:30 - 12:00   Meet with LC 
+12:30 - 12:45   Understanding Docker copy and cmd,entrypoint,run
+13:30 - 14:00   Lunch 
+14:00 - 17:00   Hands-on docker session and jenkin installation",1. Worked on basic docker commands                                            2. Created docker proects                                           3.Installed jenkin using docker,Jenkin pipeline,"Learned Docker basics including COPY, CMD, ENTRYPOINT, and RUN instructions, along with hands-on Docker usage and Jenkins installation/setup.", , ,Made her to Explore Docker which is crucial for any deployment work., ,
+07-25-2025,Jenkins,"09:30 - 11:30    Jenkin setup with docker and webhook
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   Jenkin assignment with additional details 
+13:30 - 14:00   Lunch
+14:00 - 17:00   Flask projet with docker ",1. Worked on basic pipeline in jenkins                                                   2. Worked on webhook and ngrok   3.Created web app using  flask +  docker ,Advanced docker,"Jenkins with Docker, Configured webhooks for automation, and explored pipeline creation. I also worked on an advanced Jenkins assignment, improving my understanding of CI/CD and pipeline automation.", , ,"She now has clear understanding of CI/CD Flow using Jenkins pipeline, Docker command, Git Webhooks and expose local application to internet using (ngrok).", ,
+07-26-2025,Weekend Holiday,,,,,,,,,
+07-27-2025,,,,,,,,,,
+07-28-2025,Python,"09:30 - 11:30    Intro to Python (Syntax, Variables, Data Types)
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45    Control flow and functions
+13:30 - 14:00   Lunch
+14:00 - 17:00   Python assignmnet ",1. python objects and data structure 2.comparison operator                                       3.python statements                                                4.functions,OOP,"Efficient use of data structures to manage data, comparison operators for decisions, statements to control flow, and functions to organize reusable code.", , ,-, ,She is bit of beginner in python. But I have made her cover the basics and explore the unknown stuff. Needs to spend more time in coding.
+07-29-2025,Python,"09:30 - 11:30    OOP
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45    Modules and Packages
+13:30 - 14:00   errors and exception handling
+14:00 - 17:00   Python assignmnet ",1.OOP                                                                      2.Modules and Packages                                 3.errors and exception handling ,Unittest,"Learnt object-oriented programming (OOP) for structuring code with classes and objects, uses modules and packages to organize code into reusable components, and handles errors through exception handling to prevent program crashes", , ,-, ,
+07-30-2025,Python,"09:30 - 11:30    Functions(revision)
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45    Unittest
+13:30 - 14:00   webscrapping
+14:00 - 17:00    working with csv files in python",1.Functions(revision)                                          2.Unittest                                         3.webscrapping                                  4.working with csv,mocking,"Learnt to create and use functions for reusable code, write unittests to check code correctness, perform web scraping to extract data from websites, and work with CSV files to read and write structured data.", , ,She has completed Python program part of the assignment and has good clarity towards the basics., ,
+07-31-2025,Python,"09:30 - 11:30   Mocking
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   flask routes
+13:30 - 14:00   flask sessions
+14:00 - 17:00   Flask assignment part1",1. Mocking an URL                                               2. flask routes                                                3.flask sessions,1.mysql,I learned that Flask is a Python web framework that uses routes to handle URLs and sessions to store user data across pages., , , , ,
+2025-01-08 00:00:00,Out of Office,,,,,,,,,
+2025-02-08 00:00:00,Weekend Holiday,,,,,,,,,
+2025-03-08 00:00:00,,,,,,,,,,
+2025-04-08 00:00:00,Python,"09:30 - 11:30   Flask SQL
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   Adding with sql
+13:30 - 14:00   updating and deleting with sql
+14:00 - 17:00   Flask asignment part2",1.connecting flask with mysql running in docker                                                           2.cursor and connection                           3.executing sql queries                        4.performing CRUD operation,1.EDA,"Connect Flask to MySQL in Docker using a MySQL client like mysql-connector-python, with the container’s host and credentials. Create a connection and cursor to execute SQL queries. Use INSERT, SELECT, UPDATE, and DELETE for CRUD operations from your Flask app.", , ,She's clear with making API calls using custom built API. , ,Making her to get familiar create and call APIs. Also turned her focus towards problem solving and critcal thinking python problems.
+2025-05-08 00:00:00,Python,"09:30 - 11:30    Pandas: DataFrames, Series, Indexing, Basic Operations
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   Pandas: Filtering, Conditional Selection
+13:30 - 14:00   Handling Missing Data
+14:00 - 17:00    GroupBy Operations and assignment","1.DataFrames, Series, Indexing, Basic Operations
+2.Filtering, Conditional Selection, Boolean Indexing
+3.Handling Missing Data
+4.GroupBy and Aggregations",1.reporting," I learned how to work with DataFrames and Series, apply filters and conditions, and handle missing data using Pandas. I also explored GroupBy operations for aggregating data and practiced these concepts through an assignment.", , ,Made her to skip Flask part and to focus on doing leet codes to improve problem solving skills, ,
+2025-06-08 00:00:00,Python,"09:30 - 11:30    Leetcode 1,26
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   283,169
+13:30 - 14:00   55,75
+14:00 - 17:00    66,560",1.problem solving with list ,string ,problem solving, , , , ,
+2025-07-08 00:00:00,Python,"09:30 - 11:30    Leetcode 344,125(string)
+11:00 - 11:30   Meet with LC 
+12:30 - 12:45   242,387,14,3(String)
+13:30 - 14:00   49,347,242(set,dict,tuple)
+14:00 - 17:00    202,169","1.problem solving with strings,tuples and dictionary",pandas,problem solving, , , , ,
+2025-08-08 00:00:00,Python,"09:30-11:30: HackerRank              Basic DataFrame ops and filtering.
+12:30-12:45: Grouping, aggregation, sorting.
+13:30-14:00: Merging, missing data, duplicates.
+14:00-17:00: leetcode",1.problem solvng with pandas ,sql,problem solving, , , , ,
+2025-09-08 00:00:00,Weekend Holiday,,,,,,,,,
+2025-10-08 00:00:00,,,,,,,,,,
+2025-11-08 00:00:00,SQL,"09:30-11:30: SQL basics
+12:30-12:45: JOINS,Aggregate function and groupby
+13:30-14:00: Subquery,Windows function
+14:00-17:00: hackerrank and assignment ","1.Core Queries
+2.Joins & Relationships
+3.Aggregations & Grouping
+4.Subqueries & Window Functions
+5.Data Handling & Practice",1.subquery                                                    2.window function," Learned to write core SQL queries using joins, aggregations, subqueries, and window functions, and applied them through hands-on data handling and practice.", , ,Told her to brush up with basics of SQL and start with initial assignment. , ,She was able complete the SQL in time. The custom assignment has helped her gain confidence in skills.
+2025-12-08 00:00:00,SQL,"09:30-11:30: subquery
+12:30-12:45: assignment 1
+13:30-14:00: advanced sql
+14:00-17:00: assignment 2",1.subquery                                                                      2. correlated subquery                                                                     3.non correlated subquery                                                                      4.CTE                            ,1.case,"Learned to write subqueries, including correlated and non-correlated types, and used CTEs to simplify complex SQL queries.", , ,Provided her with Custom made Advanced SQL assignment with different case scenarios/domain problems., ,
+08-13-2025,SQL,"09:30-11:30: conditional aggregation (COUNT DISTINCT with CASE)
+12:30-12:45:  Anti-join (LEFT JOIN + IS NULL), NOT EXISTS,
+13:30-14:00: date truncation,date functions
+14:00-17:00: assignment 2",1. conditional aggregation                                                               2.Anti-join                                                                      3.exits                                                                                                                                       4.assignment2 part1,1.assignment 2 part 2,"Learned new SQL topics today including conditional aggregation with COUNT DISTINCT and CASE, anti-joins using LEFT JOIN with IS NULL and NOT EXISTS, date truncation and functions, followed by Assignment 2", , ,She has understood the assignment questions well and helped her to see different ways to approach the problem., ,
+08-14-2025,SQL,"09:30-11:30: assignment 2 part2 (q1-q2)
+12:30-12:45:  assignment 2  part2 (q3-q5)
+13:30-14:00: assignment 2  part2 (q6-q8)
+14:00-17:00: assignment 2  part2 (q9-q10)",1.finished advance sql assignment,1.Power BI," Through these assignments which was provided by LC, I learned to use advanced SQL techniques like CTEs, window functions, and recursive queries to solve real-world problems in analytics, HR, and inventory. It strengthened my ability to write efficient, insight-driven queries.", , , , ,
+08-15-2025, , , , , , , , , ,
+08-16-2025,Weekend Holiday,,,,,,,,,
+08-17-2025,,,,,,,,,,
+08-18-2025,Power BI,"09:30-11:30: Power BI Interface & Data Loading 
+12:30-12:45: Power Query Editor 
+13:30-14:00: Data Modeling 
+14:00-17:00: Visualizations & Reports ","1.Basics, Data Types, Import vs DirectQuery                                      2.Basic Transformations                             3.Relationship                                     4.Charts, Filters, Slicers, Publishing to Power BI Service","1.Bookmark,button
+2. Selection,drill through 
+3.Transform Data,DAX 
+4. Measures,Practice"," learned the basics of Power BI, including data types, Import vs DirectQuery, basic data transformations, creating relationships between tables, and how to use charts, filters, slicers, and publish reports to the Power BI Service.", , ,Recommended her to clear the basics of PowerBI and build some basic report to get familiar with the platform and tools. , ," She has showcased good grasp of her understanding on PowerBI features by developing reports, metrics, visualizations and also tools like Databricks and Snowflake by loading multiple parquet files, tackling data inconsistencies and definetly exploring (another good attitude)."
+08-19-2025,Power BI,"09:30-11:30: Bookmark,button
+12:30-12:45: Selection,drill through 
+13:30-14:00: Transform Data,DAX 
+14:00-17:00: Measures,Practice","1.Bookmark,button
+2. Selection,drill through 
+3.Transform Data,DAX 
+4. Measures,Practice", 1.Power BI online service," Built a Power BI dashboard using concepts such as bookmarks, buttons, selection pane, drill through, data transformation, DAX, and measures, as instructed by LC.", , ,"Prompted her to cover important topics like Measures, Buttons, Bookmark, Selection, Drills since these are ones which comes handy in the project.", ,
+08-20-2025,Power BI,"09:30-11:30: Import, Direct Query Mode
+12:30-12:45:  Dynamic Parameter Publish Workspace
+13:30-14:00:  App (Power BI online service) 
+14:00-17:00: Worked on Power BI assignment","1.Import, Direct Query Mode
+2. Dynamic Parameter Publish Workspace
+3.App (Power BI online service) 
+4.Worked on Power BI assignment",1.Data Bricks," Learned about Import vs Direct Query modes, dynamic parameters, Power BI Apps, and applied them in an assignment.", , ,"Made her to cover few more topics like Import, Direct Query Mode, Dynamic Parameter, Publish, Workspace, App (Power BI online service). Then to continue with the Assignment.", ,
+08-21-2025,Power BI,"09:30-11:30: Databricks,snowflake
+12:30-12:45: Scripts
+13:30-14:00:   Complex DAX
+14:00-17:00: Worked on Power BI assignment",1.databricks                                                 2.Scripts,1.snowflake," I learned about data engineering workflows in Databricks, practiced scripts, explored complex DAX functions in Power BI, and applied these concepts while working on a Power BI assignment.", , ,"She is progressing with PowerBI assignment and while doing she stumbled upon a error in Databrick part, but she was able to debug it and solve. Recommended her to cover more ground on Databricks and Snowflake.", ,
+2025-08-22 00:00:00,Snowflake,"09:30-11:30: Snowflake
+12:30-12:45: Uploading files to snowflake
+13:30-14:00: Difference between databricks and snowflake 
+14:00-17:00: Power BI assignment",1.Snowflake                                                            2.Integrating Snowflake with PowerBI, 1.Diffrence between architecture of Snowflake and databricks," I explored Snowflake, compared it with Databricks, and applied my learning through a Power BI assignment.", , ,, ,
+2025-08-23 00:00:00,Weekend Holiday,,,,,,,,,
+2025-08-24 00:00:00,,,,,,,,,,
+2025-08-25 00:00:00,Pyspark," 09:30–11:30: PySpark  Architecture,python threading
+12:30–12:45: Reading data in PySpark
+13:30–14:00: Basic transformations & actions
+14:00–17:00: Practice – Joins, filters, aggregations",1.Pyspark Architecture,"1. Reading data in PySpark
+2. Basic transformations & actions
+3. Practice – Joins, filters, aggregations"," learned how to read data in PySpark, perform basic transformations and actions, and practiced using joins, filters, and aggregations.", , ,She has trying to get good understanding of the spark architecture plus the technicalities which is one of good quality of her. , ,Made good progress with the additional pointers that was given which proves she has covered Spark in different ways.
+2025-08-26 00:00:00,Pyspark," 09:30–11:30: PySpark  with databricks
+12:30–12:45: catelogs,volumes
+13:30–14:00: transformations & actions
+14:00–17:00: assignment",1.PySpark  with databricks,1.spark UI," Learned PySpark using Databricks, explored catalogs and volumes", , , , ,
+2025-08-27 00:00:00, , , , , , , , , ,
+2025-08-28 00:00:00,Pyspark,"09:30–11:30: Apache spark
+12:30–12:45: transformations vs actions
+13:30–14:00: repartition / coalesce /DAG
+14:00–17:00: assignment",1.Spark UI                                          2.transformation                             3.action                                                4.repartition                                               5.coalesce                                                            6.DAG,1.DAG," learned about the Spark UI, transformations, actions, repartition, coalesce.", , , ,She has made deep dive into Spark stuff. Understanding the details. ,
+2025-08-29 00:00:00, Pyspark," 09:30–11:30: DAG Visualization
+12:30–12:45: varying the partitions
+13:30–14:00: Memory Management                                                                                   14:00–17:00: assignment","1.DAG Visualization
+2.Shuffle Size
+3.Memory Management
+4.Caching Usage",1.assignment," Learned to analyze DAG visualization, manage partitions and explored concepts like optimize memory, and cache efficiently.", , ,,,
+2025-08-30 00:00:00,Weekend Holiday,,,,,,,,,
+2025-08-31 00:00:00,,,,,,,,,,
+2025-09-01 00:00:00, Pyspark,"09:30–11:30: Pyspark with colab
+12:30–12:45: joins and groupby DAG analysis
+13:30–14:00: understanding Six Spark Exercises
+14:00–17:00: spark assignment",1.importing data to colab with google drive,1.MD5 hashing, learned to import large parquet files into colab and analyzed thier background working using spark UI, , , , , 
+2025-09-02 00:00:00, Pyspark,"09:30–11:30: MD5 and SHA256
+12:30–12:45: Analyzing  the execution time
+13:30–14:00: Explored ways of optimization
+14:00–17:00: spark assignment q5", 1.MD5 and SHA256                                                                  2.Optimization, ," I learned about MD5 and SHA256 hashing techniques, analyzed execution time, explored optimization methods, and worked on Spark assignment question 5", , , , ,
+2025-09-03 00:00:00,CI/CD revision,"09:30–11:30: Git/Github
+12:30–12:45: Jenkins
+13:30–14:00: Docker
+14:00–17:00: practise",Revision, , , , , , ,
+2025-09-04 00:00:00, Out of Office,,,,,,,,,
+2025-09-05 00:00:00,CI/CD revision,"09:30–11:30: Git/Github
+12:30–12:45: Jenkins
+13:30–14:00: Docker
+14:00–17:00: practise",Revision, , , , , , ,
+2025-09-06 00:00:00,Weekend Holiday,,,,,,,,,
+2025-09-07 00:00:00,,,,,,,,,,
+2025-09-08 00:00:00,CI/CD revision,"09:30–11:30: Git/Github
+12:30–12:45: Jenkins
+13:30–14:00: Docker
+14:00–17:00: practise",Revision, , , , , , , 
+2025-09-09 00:00:00,CI/CD revision," 09:30–11:30: git actions with coverage
+12:30–12:45: uploading image to docker hub
+13:30–14:00: pulling image from docker hub
+14:00–17:00: practise",Revision, ," learned about GitHub Actions with coverage, uploading and pulling images from Docker Hub, and spent time practicing these concepts.", , , , , 
+2025-09-10 00:00:00,Docker Revision," 09:30–11:30: building flask app for assignment
+12:30–12:45: pulled postgresql image from docker hub
+13:30–14:00: utilized docker compose
+14:00–17:00: debugging",1.postgresql                                             2.docker hub                                                       3.docker compose, ," built an Flask app for my assignment, pulled a PostgreSQL image from Docker Hub, utilized Docker Compose, and worked on debugging", ,, , , 
+2025-09-11 00:00:00,AWS," 09:30–11:30: AWS setup
+12:30–12:45: IAM concepts – Users, Groups, Roles, Policies
+13:30–14:00: Budget
+14:00–17:00: IAM Best Practices", 1.AWS setup                                                                    2.IAM                                                                3.Budget, ," I learned about AWS setup, IAM concepts like Users, Groups, Roles, and Policies, explored AWS budgeting, and studied IAM best practices", , , , , 
+2025-09-12 00:00:00,AWS," 09:30–11:30: AWS EC2
+12:30–12:45: setting up an EC2 instance
+13:30–14:00: Running EC2 instance
+14:00–17:00: Elastic load balancer",1. EC2                                                            2.ELB, ," AWS EC2, setting up and running an EC2 instance, and explored the use of Elastic Load Balancer.", , , , , 
+2025-09-13 00:00:00,Weekend Holiday,,,,,,,,,
+2025-09-14 00:00:00,,,,,,,,,,
+2025-09-15 00:00:00,revision for python and sql test,revision, , , , , , , , 
+2025-09-16 00:00:00,revision for python and sql test,revision, , , , , , , , 
+2025-09-17 00:00:00,AWS," 09:30–11:30: AWS auto scaling group
+12:30–12:45: Amazon s3
+13:30–14:00: RDS
+14:00–17:00: Implementation",1.ASG                                                                             2.S3,1.RDS, , , , , , 
+2025-09-18 00:00:00, AWS,"09:30–11:30: hosted a static website using s3
+12:30–12:45: Amazon snow family
+13:30–14:00: RDS and DynamoDB
+14:00–17:00: Implementation",1.S3 website                                                                              2.RDS                                             3.Dynamo DB, , , , , , , 
+2025-09-19 00:00:00, AWS,"09:30–11:30: AWS Lambda
+12:30–12:45: CloudFormation
+13:30–14:00: Beanstalk
+14:00–17:00: Implementation",1.Lambda                                                    2.Cloud Formation                                            3.Beanstalk, 1.Beanstalk, , , , , , 
+2025-09-20 00:00:00, Weekend Holiday,,,,,,,,,
+2025-09-21 00:00:00,,,,,,,,,,
+2025-09-22 00:00:00, AWS,"09:30–11:30: trigger lambda with s3
+12:30–12:45: Elastic Beanstalk
+13:30–14:00: Route 53,Cloud Front
+14:00–17:00: Implementation","1.trigger lambda with s3
+2.Elastic Beanstalk
+3.Route 53                                                        4.Cloud Front",,,,,,,
+2025-09-23 00:00:00,AWS," 09:30–11:30: AWS SNS
+12:30–12:45: SQS, health dashboard,cloud trail
+13:30–14:00: VPC
+14:00–17:00: Implementation",1.SNS                                                                                                2.SQS                                                                               3.Cloud Trail                                                                                   4.VPC, , , , , , , 
+2025-09-24 00:00:00,AWS," 09:30–11:30: AWS security- DDOS
+12:30–12:45: Encryption-KMS,HSM
+13:30–14:00: VPC
+14:00–17:00: Implementation", 1.AWS securities, , , , , , , 
+2025-09-25 00:00:00,AWS," 09:30–11:30: AWS Billing
+12:30–12:45: AWS account management
+13:30–14:00: SAM template
+14:00–17:00: Implementation",1.AWS Billing and Acoount Management                                                                           2.SAM template, , , , , , , 
+2025-09-26 00:00:00, , , , , , , , , , 
+2025-09-27 00:00:00, , , , , , , , , , 
+2025-09-28 00:00:00, , , , , , , , , , 
+2025-09-29 00:00:00, , , , , , , , , , 
+2025-09-30 00:00:00, , , , , , , , , , 
+2025-10-01 00:00:00, , , , , , , , , , 
+2025-10-02 00:00:00, , , , , , , , , , 
+2025-10-03 00:00:00, , , , , , , , , , 
+2025-10-04 00:00:00, , , , , , , , , , 
+2025-10-05 00:00:00, , , , , , , , , , 
+2025-10-06 00:00:00, , , , , , , , , , 
+2025-10-07 00:00:00, , , , , , , , , , 
+2025-10-08 00:00:00, , , , , , , , , , 
+2025-10-09 00:00:00, , , , , , , , , , 
+2025-10-10 00:00:00, , , , , , , , , , 
+2025-10-11 00:00:00, , , , , , , , , , 
+2025-10-12 00:00:00, , , , , , , , , , 
+2025-10-13 00:00:00, , , , , , , , , , 
+2025-10-14 00:00:00, , , , , , , , , , 
+2025-10-15 00:00:00, , , , , , , , , , 
+2025-10-16 00:00:00, , , , , , , , , , 
+2025-10-17 00:00:00, , , , , , , , , , 
+2025-10-18 00:00:00, , , , , , , , , , 
+2025-10-19 00:00:00, , , , , , , , , , 
+2025-10-20 00:00:00, , , , , , , , , , 
+2025-10-21 00:00:00, , , , , , , , , , 
+2025-10-22 00:00:00, , , , , , , , , , 
+2025-10-23 00:00:00, , , , , , , , , , 
+2025-10-24 00:00:00, , , , , , , , , , 
+2025-10-25 00:00:00, , , , , , , , , , 
+2025-10-26 00:00:00, , , , , , , , , , 
+2025-10-27 00:00:00, , , , , , , , , , 
+2025-10-28 00:00:00, , , , , , , , , , 
+2025-10-29 00:00:00, , , , , , , , , , 
+2025-10-30 00:00:00, , , , , , , , , , 
+2025-10-31 00:00:00, , , , , , , , , , 
+2025-11-01 00:00:00, , , , , , , , , , 
+2025-11-02 00:00:00, , , , , , , , , , 
+2025-11-03 00:00:00, , , , , , , , , , 
+2025-11-04 00:00:00, , , , , , , , , , 
+2025-11-05 00:00:00, , , , , , , , , , 
+2025-11-06 00:00:00, , , , , , , , , , 
+2025-11-07 00:00:00, , , , , , , , , , 
+2025-11-08 00:00:00, , , , , , , , , , 
+2025-11-09 00:00:00, , , , , , , , , , 
+2025-11-10 00:00:00, , , , , , , , , , 
+2025-11-11 00:00:00, , , , , , , , , , 
+2025-11-12 00:00:00, , , , , , , , , , 
+2025-11-13 00:00:00, , , , , , , , , , 
+2025-11-14 00:00:00, , , , , , , , , , 
+2025-11-15 00:00:00, , , , , , , , , , 
+2025-11-16 00:00:00, , , , , , , , , , 
+2025-11-17 00:00:00, , , , , , , , , , 
+2025-11-18 00:00:00, , , , , , , , , , 

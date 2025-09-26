@@ -1,0 +1,1038 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2024-08-12,ISO27001: Standards,2:30 - 5:00 Information and security course,1 Information Security,"Cryptography
+Operation Security  Communication Security",,,,,,
+2024-08-13,"ISO27001: Standards, 
+Git learning assignment","10-11:45 - Information Security 
+12:50-1:00 pm - Call with LC
+1:00 pm -2:30pm - Git - Basics
+2:30pm - 3:00pm - Lunch
+3:00pm - 5:00pm - Git - Merge, Rebase
+5:00pm - 6:30pm - Commits, Workflow","1 Information 
+2 Security
+3 Git- Basic
+4 Branching
+5 Rebase
+6 Merge Conflict
+",,Branching strategies,,,,,
+2024-08-14,Git Assignment,"
+10:00 - 1:30 - Assignment 1,2
+1:30 - 2:00 - Lunch
+2:30 - 3:00 - Call with LC
+3:00 - 6:00 - Documentation of assignment","1 Assignment -1 
+2 Assignment -2
+3 Documentation",,PR reviews,,,,,
+2024-08-16,Python,"
+11:30 - 2:00 - Clean code standards
+2:00 - 2:45 - Lunch
+2:45 - 6:00 - PEP8 Standards",1 Coding Standards,,,,,,,
+2024-08-19,Python,"10:00 - 2:00  Python practice programs (1-5)
+2:00 - 2:30 Lunch
+2:30 - 5:30 Unit Testing","1 Question 1
+2 Question 2
+3 Question 3
+4 Question 4
+5 Queston 5
+6 Unit testing",,"1 python - myqsl.connector, cursor, generator
+2 ABC 
+3 set
+4 map, lamda function
+5 requests, beautifulsoap4
+6 TDD",,,,,
+2024-08-20,Python,"10:00 - 2:00 - Flask
+2:00 - 3:00 - Lunch
+3:00 - 5:00 - Assignments
+5:00 - 6:00 - Falsk Tutorial","1 Flask installation and run
+2 XLSX to CSV converter
+3 Notepad tracker
+4 Data Manipulation
+5 Sql Info extraction
+6 Form validation in Flask",,"1 venv , Flask 
+2 Pandas
+3 Validators",,,,,
+2024-08-21,Python,"
+10:00 - 2:00 - Python assignment
+2:00 -3:00 - Lunch
+3:00 - 6:00 - Assignment",1 Unit Testing,,,,,,,
+2024-08-22,Python,"
+10:00 - 11:00 - Unit testing 
+11:-00 - 11:10 - HR catch up
+11:15 -  2:00 - Unit tesing
+2:00 - 3:00 - Lunch
+3:00 - 5:00 - Unit testing
+5:00 - 6:00 - REST API","1 Unit Testing
+2 REST API",,"Mocking , REST api, GET, POST, PUT DELETE","Difficulties faced during completing the test cases of  
+test_dynamodb_example due to deprication of 
+mock_dynamodb2 sub-module of moto library ",,,,
+2024-08-23,Python,"
+10:00 - 12:00 - REST API
+12:00 - 2:00 - ETL Job
+2:00 - 3:00 - Town Hall
+3:00 - 4:00 - Lunch
+4:00 - 6:00 - ETL Job","1 Creating the application
+    by following the MVC
+    pattern
+2 ETL Job",,,,,,,
+2024-08-26,Python,"
+10:00 - 11:00 - Python Flask tutorial
+11:00 - 12:00 - Comm Session 1
+12:00 -  2:00 - Debugging REST API
+2:00 - 3:00 - Lunch
+3:00 - 4:30 - Debuging Rest Api
+4:30 - 5:00 - Git Pressentaion (Prep)
+5:00 - 6:00 - Presentation to LC
+","Debug Rest api
+Git presentation 
+Testing of API(s) with test cases",,"Learnt how to write test cases and use of 
+unittesting and pytesting",,,,,
+2024-08-27,Python,"
+10:00 - 11:00 - Flask Tutorial
+11:00 - 12:00 - Flask module and packages
+12:00 - 1:00 - Comm session 2
+1:00 - 2:00 - Lunch
+2:00 - 4:00 - Python OOPs
+4:00 - 5:00  - Python 
+5:00 - 6:00 - LC connect ","1 Flask
+2 Python OOPs",,,,,,,
+2024-08-28,Python,"10:00 - 12:00 - Debug Notepad Tracker
+12:00 - 1:00 - Comm Session 3
+1:00 - 2:00 - Dockerization of Basic FLASK app
+2:00 - 2:30 - Lunch
+2:30 - 4:00 - Dockerization of REST Api 
+4:00 - 6:00 - Practice python questions on Leetcode","1 Fixed Notepad Tracker
+2 Dockerised flask app
+3 Dockerised Flask-rest-api
+
+Python practice questions:
+219. Contains Duplicate II
+225. Implement Stack using Queues
+81. Search in Rotated Sorted Array II
+2461. maximum sum of distinct subarrays with length k",,,,,,,
+2024-08-29,Python,"10:00-12:00 - Python practice questions on Leetcode
+12:00 - 12:30 - LC catch up
+12:30 - 2:00 - Containerise MYSQL+ PYTHON app
+2:00 - 2:45 - Lunch
+3:00 - 5:00 - Finished the Docker task
+5:00 - 6:00 - Python practice program ","1652. Defuse the Bomb
+
+Build python app
+Set up db in a mysql docker container
+Working on setting up a container 
+ of mysql and a python-flask-api using docker compose
+40. Combination Sum II",,"Handling multiple container and composing
+them","Faced difficulty over setting up connection between 
+mysql and python conatiner",,,,
+2024-08-30,CI/CD,"10:00 - 12:00 - CI/CD Tutorials
+12:00 - 12:20 - LC catch up
+12:20 - 1:15- Assignment:
+1:15 - 2:00 - Lunch
+2:00 - 3:00 - CI/CD for a basic application
+3:00 - 5:00 - Additional work: for REST application 
+5:00 - 6:00 - CI/CD Assignments - Documentation
+6:00 - 7:00 - Python Practice Questions","1 CI/CD tutorial videos
+2 CI/CD assignment
+3 Additional work :  Setting up CI/CD for the REST API application using Python and MySQL and containerizing them and deploying using docker compose
+4 Documentation
+5 73. Set Matrix Zeroes
+6 283. Move Zeroes",,"Learnt how to setup and deploy applications 
+using multiple images and setting up CI/CD 
+pipeline over github actioons",,,,,
+2024-09-02,DevOps,"10:00 - 12:00 - Going through documentations
+12:00 - 1:00 - Comm Session - 4
+1:00 - 2:00 - Lunch
+2:00 - 4:00 - DevOps Assignment
+4:00 - 5:00 - Documentation
+5:00 - 6:00 - Python practice questions
+","1 Built the calculator app
+2 Wrote the test cases
+3 Set up the webhook
+4 Set up jenkins over AWS EC2 instance 
+5 Built the pipeline",,,,,,,
+2024-09-03,SQL,"10:00 - 12:00 - SQL Basics
+12:00 - 12:30 - LC connect
+12:30 - 2:00 - SQL course 
+2:00 - 2:30 - Lunch
+2:30 - 4:30 - Sql Course
+4:30 - 5:30 - Python Practice questions","1 Course Introduction
+2 SQL Statement Fundamentals
+3 GROUP BY Statements
+4 JOINS
+
+1945. Sum of Digits of String After Convert
+43. Multiply Strings",,"SELECT, Aggregate function, Group by, order by
+Like operator, Joins",,,,,
+2024-09-04,SQL,"
+10:00 - 12:00 - DevOps project modification
+12:00 - 1:00 - Debug
+1:00 - 2:00 - Lunch
+2:30 - 3:30 - Comm Sesion 5
+3:30 - 5:00 - Sql course
+5:00 - 6:00 - Python practice question
+","Ci/cd project debug
+
+1 Advanced SQL Commands
+
+874. Walking Robot Simulation",,"Sub Queries, Self Join
+",Faced difficulty over setting up docker agent in the jenkins ci/cd application,,,,
+2024-09-05,SQL,"10:00 - 12:30 - Sql Course
+12:30 - 1:30 - SQL assignment
+1:30 - 2:00 - Lunch
+2:00 - 5:00 - SQL Assignment
+5:00 - 6:00 - Python Practice Question
+","1 Creating Databases and Tables
+2 Conditional Expressions and Procedures
+
+3 Assignment questions ( 1-10)
+2028. Find Missing Observations
+12. Integer to Roman",,"Window functions : Lead lag, coalesce , 
+nested queries",,,,,
+2024-09-06,SQL,"10:00 - 11:00 - Comm Session - 6
+11:00 - 12:00 - Sql assignements
+12:00 - 1:00 - Comm Session - 7
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Town hall
+3:00 - 5:00 - Sql Assignments
+5:00 - 6:00 - Python practice programs
+","1 Adv SQL assignments
+
+3217. Delete Nodes From Linked List Present in Array",,,,,,,
+2024-09-09,SQL,"10:00 - 11: 00 - SQL revision
+11:00 - 12:00 - Practice hackerank 
+12:00 - 1:00 -  Concepts of different window function
+1:00 - 2:00 - Lunch
+2:00 - 5:00 - Practice concepts of SQL
+5:00 - 6:00 - Python practicce questions
+","2326. spiral Matrix
+725. Split linkedlist in parts
+
+- Practice SQL on Hackerank
+- Learnt diiferent concept of SQL",,"Stored procedure, view ",,,,,
+2024-09-10,SQL & Python,"10:00 - 12:30 -  Python and SQL practice
+12:30 - 1:00 - DPDSH session
+1:30 - 2:30 - Lunch
+2:30 - 5:00 - working on a python application - Code jam
+5:00 - 6:00 - Python practice
+","2807. Insert Greatest Common Divisors 
+in Linked List
+206. Reverse Linked List
+92. Reverse Linked List II
+
+Made an application which would take a GitHub URL as an input clone the repository install the requirements
+and run the python file display the console output
+",,,,,,,
+2024-09-11,SQL & Python & DevOps,"10:00 - 11:00 - Python practice question
+11:00 - 1:00 - Jenkins ci/cd setup and to run                         application inside a container
+2:00 - 3:00 - Lunch
+3:00 - 5:00 - Work on python application - Code Jam
+5:00 - 6:00 - Practice sql on hackerank
+","2220. Minimum Bit Flips to Convert
+Number
+
+set up cicd pipeline over jenkins with a docker agent
+
+Achieved 4 * on hackerank in sql",,,,,,,
+2024-09-12,SQL & Python & DevOps,"10:00 - 11:00 - Python practice question
+11:00 - 1:30 - Practice SQL on hackerank
+1:30 - 2:15 - Lunch
+2:15 - 6:00 - Work on python application - Code Jam","1684. Count the Number of Consistent
+Strings
+1598. Crawler Log Folder
+- Practiced SQL over Hackerank
+- Practiced stored procedure
+- Made some progress in python application task compiler
+",,,,,,,
+2024-09-13,"SQL, Python","10:00 - 11:30 - Python Practice question
+11:30 - 1:00 - SQL practice question
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - SQL in python application
+3:00 - 6:00 - Python application - Code Jam
+","1310. XOR Queries of a Subarray
+- Practiced SQL on hackerank
+- added a different view in the Code Jam
+- it consist of Code and a Console
+- Status updated on LOOP",,,,,,,
+2024-09-16,"SQL, Python","10:00 - 11:30 - Python Practice question
+11:30 - 1:00 - SQL practice question
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - SQL in python application
+3:00 - 6:00 - Python application - Code Jam
+","539. Minimum Time Difference
+32. Longest Valid parenthesis
+- Practice sql on hacckerank (Joins)
+-  completed 5* in hacckerank in SQL
+- Integrated SQL queries into the Code Jam",,,,,,,
+2024-09-17,"SQL, Python","10:00 - 1:30 - Python practice question
+1:30 - 2:00 - Lunch
+2:00 - 3:00 - Python Questions
+3:00 - 4:00 - SQL questions
+4:00 - 5:30 - Evaluation by LC","2085. Count Common Words With One
+Occurrence
+884. Uncommon Words from Two
+Sentences
+11. Container With Most Water
+15. 3Sum
+5. Longest Palindromic Substring
+647. Palindromic Substrings
+36. Valid Sudoku
+1768. Merge Strings Alternately
+1071. Greatest Common Divisor of Strings
+
+1211. Queries Quality and Percentage
+",,,,,,,
+2024-09-18,SQL & Python,"10:00 - 11:30 - Python practice question
+11:30 - 1:00 - SQL practice question
+1:00 - 2:00 - Lunch
+2:00 - 6:00 - Modification on python application - Code Jam
+","179. Largest Number
+- Practice question on hackerank
+- Added interactivity in python module of 
+Code Jam",,,,,,,
+2024-09-19,SQL & Python,"10:00 - 11:30 - Python practice question
+11:30 - 1:30 - SQL practice question
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - Integrating sandbox/terminal on python application - Code Jam
+","241. Different Ways to Add Parentheses
+- Reverse Words
+176. Second Highest Salary
+1327. List the Products Ordered in a Period
+1517. Find Users With Valid E-Mails
+Added python sandbox in Code Jam",,,,,,,
+2024-09-20,SQL & Python,"10:00 - 11:30 - Python practice question
+11:30 - 1:30 - SQL practice question
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - Fixing sandbox/terminal on python application - Code Jam
+","214. Shortest Palindrome 
+196. Delete Duplicate Emails 
+1527. Patients With a Condition 
+1667. Fix Names in a Table
+- Added features in CODE JAM
+- Fixed the python console 
+- Added the SQL console ",,,,,,,
+2024-09-23,SQL & Python & GCP,"10:00 - 11:30 - Python practice question
+11:30 - 1:30 - SQL practice question
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","2707. Extra Characters in a String
+- Missing And Repeating number
+185. Department Top Three Salaries
+
+IAM - Role creation , Service account
+Cloud Storage - Access controll list, 
+cross project resource sharing,
+Lifecycle management ",,"IAM - Role creation , Service account
+Cloud Storage - Access controll list, 
+cross project resource sharing,
+Lifecycle management ",,,,,
+2024-09-24,SQL & Python & GCP,"10:00 - 11:30 - Python practice question
+11:30 - 1:30 - SQL practice question
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","3043. Find the Length of the Longest
+Common Prefix
+1. Two Sum
+- Introduction to pandas on leetcode
+- Practiced SQL
+
+GCP - CLoud Storage, Cloud SQL, ",,,,,,,
+2024-09-25,SQL & Python & GCP,"10:00 - 11:30 - Python practice question
+11:30 - 12:00 - SQL practice question
+1:00 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","1978. Employees Whose Manager Left the Company
+2416. Sum of Prefix Scores of Strings
+- Practiced pandas
+Learnt about scaling and automation ",,,,,,,
+2024-09-26,SQL & Python ,"10:00 - 11:30 - Python practice question
+11:30 - 12:00 - SQL practice question
+1:00 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 3:00 - Revision
+3:00 - 4:30 - LC evaluation
+4:30 - 6:00 - GCP","Practiced python
+Practiced SQL 
+LC evaluation",,,,,,,
+2024-09-27,SQL & Python & GCP,"10:00 - 11:30 - Python practice question
+11:30 - 12:30 - SQL practice question
+12:30 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 3:00 - Town Hall
+3:00 - 6:00 - GCP","731. My Calendar II
+K Sized Subarray Maximum
+- Pandas",,,,,,,
+2024-09-30,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:00 - Pandas
+1:00 - 2:00 - Lunch
+2:00 - 6:00 - GCP","1381. Design a Stack With Increment
+Operation
+- Practiced some SQL
+- Google Kubernetes Engine on GCP,
+Cretaing workloads and automated scaling
+",,,,,,,
+2024-10-01,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","181. Employees Earning More Than Their Managers
+178. Rank Scores
+1497. Check If Array Pairs Are Divisible by k
+Pandas practice question 
+182. Duplicate Emails
+183. Customers Who Never Order
+184. Department Highest Salary
+
+Logging and Monitoring in GCP
+",,,,,,,
+2024-10-03,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP
+","1590. Make Sum Divisible by P
+- Majority Votes
+Practiced SQL - window functions
+
+GCP - monitoring and logging :
+Dashboard and multiple projects
+",,Monitoring,,,,,
+2024-10-04,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","2491. Divide Players Into Teams of Equal Skill
+Delete a node and reverse a circular linked list
+Practice SQL
+GCP - Observibility and logging
+",,,,,,,
+2024-10-07,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:30 - Pandas
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - GCP","2696. Minimum String Length After Removing Substrings
+- XOR Linked List
+- Practiced SQL on Datalemur
+Implemented Load Balancing on Compute Engine
+learnt about terraform on GCP
+", ,,,,,,
+2024-10-08,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:00 - Pandas
+1:00 - 1:30 - Lunch
+1:30  - 2:00 - SQL
+2:00 - 6:00 - GCP","1963. Minimum Number of Swaps to Make the String Balanced
+- Largest Pair Sum
+Practiced Pandas
+- Cloud Storage
+- IAM
+- Cloud Function
+- Pub/Sub
+",,,,,,,
+2024-10-09,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:00 - Pandas
+1:00 - 1:30 - Lunch
+1:30  - 2:00 - SQL
+2:00 - 6:00 - GCP","Minimum Add to Make Parentheses Valid
+Linked List Matrix
+- Practiced SQL
+- Google Cloud Network
+- Build Infrastructure with Terraform on Google Cloud
+",,,,,,,
+2024-10-10,SQL & Python & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:30 - SQL practice question
+12:30 - 1:00 - Pandas
+1:00 - 1:30 - Lunch
+1:30  - 2:00 - SQL
+2:00 - 6:00 - GCP
+","962. Maximum Width Ramp
+Max distance between same elements
+- Practiced SQl 
+GCP cost calculation ,  migratio tips,
+Buckets, Scaling",,,,,,,
+2024-10-14,Pyspark & GCP,"10:00 - 11:00 - Python practice question
+11:00 - 12:00 - Installation of Pyspark
+12:00 - 1:00 - Overview
+1:30 - 2:00 - LC connect
+2:00 - 2:30 - Lunch
+2:30 - 4:00 - pyspark
+4:00 - 6:00 - GCP revision
+","Pyspark,
+Gcp revision
+IAM , volumes, storage SQL, BigQuery",,,,,,,
+2024-10-15,Pyspark & GCP,"10:00 - 11:00 - Python Practice Question
+11:00 - 1:00 -  Pyspark
+1:00 - 1:30 - Lunch
+1:30 - 3:00 - Pyspark
+3:00 - 6:00 - GCP revision","2938. Separate Black and White Balls
+
+Reading a CSV file,
+Explored different reading options
+Handing missing values
+Managed Instance Group
+",,,,,,,
+2024-10-16,Pyspark & GCP,"10:00 - 11:00 - Python Practice Question
+11:00 - 1:00 -  Pyspark
+1:00 - 1:30 - Lunch
+1:30 - 3:00 - Pyspark
+3:00 - 6:00 - GCP revision","1405. Longest Happy String
+union and unionAll
+distinct
+
+IAM, Groups
+Custom Roles
+Service accounts
+Billing and cost optimization
+",,,,,,,
+2024-10-17,Pyspark & GCP,"10:00 - 11:00 - Python Practice Question
+11:00 - 1:00 -  Pyspark
+1:00 - 1:30 - Lunch
+1:30 - 3:00 - Pyspark
+3:00 - 6:00 - GCP revision","670. Maximum Swap
+Split Linked List Alternatingly
+
+- Pyspark : groupBy, agg, min, max, mean
+
+vpc network, app engine",,,,,,,
+2024-10-18,Pyspark & GCP,"10:00 - 11:00 - Python Practice Question
+11:00 - 1:00 -  Pyspark
+1:00 - 1:30 - Lunch
+2:00 - 3:00 - Town Hall
+3:00 - 6:00 - GCP revision
+","2044. Count Number of Maximum Bitwise-OR Subsets
+- Single number
+GCP revison- IAM , storage classes",,,,,,,
+2024-10-21,Pyspark & Revision,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL 
+1:00 - 2:00 - Lunch
+2:00 - 6:00 - PySpark","1593. Split a String Into the Max Number of Unique Substrings
+- Split the Array
+
+Pyspark - union, unionByName, select
+Joins",,,,,,,
+2024-10-22,Pyspark & Revision,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL 
+1:00 - 2:00 - Lunch
+2:00 - 6:00 - PySpark
+","2583. Kth Largest Sum in a Binary Tree
+- Sub-arrays with equal number of occurences
+1296. Divide Array in Sets of K Consecutive Numbers
+SQL practice
+Pyspark Assignment
+",,,,,,,
+2024-10-23,Revision,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL practice 
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Git & GitHub revision
+3:00 - 4:00 - GitHub Actions & CI/CD
+4:00 - 6:00 - Docker & Jenkins
+","2641. Cousins in Binary Tree II
+- Find the Sum of Last N nodes of the Linked List
+SQL Question practice
+Git revision
+GitHub actions - workflows",,,,,,,
+2024-10-24,Revision,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL practice 
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Git & GitHub revision
+3:00 - 4:00 - GitHub Actions & CI/CD
+4:00 - 6:00 - Docker & Jenkins
+","951. Flip Equivalent Binary Trees
+- Modify the Array
+- SQL practice questions
+- GitHub Actions",,  ,,,,,
+2024-10-25,Revision,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL practice 
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Git & GitHub revision
+3:00 - 4:00 - GitHub Actions & CI/CD
+4:00 - 6:00 - Docker & Jenkins
+","1233. Remove Sub-Folders from the Filesystem
+- Alternative Sorting
+- GitHub Actions & Docker ",,,,,,,
+2024-10-28,Revision & Aws,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL practice 
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Git & GitHub revision
+3:00  - 6:00 - AWS
+","2501. Longest Square Streak in an Array
+- Remove duplicates in array
+CI/CD  revision
+SQL Practice 
+AWS IAM, AWS CLI,Iam groups, Roles",  ,,,,,,
+2024-10-29,Revision & AWS,"10:00 - 12:00 - Python Practice question
+12:00 - 1:00 - SQL practice 
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Git & GitHub revision
+3:00  - 6:00 - AWS
+","2684. Maximum Number of Moves in a Grid
+- Quick Sort on Linked List
+-AWS EC2- fundamentals",,,,,,,
+2024-10-30,Revision & AWS,"10:00 - 12:00 - Python Practice question
+12:00 -  2:00 - AWS
+2:00 - 3:00 - Lunch
+3:00  - 6:00 - AWS
+","1671. Minimum Number of Removals to Make Mountain Array
+- Pairs with difference k
+- EC2  instances and types
+- spot fleets
+- Private and public IPs
+",,,,,,,
+2024-11-04,Revision & AWS,"10:00 - 12:00 - Python Practice question
+12:00 -  1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","3163. String Compression III
+- EC2 Placement Groups
+- EBS, ENI (Network interfaces)
+- EFS (File system)
+- Key difference between EBS and EFS
+",,,,,,,
+2024-11-05,Revision & AWS,"10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2914. Minimum Number of Changes to Make Binary String Beautiful
+- Elastic Load Balancing, ALB, NLB, 
+- Auto Scaling groups, Cloud Watch
+- RDS, Arora DB, Redis cache, Elastic Cache 
+",,,,,,,
+2024-11-06,Revision & AWS,"10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","3011. Find if Array Can Be Sorted
+- Laptop vs. Mobile Viewership
+- Average Post Hiatus (Part 1)
+- Teams Power Users
+- Duplicate Job Listings
+
+- Route53, DNS
+- Routing Policy, health checks
+",,,,,,,
+2024-11-07,Revision & AWS,"10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2275. Largest Combination With Bitwise AND Greater Than Zero
+
+- SQL Problems: 
+- Cities With Completed Trades
+- Average Review Ratings
+- Well Paid Employees
+-  App Click-through Rate (CTR)
+
+- AWS:
+- Solution Architect Overview
+- Beanstalk, Stateless and statefull Architecture
+ - Amazon S3
+ ",,,,,,,
+2024-11-08,Revision & AWS,"10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - AWS
+1:00 -  2:00 - Lunch
+2:00  - 3:00 - Town hall
+3:00 -  6:00 - AWS
+","1829. Maximum XOR for Each Query
+
+- Cards Issued Difference
+- IBM db2 Product Analytics
+- Second Day Confirmation
+- Compressed Mean
+
+- AWS:
+- AWS Cloud Front, Accelerator
+- Windows File Server
+- DataSync
+",,,,,,,
+2024-11-11,Revision & AWS,"10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2601. Prime Subtraction Operation
+
+SQL:
+- Pharmacy Analytics (Part 1)
+- Pharmacy Analytics (Part 2)
+- Pharmacy Analytics (Part 3)
+- Patient Support Analysis (Part 1)
+
+- AWS:
+SNS & SQS
+",,,,,,,
+2024-11-12,"Revision, Gen Ai & AWS","10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2070. Most Beautiful Item for Each Query
+- SQL :
+- User's Third Transaction
+- Second Highest Salary
+- Sending vs. Opening Snaps
+- Tweets' Rolling Averages
+- Highest-Grossing Items
+- Gen AI:
+- ChatGPT Prompt Engineering for Developers
+-AWS:
+- Amazon Kinesis
+- Container on AWS
+",,,,,,,
+2024-11-13,"Revision, Gen Ai & AWS","10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2563. Count the Number of Fair Pairs
+- SQL:
+- Odd and Even Measurements
+- Swapped Food Delivery
+-AWS:
+-Amazon Kubernetes service
+- AWS Lamda function
+",,,,,,,
+2024-11-14,"Revision, Gen Ai & AWS","10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","2064. Minimized Maximum of Products
+Distributed to Any Store
+- SQL;
+- Top Three Salaries
+- Top 5 Artists
+- Signup Activation Rate
+- Gen AI
+- Building Systems with the ChatGPT API
+- AWS:
+- Serverless Solution Architecture 
+- Databases in AWS
+- Data and  analytics
+",,,,,,,
+2024-11-15,"Revision, Gen Ai & AWS","10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","1574. Shortest Subarray to be Removed to Make Array Sorted
+- Supercloud Customer
+- IBM db2 Product Analytics
+- Gen AI
+- Building Systems with the ChatGPT API
+- AWS:
+- AWS Machine learning 
+",,,,,,,
+2024-11-18,"Revision, Gen Ai & AWS","10:00 - 12:00 - Python and SQL Practice question
+12:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","1652. Defuse the Bomb
+- FAANG Stock Min-Max (Part 1)
+- Gen AI
+- AWS and DevOps Practice",,,,,,,
+2024-11-19,CI/CD REVISON ,All day,CI/CD REVISON ,,,,,,,
+2024-11-20,Gen Ai & AWS,"10:00 -  1:00 - Gen AI
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","Gen Ai
+- AWS
+Could Watch, CP Metrics
+Cloud Trail
+",,,,,,,
+2024-11-21,Gen Ai & AWS,"10:00 -  11:00 - Gen AI
+11:00 - 1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+"," Gen Ai
+- AWS
+- Advanced IAM 
+- IAM Identity Center, Microsoft Active Directory
+- AWS security, Encryption, KMS
+- VPC
+",,,,,,,
+2024-11-22,Gen Ai & AWS,"10:00 -  11:00 - Gen AI
+11:00 - 1:00 - AWS
+1:00 - 2:00 - Lunch
+2:00  - 3:00 - Infosec/Townhall
+3:00 - 6:00 - AWS
+","Gen Ai
+- AWS
+- CIDR, Bastion Host, 
+- NAT gateways , NACL",,,,,,,
+2024-11-25,Gen Ai & AWS,"10:00 -  11:00 - Gen AI
+11:00 - 1:00 - AWS
+1:00 - 2:00 - Lunch
+2:00  - 6:00 - AWS
+","Gen AI
+- AWS
+- VPC - NACL, VPC peering
+- VPC endpoints
+- Application Migration Service (MGN)
+",,,,,,,
+2024-11-26,Gen Ai & AWS,"10:00 -  11:00 - Gen AI
+11:00 - 1:00 - AWS
+1:00 - 1:30 - Lunch
+2:00  - 6:00 - AWS
+","Gen Ai
+- Could Formation
+- AWS Other services
+- Practice test AWS SAA",,,,,,,
+2024-11-27,AWS,"10:00  - 1:00 - AWS  Revision
+1:00 - 1:30 - Lunch
+2:00  - 4:00 - Practice test
+4:00 - 6:00 - AWS
+","AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-11-28,AWS,"10:00  - 1:00 - AWS  Revision
+1:00 - 1:30 - Lunch
+2:00  - 4:00 - Practice test
+4:00 - 6:00 - AWS questions follow up
+","AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-11-29,AWS,"10:00  - 1:00 - AWS  Revision
+1:00 - 1:30 - Lunch
+2:00  - 3:00 - Town Hall
+3:00 - 6:00 - AWS questions follow up
+","AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-12-02,AWS,"10:00  - 1:00 - AWS  Revision
+1:00 - 1:30 - Lunch
+2:00  - 3:00 - Practice test on AWS
+3:00 - 6:00 - AWS questions follow up
+","AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-12-03,AWS & GenAi,"10:00  - 11:00 - Gen Ai 
+11:00 - 1:00 - AWS  Revision
+1:00 - 1:30 - Lunch
+2:00  - 3:00 - Practice test on AWS
+3:00 - 6:00 - AWS questions follow up
+","GenAi
+AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-12-04,AWS & GenAi,"10:00  - 11:00 - Gen Ai 
+11:00 - 12:00 - AWS  Revision
+12:00 - 1:30 - Practice test
+1:30 - 2:00 - Lunch
+2:00  - 3:00 - AWS assignment
+3:00 - 6:00 - AWS questions follow up
+","GenAi
+AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-12-05,AWS & Problem Solving,"10:00  - 11:00 - Problem Solving
+11:00 - 12:00 - AWS  Revision
+12:00 - 1:30 - Practice test
+1:30 - 2:00 - Lunch
+2:00  - 3:00 - AWS assignment
+3:00 - 6:00 - AWS questions follow up
+","2337. Move Pieces to Obtain a String
+AWS Revision
+- AWS Practice test
+- AWS Questions follow up
+",,,,,,,
+2024-12-06,AWS & Problem Solving & Ai ,"10:00  - 11:00 - Problem Solving
+11:00 - 12:00 - AWS  Revision
+12:00 - 1:30 - Practice test
+1:30 - 2:00 - Lunch
+2:00  - 3:00 -Town Hall
+3:00 - 6:00 - Gen Aoi
+
+","Aws Practice test
+- AWS 
+- Revision
+- Question to follow up",,,,,,,
+2024-12-09,"AWS Revision, Gen Ai","10:00 - 12:00 - AWS Revision
+12:00 - 1:00 - Aws Practice test
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Aws Practice test
+3:00 - 4:00 - Gen Ai 
+4:00 - 6:00 - Project on Gen Ai
+","Aws Revision
+- AWS Practice test
+- Follow up questions
+- Gen Ai",,,,,,,
+2024-12-10,"AWS Revision, Gen Ai","10:00 - 12:00 - AWS Revision
+12:00 - 1:00 - Aws Practice test
+1:00 - 2:00 - Lunch
+2:00 - 3:00 - Aws Practice test
+3:00 - 4:00 - Gen Ai 
+4:00 - 6:00 - Project on Gen Ai
+","Problem Solving 
+- AWS Follow up questions
+- AWS Practice questions
+- Code Jam - project implementation",,,,,,,
+2024-12-11,AWS Revision,"10:00 - 12:00 - AWS Revision
+12:00 - 2:00 - Aws Practice test
+2:00 - 3:00 - Lunch
+3:00 - 4:00 - Review Paper
+4:00 - 6:00 - Revision
+","AWS Revision
+Aws Practice test
+AWS Review test paper 
+",,,,,,,
+2024-12-12,AWS Revision,"10:00 - 12:00 - AWS Revision
+12:00 - 2:00 - Aws Practice test
+2:00 - 3:00 - Lunch
+3:00 - 4:00 - Review Paper
+4:00 - 6:00 - Revision
+","AWS follow up questions
+AWS Practice test
+AWS Review paper",,,,,,,
+2024-12-13,AWS Revision,"10:00 - 12:00 - AWS Revision
+12:00 - 2:00 - Aws Practice test
+2:00 - 3:00 - Lunch
+3:00 - 4:00 - Review Paper
+4:00 - 6:00 - Revision
+","AWS follow up questions
+AWS Practice test
+AWS Review paper",,,,,,,
+2024-12-16,AWS Revision,"10:00 - 12:00 - AWS Revision
+12:00 - 2:00 - Aws Practice test
+2:00 - 3:00 - Lunch
+3:00 - 4:00 - Review Paper
+4:00 - 6:00 - Revision
+","AWS follow up questions
+AWS Practice test
+AWS Review paper",,,,,,,
+2024-12-17,Gen Ai & Project review,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","Langchain for LLM Application
+Project - code jam review",,,,,,,
+2024-12-18,Gen Ai & Project review,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","Langchain for LLM Application
+Gen AI Course
+Debugging CodeJam",,,,,,,
+2024-12-19,Gen Ai & Project review,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","Langchain for LLM Application
+- Course 4
+Project - Code Jam
+- Debugging",,,,,,,
+2024-12-20,Gen Ai & Project review,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","Langchain for LLM Application
+- Course 4
+Project - Code Jam
+- Debugging",,,,,,,
+2024-12-23,Gen Ai & AWS Assignment,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","Gen Ai 
+AWS assignment 
+- SAM Template 
+- DynamoDB
+- Lamda 
+- Cloud Watch & Event bridge
+- SNS 
+",,,,,,,
+2024-12-24,Gen Ai & AWS Assignment,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","C5: LangChain Chat with your Data
+- AWS Assignment - 1
+- SAM Template
+- Lamda, SNS, Event Bridge, DynamoDB
+",,,,,,,
+2024-12-26,Gen Ai & AWS Assignment,"10:00 - 1:00 - Gen Ai 
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","C6: Functions, Tools and Agents with LangChain
+- Aws Assignment - 5",,,,,,,
+2024-12-27,AWS Assignment,"10:00 - 1:00 - AWS Assignment
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+","AWS Assignment - 2 
+AWS Assignment - 3
+AWS Assignment - 5 (debugging)",,,,,,,
+2024-12-30,AWS Assignment,"10:00 - 1:00 - AWS Assignment
+1:00 - 1:30 - Lunch
+3:00 - 6:00 - AWS Assignment
+",AWS Assignment - 4,,,,,,,
+2024-12-31,"AWS Assignment
+Project - CodeJam","10:00 - 12:30 - AWS Assignment
+12:30 - 1:30 - Project
+1:30 - 2:00 - Lunch
+2:00 - 6:00 - Project CodeJam
+
+","AWS Assignment - 4
+(Debugging)
+- Documentation",,,,,,,
+2025-01-02,"Project Codejam
+Project QuestionCrafter ","10:00 - 1:00 - CodeJam
+1:00  - 1:30 - Lunch
+2:00 - 6:00 - QuestionCrafter ","QuestionCrafter 
+- An AI based application which is capable of generating questions based on given text Input or PDF file 
+- MCQ
+- MCQ with answers
+- Long Questions
+- Long Questions with answers
+",,,,,,,
+2025-01-03,"Project Codejam
+Project QuestionCrafter ","10:00 - 1:00 - CodeJam
+1:00  - 1:30 - Lunch
+2:00 - 6:00 - QuestionCrafter 
+","Fixing Bug
+- Building a SPA with React ",,,,,,,
+2025-01-06,Project CodeJam,"10:00 - 1:00 - CodeJam
+1:00  - 1:30 - Lunch
+2:00 - 6:00 - CodeJam
+","Migrating database from local storage to AWS RDS
+- Minimal UI changes",,,,,,,
+2025-01-07,Project CodeJam,"10:00 - 1:00 - CodeJam
+1:00  - 1:30 - Lunch
+2:00 - 6:00 - CodeJam
+","Containerization & Deployement
+- ECS, ECR
+- ASG
+- ALB",,,   ,,,,
+2025-01-08,Project CodeJam,"10:00 - 1:00 - CodeJam
+1:00  - 1:30 - Lunch
+2:00 - 6:00 - CodeJam
+","Minor Feat added in GenAi Part
+- Containerization
+- Deployment",,,,,,,
+2025-01-09,"Prepearing presentation 
+
+Crew Ai- Multi Ai Agent","10:00 - 1:00 - Presenation
+1:00 - 1:30 - Lunch
+2:00 - 3:00 - Preparation
+3:00 - 4:00 - 4 month presentation
+4:00 - 6:00 -  Crew Ai","Presentation
+Learning about Crew Ai",,,,,,,
+2025-01-10,"Crew Ai- Multi Ai Agent
+Assignment","10:00 - 1:00 - Video Lecture
+1:00 - 2:00  - Lunch
+2:00  - 3:00 - Town Hall
+3:00 - 4:00 - Understanding the problem
+4:00 - 5:00 - Prerequisites  set up
+5:00 - 6:00 - Wroking on Problem Statement
+","Video lecture in Deeplearning.ai
+Prerequisites ",,,,,,,
+2025-01-13,"Crew Ai- Multi Ai Agent
+Assignment","10:00 - 1:00 - Debugging few steps
+1:00 - 2:00  - Lunch
+2:00 - 6:00 - Wroking on Problem Statement
+",Writing the code for pipeline of the data analysis system.,,,,,,,
+2025-01-15,"Crew Ai- Multi Ai Agent
+Assignment","10:00 - 1:00 - Modifying 
+1:00 - 2:00  - Lunch
+2:00 - 6:00 - Wroking on Problem Statement
+",Crewai Asssignment,,,,,,,
+2025-01-16,"Crew Ai- Multi Ai Agent
+Assignment","10:00 - 1:00 - Modifying 
+1:00 - 2:00  - Lunch
+2:00 - 6:00 - Wroking on Problem Statement
+",Crewai Asssignment,,,,,,,
+2025-01-17,"Crew Ai- Multi Ai Agent
+Assignment","10:00 - 1:00 - Modifying 
+1:00 - 2:00  - Lunch
+2:00 - 6:00 - Wroking on Problem Statement
+",Crewai Asssignment,,,,,,,
+2025-01-18,Onboarding to VGM Project,,,,,,,,,

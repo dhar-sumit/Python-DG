@@ -1,0 +1,132 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-09-03,INFOSEC,"11:30 - 13:30 : InfoSec Course
+13:30 - 14:30 : Lunch
+14:30 - 18:00 : InfoSec Course",ISO:27001 standard,,"1. What is infosec
+2. Importance of infosec
+3. Benefits and importance",,,,,
+2025-09-04,"INFOSEC
+DevOPs","10:00 - 12:30 : InfoSec Course
+12:30 - 13:00 : Daily Standup
+13:30 - 14:30 : Lunch
+14:30 - 15:30 : DevOps
+15:30 - 16:00 : CI/CD
+16:00 - 18:00 : Git commands","1. InfoSec course
+2. Started DevOps",,"1. DevOps pipelines
+2. Git rebase (interactive)",,,,,
+2025-09-05,Git,"10:00 - 12:00 : Git Assignment 1
+12:00 - 12:30 : Revision
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 16:00 : Git Assignment 2
+16:00 - 16:30 : Github revision
+16:30 - 18:00 : Github actions","1. Git assignment 1
+2. Git assignment 2
+3. Github actions",,"1. PR requests and reviews guidelines
+2. Github actions overview",,,,,
+2025-09-08,Github,"10:00 - 12:30 : Github Actions assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 16:00 : Jenkins setup
+16:00 - 17:30 : Docker setup","1. Github actions assignment
+2. Setup of jenkins + docker",,"1. Github actions
+2. Jenkins","Issues with jenkins and 
+docker setup",,,,
+2025-09-09,Jenkins,"10:00 - 12:30 : Jenkins topics
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 18:00 : Jenkins assignment","1. Jenkins topics
+2. Jenkins Hands-on
+3. Progress in jenkins assignment",,1. More Jenkins topics,Issues with jenkins due to windows,,,,
+2025-09-10,"Jenkins
+Docker","10:00 - 12:30 : Jenkins assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 15:30 : Docker concepts
+15:30 - 17:00 : Jenkins + Docker revision
+17:00 - 18:00: Docker hands-on","1. Jenkins Assignment
+2. Docker concepts
+3. Docker hands-on using docker images",,"1. Docker
+2. Docker architecture
+3. Docker images and containers
+4. Docker Hub ",,,,,
+2025-09-11,"Docker
+Python","10:00 - 12:30 : Docker concepts
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 16:00 : Python refreshers
+16:00 - 18:00 : Python hands-on","1. Docker concepts on storage and networks
+2. Python concepts refreshed
+3. Python concepts about iterators and generators",,"1. Docker Storage
+2. Python iterators and iterables
+3. Python generators",,,,,
+2025-09-12,Python,"10:00 - 12:30 : Python assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 16:00 : More Python concepts
+16:00 - 18:00 : Python assignment","1. Python assignment question 1-8
+2. Python OOPs concepts",,1. Python OOPs,,,,,
+2025-09-15,Python,"10:00 - 11:30 : Python assignment
+11:30 - 12:30 : TDD
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 15:00 : Mock and patch
+15:00 - 18:00 : TDD assignment","1. Python practice problems completed
+2. TDD concepts
+3. Mocks and patch
+4. TDD assignment",,"1. TDD
+2. Mock and patch
+3. Pytest fixtures
+4. AWS mocks using moto",,,,,
+2025-09-16,Python,"10:00 - 11:30 : TDD assignment completed
+11:30 - 12:30 : Python concurrency topics
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Intern Meeting
+14:00 - 15:00 : Lunch
+15:00 - 16:00 : Flask basics
+16:00 - 18:00 : REST API assignment","1. TDD assignment completed
+2. Python concurrency topics hands-on
+3. Flask hands-on
+4. REST API assignment",,"1. Multithreading
+2. Multiprocessing
+3. asyncio
+4. Flask",,,,,
+2025-09-17,Python,"10:00 - 12:30 : REST API assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 17:00 : REST API assignment","1. REST API assignment implementation
+2. MVC architecture",,"1. SQLAlchemy models
+2. MVC architecture
+3. Flask blueprints",,,,,
+2025-09-18,Python,"10:00 - 12:30 : REST API assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 15:30 : pandas
+15:30 - 17:30 : pandas hands-on","1. REST API assignment completed
+2. pandas",,"1. Testing flask apps
+2. pandas",,,,,
+2025-09-19,Python,"10:00 - 12:30 : ETL Job assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 15:30 : pandas hands-on
+15:30 - 17:30 : ETL Job assignment","1. more pandas concepts incuding plots
+2. ETL Job assingment started",,1.plots,,,,,
+2025-09-22,Python,"10:00 - 12:30 : ETL Job assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 17:30 : ETL Job assignment",1. ETL Job assignment completed,,"1. subplots
+2. Unstacking
+3. Multiindex",,,,,
+2025-09-23,Python,"10:00 - 12:30 : Google sheets converted assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 15:00 : RegExp hands-on
+15:00 - 18:00 : SQL info extractor assignment","1. Google sheets assignment completed
+2. SQL info extractor assignment completed",,"1. RegExp
+2. re module in python",,,,,
+2025-09-24,Python,"10:00 - 12:30 : Notepad tracker assignment
+12:30 - 13:00 : Daily Standup
+13:00 - 14:00 : Lunch
+14:00 - 16:00 : Documentations
+16:00 - 18:00 : Python concepts hands-on ",1. Notepad tracker assignment completed,,1. GitPython library,,,,,
+2025-09-25,,,,,,,,,,
+2025-09-26,,,,,,,,,,

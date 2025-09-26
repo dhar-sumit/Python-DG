@@ -1,0 +1,255 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+14/07/2025,Information Security (ISO27001 Standards),"12:00 PM - 1:00 PM ISO
+2:00 PM - 5:00 PM ISO",Information Security Course,,"ISMS, ISO27001",,https://kallakruparaju185.atlassian.net/jira/software/projects/CPG/pages?atlOrigin=eyJpIjoiYmY5ZmZhMGI1ZjUwNGJmZjgzZWUzODZmM2Y5YmY1YTEiLCJwIjoiaiJ9,"https://kallakruparaju185.atlassian.net/browse/CPG-7
+https://kallakruparaju185.atlassian.net/browse/CPG-10",,
+15/07/2025,Git,"10:00 AM - 11:00 AM Version control system 
+11:00 AM - 1:00 PM Git Repository, Branches, Clone 
+2:00 PM - 4:00 PM Merge, Merge Conflicts, PR, Fork, Rebase
+4:00 PM to 5:00 PM Reset, Revert, Stash, Reflog","1. VCS, Git Basics
+2. Git Branches, clones
+3. Merge, Merge Conflicts, Rebase
+4. Pull Requests, Fork
+5. Reset, Revert,
+6. Stash, Reflog",,"Reflog, Alternative Git commands",,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/163879/Git+-+Version+Control+System?atlOrigin=eyJpIjoiMTFjYjUxYjgxNDI0NGZkZDhhYTQ5YzA3ZGNmYTEwMzciLCJwIjoiaiJ9,https://kallakruparaju185.atlassian.net/browse/CPG-9,,
+16/07/2025,Git and Linux,"10:30 AM- 12:00 PM Assigmnemt 1 and Assignment 2
+12:00 PM - 12:30 PM Discussion with LC
+12:30 PM - 2:00 PM Basic Linux Commands
+3:00 PM - 5:00 PM Linux Commands","1. Git Assignment 1
+2. Git Assignment 2
+3. CLI Usage
+4. Configuration file snippets (for SSHD, crontab, etc.)",,"Crontab, yum, dnf",,https://kallakruparaju185.atlassian.net/jira/software/projects/CPG/pages?atlOrigin=eyJpIjoiOTQ5YzAwNTlhM2E0NGVlNzk0OGU2OGUzMjFmZmEwYTkiLCJwIjoiaiJ9,https://kallakruparaju185.atlassian.net/browse/CPG-11,,
+17/07/2025,AWS EC2. S3,"10:00 Am - 12:00 PM EC2 web server
+12:30 PM - 1:30 PM EC2 instance types
+2:30 PM - 5:00 PM S3 and IAM","1. EC2 Assignment
+2. more about EC2
+3. S3",,EC2 instance types,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/2457609/Deploying+a+Web+page+on+EC2?atlOrigin=eyJpIjoiNzg1NjIxNTM0NDdhNGVkN2I3MjJmNmFjMjE2Nzk0ODIiLCJwIjoiaiJ9,https://kallakruparaju185.atlassian.net/browse/CPG-12,,
+18/07/2025,"IAM, Policies, Bucket Policies
+Docker Basics","10:00 AM - 12:30 PM S3 creation, IAM
+1:30 PM - 2:30 PM Bucket Policies
+2:30 PM - 5:30 PM Docker ","1. Created S3, new IAM user and created an inline policy
+2. Docker Basics
+3. Creation of Containers",,"Bucket Policies, S3",,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/3047426/Creating+a+S3+bucket+and+User?atlOrigin=eyJpIjoiMTcwM2NiZmE1OTM5NDU3OWE0NDM4MjdiZTc1NTAzYzEiLCJwIjoiaiJ9,,,
+21/07/2025,Docker,"10:00 AM - 11:00 AM Docker container creation
+11:00 AM - 12:30 PM Docker Networking, Volumes
+12:30 PM - 1:00 PM Discussion with LC
+2:00 PM - 3:30 PM Dockerfile, Docker Compose
+3:30 PM - 4:30 PM Docker Swarm","1. Docker Container
+2. Docker Networking
+3. Docker Volume
+4. Creation of flask app in Docker
+5. Docker Swarm",,"Docker Swarm, Flask in Docker",,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/3145755/Docker?atlOrigin=eyJpIjoiMWM2YzExOTJhNTVlNDBhOTk0NzkyNTllOWY3YTg3MDUiLCJwIjoiaiJ9,,,
+22/07/2025,Jenkins,"10:00 AM - 12:00 PM Jenkins and it's Architecture
+12:00 PM - 1:30 PM Jenkins UI
+2:30 PM - 5:30 PM Jenkins Pipeline","1. Jenkins and Architecture
+2. CI/CD Pipeline Overview
+3. Difference Between Freestyle and Pipeline Jobs",,Jenkins Pipelines,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/4751361/Jenkins?atlOrigin=eyJpIjoiZWZmZjBjODFlM2M2NDU2MTg2NDZjYzIwOThiMjE2ZTgiLCJwIjoiaiJ9,,,
+23/07/2025,Jenkins,"10:00 AM - 12:00 PM Pipeline Creation
+12:30 PM - 1:30 PM Creating Agents
+2:30 PM -  5:00 PM Multibranch Pipeline and Poll SCM","1. Stage, steps and Post action
+2. Creating Pipeline
+3. Jenkinsfile
+4. Agents (SSH, JNLP)
+5. Multibranch Pipeline and Triggers",,Pipeline and Agent Creation,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/4751361/Jenkins?atlOrigin=eyJpIjoiZWZmZjBjODFlM2M2NDU2MTg2NDZjYzIwOThiMjE2ZTgiLCJwIjoiaiJ9,,,
+24/07/2025,Jenkins,"10:00 AM - 12:30 PM Multibranch Pipeline Creation
+2:00 PM - 3:30 PM Credential Management
+3:30 PM - 6:00 PM SSH key pair generation","1. Credential Management
+2. SSH key pair generation
+3. Creation of Multibranch Pipeline and Agents",,SSH key pair,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/4751361/Jenkins?atlOrigin=eyJpIjoiZWZmZjBjODFlM2M2NDU2MTg2NDZjYzIwOThiMjE2ZTgiLCJwIjoiaiJ10,,,
+25/07/2025,"Jenkins, Docker, AWS","10:00 AM - 12:30 PM Using Jenkins inside EC2
+2:00 PM - 3:00 PM Creating a Docker image using Jenkins
+3:00 PM - 6:00 PM Revision on Jenkins and Docker","1. Flask app using Jenkins
+2. Jenkins inside EC2",,Flask ,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/4751361/Jenkins?atlOrigin=eyJpIjoiZWZmZjBjODFlM2M2NDU2MTg2NDZjYzIwOThiMjE2ZTgiLCJwIjoiaiJ11,,,
+28/07/2025,Python,"10:00 AM - 12:30 PM Basics of Python
+2:00 PM - 3:30 PM OOPs in Python
+3:30 PM - 4:30 PM Inheritence and error Handling
+4:30 PM - 6:00 PM Generators, File operations","1. Flow Control and recurssion
+2. OOPs in Python
+3. Error Handling
+4. File Operations",,Generators and Iterators,,,,,
+29/07/2025,Python,"10:00 AM - 12:00 PM Shared Libraries, Built-in Functions
+12:00 PM - 2:00 PM Virtual environment, Standard modules and packages
+2:30 PM - 5:30 PM Flask","1. Shared Libraries, Built-in Functions
+2. Standard modules and packages
+3. Flask",,Flask Concepts,,,,,
+30/07/2025,Flask,"10:00 AM - 11:00 AM Templates and Static files
+11:00 AM - 12:30 PM HTTP request handeling
+2:00 PM - 3:00 PM Form and HTTP request handeling
+3:00 PM - 5:30 PM Integration with SQL","1. Templates and Static
+2. HTTP request
+3. Integration with SQL
+4. Creation of basic Flask app",,Integration with SQL,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/7012353/Flask?atlOrigin=eyJpIjoiYjQ2YjJhZTFiNDhiNGRjNTk3ZjkwOGRlMWU1ODViZTciLCJwIjoiaiJ9,,,
+31/07/2025,Flask,"10:00 AM - 11:30 AM Blueprints
+11:30 AM - 1:30 PM REST APIs
+2:30 PM - 3:30 PM Sessions and Cookies
+3:30 PM - 5:00 PM error handling and pytest
+5:00 PM - 6:00 PM Gunicorn","1. Blueprints
+2. REST APIs
+3. Custom error pages
+4. pytest",,Sessions and Cookies management using Flask,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/7012353/Flask?atlOrigin=eyJpIjoiYjQ2YjJhZTFiNDhiNGRjNTk3ZjkwOGRlMWU1ODViZTciLCJwIjoiaiJ9,,,
+2025-01-08 00:00:00,Python and Flask,"10:00 AM - 11:30 AM Gunicorn
+11:30 AM - 12:30 PM Python Assignment
+2:00 PM - 6:00 PM Python  Assignment","1. Gunicorn
+2. Python Assignments",,Gunicorn,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/7667715/Python+Assignment?atlOrigin=eyJpIjoiODEwM2NhNjhjNGE2NGQ4ZGIyYWJlMDJmMWJkOWUzZDUiLCJwIjoiaiJ9,,,
+2025-04-08 00:00:00,Python and SQL,"10:00 AM - 12:30 PM Python assignment
+2:00 PM - 3:00 PM Basics of SQL, Schema and ER Diagram
+3:00 PM - 4:00 PM Constraints
+4:00 PM - 6:00 PM DDL ","1. Python Assignment
+2. Introduction to SQL
+3.Types of constraints
+4. DDL syntax and usage",,,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/9240577/SQL?atlOrigin=eyJpIjoiYjc1YWYwMGFlNjAyNDJjOTg1MjZiNzIzNWQ1MWYyN2QiLCJwIjoiaiJ9,,,
+2025-05-08 00:00:00,SQL,"10:00 AM - 11:00 AM DML
+11:00AM - 12:30 PM Clauses
+2:00 PM - 3:00 PM Views and Assertions
+4:00 PM - 5:00 PM Triggers
+5:00 PM - 6:00 PM Stored Procedures","1. DDL and Clauses
+2. Views, Assertion, Triggers
+3. Stored Procedures",,Stored Procedures,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/9240577/SQL?atlOrigin=eyJpIjoiYjc1YWYwMGFlNjAyNDJjOTg1MjZiNzIzNWQ1MWYyN2QiLCJwIjoiaiJ10,,,
+2025-06-08 00:00:00,SQL,"10:00 AM - 11:00 PM Transactions
+11:00 AM - 12:00PM DCL 
+12:30 PM - 1:30 PM Normalisation
+2:30 PM - 6:00 PM Types of Normalisation ","1. Transactions
+2. DCL
+3. Normalisation and it's types",,DCL,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/9240577/SQL?atlOrigin=eyJpIjoiYjc1YWYwMGFlNjAyNDJjOTg1MjZiNzIzNWQ1MWYyN2QiLCJwIjoiaiJ11,,,
+2025-07-08 00:00:00,SQL,"10:00 AM - 12:30 PM Window Functions
+2:00 PM - 3:30 PM Indexing
+3:30 PM - 6:00 PM Assignments","1. Window Functions
+2. Indexing
+3. Assigment 1",,"Window functions, Indexing",,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/9240577/SQL?atlOrigin=eyJpIjoiYjc1YWYwMGFlNjAyNDJjOTg1MjZiNzIzNWQ1MWYyN2QiLCJwIjoiaiJ12,,,
+2025-08-08 00:00:00,SQL,SQL Assignments,Assignment 1 and 2,,,,https://kallakruparaju185.atlassian.net/wiki/spaces/CPG/pages/9240577/SQL?atlOrigin=eyJpIjoiYjc1YWYwMGFlNjAyNDJjOTg1MjZiNzIzNWQ1MWYyN2QiLCJwIjoiaiJ13,,,
+2025-11-08 00:00:00,AWS EC2,"10:00 AM - 11:00 AM Introduction to AWS
+11:00 AM - 12:30 PM EC2
+2:00 PM - 3:00PM AMIs and instance types
+3:00 PM - 4:00 PM Key pair and Security Groups","1. AMI
+2. Instance family
+3. Key Pair and Security Groups",,,,,,,
+2025-12-08 00:00:00,AWS,"10:00 AM - 11:00 AM Creation of EC2 instance
+11:00 AM - 12:30 PM Security groups and rules
+2:00 PM - 3:00 PM EBS, EFS, Difference Between them
+3:00 PM - 4:30 PM what is security group and nacl
+4:30 PM - 6:00 PM IAM, instance profile and it’s use case, user data
+","1. EBS, EFS
+2. Difference between Security group and NACL
+3. IAM, Instance Profile",,"NACL, EFS",,,,,
+13/08/2025,AWS EC2,"10:00 AM - 11:00 AM Cloudwatch, metrics
+11:00 AM - 12:30 PM Metadata, authentication protocol
+2:30 PM - 4:00 PM root volume and EBS volume
+4:00 PM - 6:00 PM Snapshot","1. Cloudwatch, metrics
+2. Metadata
+3. Root Volume and EBS volume
+4. Snapshot",,"Metrics, Root Volume and EBS Volume",,,,,
+14/08/2025,AWS S3,"10:00 AM - 11:00 AM Intro on S3
+11:00 AM - 12:30 PM Storage Classes
+2:00 PM - 3:30 PM Access control using IAM policy
+3:30 PM - 6:00 PM Types of Access control in S3","1. Storage Classes
+2. Access Control and types",,Types of storage classes,,,,,
+18/08/2025,"AWS S3, EC2","10:00 AM - 11:00 AM Difference between the S3 and EBS
+11:00 AM - 12:30 PM How to attach EC2 with S3
+2:00 PM - 3:00 PM Bucket policies
+3:00 PM - 4:30 PM Access point Policy
+4:30 PM - 6:00 PM ACLs and Session policies","1. Difference between the S3 and EBS
+2. How to attach EC2 with S3
+3. Bucket policies
+4. Access point Policy
+5. ACLs and Session policies",,Access point policy,,,,,
+19/08/2025,AWS VPC,"10:00 AM - 11:00 AM Introduction on VPC
+11:00 AM - 12:30 PM Subnet (Private and Public), CIDR Block
+2:00 PM - 3:30 PM Route Table
+3:30 PM - 5:30 PM Internet Gateway, Elastic IP","1. VPC
+2. Subnet (Private and Public)
+3. CIDR Block
+4. Route Table, Internet Gateway
+5. Elastic IP",,VPC,,,,,
+20/08/2025,AWS VPC,"10:00 AM - 11:00 AM NAT Devices
+11:00 AM - 12:30 PM Accessing the Private Subnet
+2:00 PM - 3:30 PM Difference between Private and Public subnet, Switch and Router Difference
+3:30 PM - 5:30 PM Network Topics","1. Difference between NAT and Gateway
+2. Accessing Private Subnet
+3. Private and Public inbound and outbound rules
+4. Switchs and Routers Difference
+5. Network Topics",,"NAT and Gateway difference, Switches and Routers",,,,,
+21/08/2025,AWS EBS,"10:00 AM - 11:00 AMTypes of EBS Volumes 
+11:00 AM - 12:30 PM EBS Snapshots, AMIs
+2:00 PM - 3:00 PM EBS Encryption
+3:00 PM - 4:30 PM EBS Performance & Optimization
+4:30 PM - 6:00 PM EBS Multi-Attach","1. Types of EBS Volumes 
+2. EBS Snapshots, AMIs
+3. EBS Encryption
+4. EBS Performance & Optimization
+5. EBS Multi-Attach",,"EBS Encryption, Snapshot, AMIs",,,,,
+22/08/2025,AWS EFS,"10:00 AM - 11:00 AM Use Cases of EFS
+11:00 AM - 12:30 PM EFS Architecture & Working
+2:00 PM - 3:30 PM Mount Targets and NFS Protocol
+3:30 PM - 5:30 PM EFS Storage Classes (Standard, Infrequent Access)","1. Use Cases of EFS
+2. EFS Architecture & Working
+3. Mount Targets and NFS Protocol
+4. EFS Storage Classes (Standard, Infrequent Access)",,EFS Architecture,,,,,
+26/08/2025,AWS CLI,"10:00 AM – 11:00 AM Installing, Configuring, & General CLI Usage 11:00 AM – 12:30 PM AWS CLI Command Structure & Help System 2:00 PM – 3:30 PM Service Command Categories & Examples 3:30 PM – 5:30 PM Querying, Scripting","1. Installing, Configuring & General CLI Usage
+2. AWS CLI Command 
+3. Service Command Categories & Examples
+4. Querying, Scripting & Advanced Usage",,,,,,,
+28/08/2025,AWS Cloudformation,"10:00 AM – 11:00 AM — Template Anatomy
+11:00 AM – 12:30 PM — Intrinsic Functions & Parameters
+2:00 PM – 3:30 PM — Mappings, Conditions & Outputs
+3:30 PM – 5:30 PM — Metadata & Transform","Template Anatomy
+
+Intrinsic Functions & Parameters
+
+Mappings, Conditions & Outputs
+
+Metadata & Transform",,,,,,,
+29/08/2025,AWS Lambda,"10:00 AM – 11:00 AM  CloudFormation Registry & Extensions
+11:00 AM – 12:30 PM  Lambda and EC2 difference
+2:00 PM – 3:30 PM Lambda-Backed Custom Resources
+3:30 PM – 5:30 PM Event Source Mapping & Automatic Custom Resource Triggers
+5:30 PM – 6:00 PM Use Cases","CloudFormation Registry & Extensions
+Lambda vs EC2: Key Differences
+Lambda-Backed Custom Resources
+Event Source Mapping & Automatic Custom Resource Triggers
+Use Cases",,,,,,,
+2025-01-09 00:00:00,Pyspark,"10:00 AM – 11:00 AM – SparkSession & SparkContext
+11:15 AM – 12:30 PM – RDDs vs DataFrames
+2:00 PM – 3:30 PM – Transformations & Actions
+3:45 PM – 5:00 PM – Spark SQL & DataFrame API","SparkSession & SparkContext
+
+RDDs vs DataFrames
+
+Transformations & Actions
+
+Spark SQL & DataFrame API",,,,,,,
+2025-02-09 00:00:00,Pyspark,"10:00 AM – 11:00 AM – Schema & Data Types
+11:15 AM – 12:30 PM – Structured Streaming
+2:00 PM – 3:30 PM – Machine Learning with MLlib
+3:45 PM – 5:00 PM – Performance Optimization Techniques","Schema & Data Types
+
+Structured Streaming
+
+Machine Learning with MLlib
+
+Performance Optimization Techniques",,,,,,,
+2025-03-09 00:00:00,Pyspark,"0:00 AM – 11:00 AM – UDFs (User Defined Functions)
+11:15 AM – 12:30 PM – Graph Processing (GraphFrames)
+2:00 PM – 3:00 PM – RDD (Resilient Distributed Dataset)
+3:15 PM – 4:15 PM – Pandas API on Spark
+4:30 PM – 5:30 PM – Data Sources (CSV, JSON, Parquet)","1. UDFs
+2. Graph Processing
+3. RDD
+",,,,,,,
+2025-04-09 00:00:00,Power BI,"10:00 AM - 11:00 AM Power BI Fundamentals
+11:00 AM - 12:30 AM Data Preparation, Data Modeling
+2:00 PM - 3:00 PM Data Visualization
+3:00 PM - 6:00 PMAdvanced DAX, Power BI Service","Power BI Fundamentals
+Data Preparation, Data Modeling
+Data Visualization
+Advanced DAX
+Power BI Service
+",,,,,,,
+2025-05-09 00:00:00,Power BI,"10:00 AM - 11:30 AM Data Refresh & Gateways
+11:30 AM - 12:30 PM Security in Power BI
+2:00 PM - 4:00 PM Collaboration & Deployment
+4:00 PM - 6:00 PM Advanced Integrations & Optimization","
+Data Refresh & Gateways
+Security in Power BI
+Collaboration & Deployment
+Advanced Integrations & Optimization",,,,,,,
+2025-08-09 00:00:00,AWS,IAM topics in depth,,,,,,,,
+2025-09-09 00:00:00,AWS,,,,,,,,,

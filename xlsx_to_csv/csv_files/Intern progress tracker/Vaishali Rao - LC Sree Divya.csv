@@ -1,0 +1,526 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+14/07/2025,Information Security,"12:00  - 13:00  ISO
+14:00  - 17:00  ISO",Information Security,,Security Standards,,,,,
+15/07/2025,"ISO27001 Standards
+Github ","10:30 - 14:00  ISO 
+14:00 - 14:30  lunch
+14:30 - 15:30  GIT basics, commands, branches,  merges  
+15:30 - 16:30  Git Assignment1","1.ISO Course done
+2.Github 
+3.Setting up git and git bash  
+4.Assignment1 Github",,"Squashing
+Drop commits",Rebase,,,,
+16/07/2025,Git,"09:30 - 11:30   VCS setup & Rebasing  
+11:30 - 13:30   Viewing history  
+12:30 - 12:45   Meet with LC  
+13:30 - 14:00   Lunch  
+14:00 - 17:00   Git Assignment2","1.Git log commands 
+2.Rebasing
+3.More about squashing , reflog
+4.Documentation of commands
+5.README.md
+6.Assignment2 Github",,"Reflog
+Logging
+",,,,,
+17/07/2025,"Git
+Jenkins","10:30 - 12:30  Pull Requests ,  git ignore
+12:30 - 12:45  Meet with LC
+12:45 - 13:30  DevOps
+13:30 - 14:00  Lunch
+14:00 - 18:00  DevOps, Jenkins","1.Git ignore 
+2.PRs
+3.What is DevOps?
+4.CI/CD, IaC
+5.What are CD pipelines
+6.What is Jenkins?
+7.Installation of chocolatey and jenkins",,"CD Pipeline
+Unit and Integration Tests",,,,,
+18/07/2025,Jenkins,"10:00 - 12:30  Jenkins build job and pipeline
+12:30 - 12:45  Meet with LC
+12:45 - 13:30  Jenkinsfile
+13:30 - 14:00  Lunch
+14:00 - 17:00  Job Parameters 
+17:00 - 18:00  Documentation and Revise","1.Jenkins build job
+2.How to make jekins pipeline
+3.Jenkinsfile
+4.Build job with parameters",,"Jenkinsfile
+Build Jobs
+",,,,,
+21/07/2025,Jenkins & Docker,"10:00 - 12:00 Build Pipeline with Input and Parameters
+12:00 - 13:30 Docker Basics
+13:30 - 14:00 Lunch
+14:00 - 15:00  Docker Images
+15:00 - 16:00 Docker Containers
+16:00 - 18:00 Docuemntation
+","1.Pipelines with user input
+2.Pipelines with parameters 
+3.What does docker do?
+4.Docker Images
+5.Containers",,"Input in pipelins
+Images",,,,,
+22/07/2025,Docker,"10:30 - 12:30 Docker Installation, commands
+12:30 - 13:30 Docker pratice project
+13:30 - 14:00 Lunch
+14:00 - 16:30 Docker compose 
+16:30 - 18:00 Jenkins & Docker
+","1.Docker commands
+2.Running containers
+3.Docker Compose yaml files",,Docker compose,,,,,
+23/07/2025,Jenkins & Docker,"10:00 - 12:30 CI/CD Assignment,Webhooks
+12:30 - 13:00 Meet with LC
+13:00 - 13:30 Lunch
+13:30- 16:00  Docker & Jenkins
+16:00 - 18:00 Documentation and Revise","1.Connecting git repo to Jenkins
+2.Integrating Docker plugin 
+3.Webhooks and triggers
+4.CI/CD Assignment
+5.Docker Hub ",,Webhooks,,,,,
+24/07/2025,AWS cloudformation,"10:30 - 12:30 Python basics
+12:30 - 12:45 Meet with LC
+12:45 - 13:30 AWS Cloud Formations
+13:30 - 14:00 Lunch
+14:00 - 16:00 AWS SAM
+  ","1.Python i/o , variables
+2.Formatting
+3.Typcasting , operators
+4.Installing wsl for Docker agent
+5.Stacks in cloudformation
+6.SAM in AWS
+",,"SAM
+",,,,,
+25/07/2025,CI/CD Assignment,"09:30 - 11:30 Configure requirements for WSL
+11:30 - 12:30 Set up SAM template
+12:30 - 12:45 Meet with LC
+12:45 - 13:30 jenkins set up for wsl
+13:30 - 14:00 Lunch
+14:00 - 16:00 CI/CD Assginment  
+","1.WSL - docker , jenkins , aws cli
+2.aws sam templates 
+3.linux jenkins dashboard
+4.CI/CD assignment",,,,,,,
+28/07/2025,Python,"10:00 - 11:00 Revise 
+11:00 - 12:30  Conditional statements 
+12:30 - 13:00 Meet with LC
+13:00 - 13:30 Lunch
+13:30 - 16:30 Functions
+16:30 - 18:00 Documentation
+","1.if else
+2.loops
+3.functions
+4.pass by value & reference
+5.recursion
+6.lambda functions
+",,Lambda functions,,,,,
+29/07/2025,Python,"10:30 - 12:30 Functions
+12:30 - 12:45 Meet with LC
+12:45 - 13:30 Decorators
+13:30 - 14:00 Lunch
+14:00 - 16:00 Strings","1.self
+2.*args , **kwargs
+3.First-class functions
+4. map(), filter()
+5.Inner functions,decorators
+6.Strings and string functions
+",,"Variable length argument functions
+first class func
+Decorators",Decorators,,,,
+30/07/2025,Python,"10:00 - 12:30 Lists , Tuples
+12:30 - 12:45 Meet with LC
+12:45 - 14:00 Dictionary , set
+14:00 - 14:30 Lunch
+14:30 - 15:30 Arrays , Assignment","
+1.Lists , list operations
+2.tuple , tuple operations
+3.dictionary
+4.sets
+5.arrays and numpy
+6.Assignment q3,4,5,7,8
+",,,yeild (generator),,,,
+31/07/2025,Python,"10:00 - 12:30 Python dsa libraries/collections
+12:30 - 12:45 Meet with LC 
+12:45 - 13:30 DSA
+13:30 - 14:00 Lunch
+14:00 - 15:00 Time complexity
+15:00 - 17:00 OOPs concepts
+","
+1.linked lists,deque
+2.queue,stack
+3.Assignment q6
+4.DSA
+5.Time and space complexity
+6.Classes , objects , inheritance,polymorphism
+7.LeetCode 1
+",,enumerate,"hashmap,heaps",,,,
+2025-01-08 00:00:00,Python,"10:00 - 11:30 Abstract and iterator classes, assignment
+11:30 - 12:30 web scraping
+12:30 - 12:45 Meet with LC
+12:45 - 14:00 File handling
+14:00 - 14:30 Lunch
+14:30 - 15:30 DSA
+15:30 - 17:00 file handling
+","1.iteratr class
+2.downloading web pages
+3.LeetCode 1752
+4.read , write to files",,,,,,,
+2025-05-08 00:00:00,Python Flask,"10:30 - 12:30 Unit testing
+12:30 - 13:00 Meet with LC
+13:00 - 13:30 DSA
+13:30 - 14:00 Lunch
+14:00 - 15:00 Flask rotuing and basics
+15:00 - 17:00 HTML templates
+17:00 - 18:00 Documentation","1.pytest
+2.unittest
+3.unittest assignment
+4.LeetCode 7
+5.flask
+6.routing
+7.rendering html pages
+",,"pytest
+flask",,,,,
+2025-06-08 00:00:00,Flask,"10:00 - 11:30 Flask session and cookies
+11:30 - 12:30 Python Assignment 
+12:30 - 13:00 Meet with LC
+13:00 - 14:00 Python assignment
+14:00 - 14:30 Lunch
+14:30 - 15:00 DSA
+15:00 - 17:00 SQLAlchemy in flask
+17:00 - 18:00 Documentation
+","1.session
+2.cookies
+3.assignment
+4.Leetcode 151",,,,,,,
+2025-07-08 00:00:00,Flask & SQL,"10:00 - 12:00 Python Assignment
+12:00 - 12:30 RDBMS
+12:30 - 13:00 Meet with LC
+13:00 - 13:30 DSA
+13:30 - 14:00 Lunch
+14:00  - 16:00 PostgreSQL setup and basics","1.rest api assignment
+2.LeetCode 260
+3.RDBMS
+4.SQL clauses
+5.Postgres install ",,,,,,,
+2025-08-08 00:00:00,SQL,"10:00 - 12:00 Python sql assignment
+12:00 - 12:30 order by clauses
+12:30 - 13:00 Meet with LC
+13:00 - 14:00 LeetCode
+14:00 - 14:30 Lunch
+14:30 - 16:00 SQL & assignment 
+16:00 - 18:00 Documentation
+","1.mysql and python connection
+2.LeetCode 779
+3.order by  , limits , offsets
+4.aggregates",,,,,,,
+2025-11-08 00:00:00,SQL,"10:00 - 12:30  group by, having , assessment1
+12:30 - 13:00 Meet with LC
+13:00 - 13:30 LeetCode
+13:30 - 14:00 Lunch
+14:00 - 16:00 LEFT , RIGHT , INNER JOINS,UNIONS 
+17:00 - 18:00 Document
+","1.having 
+2.group by
+3.like
+4.inner join
+5.full outer join
+6.assessment questions
+7.LeetCode 287
+8.SQL assignment qs",,,,,,,
+13/08/2025,SQL,"10:00 - 12:30 : timestamps,extract
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Leetcode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : String functions,operators
+16:00 - 18:00 : assignment & document","1.extract
+2.timestamp
+3.age()
+4.LeetCode 1903",,,,,,,
+14/08/2025,SQL,"10:30 - 12:30 : HackerRank
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 15:00 : Python Textwrap
+15:00 - 17:00 : SQL Assessent Test 2","1.hackerrank questions
+2.python textwrap
+3.sql query sequence
+4.sql assessment test 2
+5.LeetCode 53",,,,,,,
+18/08/2025,SQL,"10:30 - 12:30 : SQL assignment
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : LeetCode
+14:00 - 16:00 : SQL assgn","1.LeetCode 48
+2.SQL assgn q6-q10
+3.SQL assessment 2 q8-q14",,,"case
+coalesce",,,,
+19/08/2025,SQL,"10:00 - 12:30 : Case and Advance select
+13:30 - 13:00 : Meet with LC
+13:30 - 14:00 : LeetCode
+14:00 - 16:00 : HackerRank joins , case ","1.LeetCode 1614,921
+2.CASE
+3.NULLIF
+4.Views
+5.COALESCE",,CTE,,,,,
+20/08/2025,PostgreSQL & Python,"10:00 - 12:30 : Psycopg2
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Leetcode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : SQL and python HackerRank","1.Leetcode 34,35
+2.pscyopg2",,,,,,,
+21/08/2025,SQL& Spark,"10:30 - 12:30 : Window functions
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 18:00 : Spark","1.rank(),dense_rank(),over(),partition by
+2.What is spark
+3.LeetCode 2149",,,,,,,
+22/08/2025,Spark,"10:30 - 12:30 : Saprk set up and installation
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : LeetCode
+14:00 - 16:00 : PySpark and Rdd basics
+","1.Leetcode 12.
+2.anaconda setup
+3.spark architecture
+4.what is rdd?",,,,,,,
+25/08/2025,Spark,"10:00 - 12:30 : Spark rdd actions and transformation
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : RDD addtional operations","1.rdd filter(), map() , count() , take(), collect(), reduce(), flatmap()
+2.LeetCode 1021.",,,,,,,
+26/08/2025,Spark,"10:30 - 12:30 : dataframes,creating dataframes
+12:30 - 13:00 : meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : Dataframes operations, null handling ","1.spark dataframes
+2.dataframes vs rdd
+3.create dataframes from rdd,csv,json,lists,tuples
+4.viewing dfs
+5.filtering dfs
+6.aggregating dfs
+7.column operations
+8.LeetCode 299",,,,,,,
+28/08/2025,Spark,"10:00 - 12:30 : Spark sql 
+12:30 - 13:00 : Meet wth LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 18:00 : Spark assgn","1.spark sql
+2.sql and dataframes
+3.loading data for sql
+4.createOrReplaceTempView()
+5.LeetCode 14
+6.Spark assgn question 1,2,3,5",,,,,,,
+29/08/2025,Spark ,"10:30 - 12:30 : Saprk assgn 
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 15:00 : MD hashing
+15:00 - 17:00 : Power BI
+","1.Spark assgn question 4,6
+2.LeetCode 152.
+3.MD hashing
+4.Intro to power bi",,,,,,,
+2025-01-09 00:00:00,Power BI,"10:30 - 12:30 : Power BI data analysis
+12:30 - 13:00 : Meet wiith LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : Load data into power bi","1.dashboards
+2.load data from csv
+3.load data from web
+4.connect to mysql server
+5.Append queries
+6.merge queries
+7. power bi module 2 & 3
+",,,,,,,
+2025-02-09 00:00:00,Power BI & Spark,"10:30 - 12:30 : Power BI visuals
+12:30 - 13:00 : Meet wiith LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 17:00 : Spark Architecture , GitHub revision","1.bar charts , line charts , pie chart , clustered bar charts , stacked bar charts
+2.formatting charts
+3.filters
+4.LeetCode 88 , LeetCode 451
+5.Spark architecture
+",,,,,,,
+2025-03-09 00:00:00,Spark ,"10:00 - 12:30 : Docker commands and jenkins plugin
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 17:00 : Spark lazy evaluation, dags
+","1.docker commands
+2.jenkins container in docker
+3.Leetcode 305.
+4.lazy evaluation
+5.actions vs tranformations",,,,,,,
+2025-04-09 00:00:00,Spark ,"10:30 - 12:30 : Repartition vs coalesce
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : Uber Dataset and real world data operations
+","1.repartiiton
+2.coalesce
+3.caching
+4.kaggle dataset spark operations
+5.LeetCode 153
+",,,,,,,
+2025-05-09 00:00:00,Power BI ,"10:30 - 12:30 : Reports in Power BI
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : DAX
+","1.reports
+2.cards
+3.publishing reports
+4.normalization
+5.LeetCode 3.
+6.star vs snowflake
+7.DAX vs M
+8.sum(), sumx(), average(), count(),
+all(), calculate(), 
+",,,,,,,
+2025-08-09 00:00:00,Power BI,"10:30 - 12:30 : Real world projects
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 16:00 : Real world projects 
+","1.Power bi reports and projects
+2.LeetCode 1423",,,,,,,
+2025-09-09 00:00:00,Power BI,"10:30 - 12:30 : Yellow Taxi Dataset loading and merging
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode 
+13:30 - 14:00 : Lunch
+14:00 - 18:00 : Power BI Assignment
+","1.nyc datasets
+2.Loading and transforming data
+3.LeetCode 43.
+
+",,,,,,,
+2025-10-09 00:00:00,Power BI,"10:30 - 12:30 : DataBricks connection
+12:30 - 13:00 : Meet with LC
+13:00 - 14:30 : SnowFlake Connection
+14:30 - 15:00 : Lunch
+15:00 - 18:00 : Trip Data report","1.Databricks loading data
+2.Snowflake parquet files
+3.Snowflake warehouse and servers
+4.Power BI connection
+5.Relationship b/w trip and lookup data
+6.Report on data
+",,,,,,,
+2025-11-09 00:00:00,AWS,"10:30 - 11:00 : Publish app in power bi 
+11:00 - 12:30 : AWS intro , IAM
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 15:30 : IAM Users and Policies, 
+AWS CLI, CloudShell, Roles, Credential Reports 
+15:30 - 18:00 :  EC2 fundamentals
+","1.Power bi app 
+2.AWS IAM users
+3.IAM groups, permissions, policies, roles, MFA
+4.LeetCode 136
+5.LeetCode 50
+6.AWS CLI, CloudShell
+7.Creating ec2 instances ",,,,,,,
+2025-12-09 00:00:00,AWS,"10:00 - 12:30 : EC2 security groups
+12:30 - 12:45 : Meet with LC
+12:45 - 14:00 : EBS 
+14:00 - 15:00 : LeetCode
+15:00 - 18:00 : Load balancing, Documentation
+","1.security groups, elastic ip
+2.putty set up
+3.Placement groups
+4.ENI , hibernate
+5.volumes, snapshots
+6.load balancing",,,,,,,
+15/9/2025,Python SQL Revise,"10:00 - 12:30 : Auto scaling , rds , aurora
+12:30 - 12:45 : Meet with LC
+12:45 - 13:30 : LeetCode
+13:30 - 14:00 : Lunch
+14:00 - 18:00 : Revision","1.read replicas
+2.multi az
+3.aurora readers writers
+4.python revision, data structures, assgn questions, flask, mysql conn
+5.sql revision, window funcs
+",,,,,,,
+16/9/2025,Python SQL Revise,"10:00 - 12:30 : Revision
+13:00 - 14:00 : Intern Meet with Naveen
+14:30 - 16:00 : Python SQL Eval
+16:00 - 18:00 : AWS ElastiCache
+","1.pandas 
+2.sql cte views, case when",,,,,,,
+17/9/2025,AWS,"10:00 - 12:30 : Route 53
+12:30 - 13:00 : Meet with LC
+13:00 - 14:00 : solutions architecture discussions
+14:00 - 14:30 : Lunch
+14:30 - 15:30 : Python SQL solve qs
+15:30 - 18:00 : AWS S3
+","1.dns, set records 
+2.weighted routing policy, geoproximity routing policy, bias
+3.classic solutions architecture discussions
+4.s3 buckets
+5.hosting a static website in s3
+6.s3 bucket policies
+7.versioning 
+8.s3 replication, storage class , lifecycle
+",,,,,,,
+18/9/2025,AWS,"10:00 - 12:30 : AWS CloudFormation
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : Python practice qs
+14:00 - 16:00 : CloudWatch 
+16:00 - 18:00 : CDK 
+","1.cloudformation create update delete stacks
+2.templates, validating templates
+3.Infrastructure composer
+4.managing stacks using CLI
+5.cloudwatch, analysing metrics for ec2
+6.creating alarms
+7.what is cdk
+",,,,,,,
+19/9/2025,AWS,"10:00 - 12:30 : CDK CLI hands on
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : LeetCode
+14:00 - 16:00 : boto3
+16:00 - 18:00 : VPC
+","1.set up cdk
+2.creating s3 bucket using cdk
+3.Leetcode 10
+4.boto3 uploading files",,,,,,,
+22/9/2025,AWS,"10:00 - 12:30 : AWS SNS SQS
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : LeetCode
+14:00 - 17:00 : AWS Lambda
+17:00 - 18:00 : Documentation
+","1.what is sns, creating topics
+2.sending email to subscribers
+3.sending otp through boto3
+4.Leetcode 219
+5.lambda functions events triggers",,,,,,,
+23/9/2025,AWS,"10:30 - 12:30 : DynamoDB
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : LeetCode 
+13:30 - 14:00 : Lunch
+14:00 - 18:00 : API Gateway intro
+","1.dynamodb tables
+2.items
+3.filters queries scan
+4.partisql
+5.dynamodb querying with lambdas, getitem
+6.Using Lambda with API Gateway
+",,,,,,,
+24/9/2025,AWS,"10:00 - 12:30 : DynamoDB and API gateway
+12:30 - 12:45 : Meet with LC
+12:45 - 13:30 : Leetcode
+13:30 - 14:00 : Lunch
+14:00 - 17:00 : Api gateway","1.proxy non proxy integration
+2. CRUD HTTP API with Lambda and DynamoDB
+3.authorization
+",,,,,,,
+25/9/2025,AWS,"10:00 - 12:30 : Documentation and ecr 
+12:30 - 13:00 : Meet with LC
+13:00 - 13:30 : Lunch
+13:30 - 14:00 : Leetcode
+14:00 - 16:00 : ecs","1.what is ecr
+2.pushing docker image to ecr
+3.web app using ecr and ec2
+4.LeetCode 69",,,,,,,

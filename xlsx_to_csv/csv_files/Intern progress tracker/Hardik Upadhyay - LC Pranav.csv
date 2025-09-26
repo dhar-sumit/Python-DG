@@ -1,0 +1,326 @@
+Date,Topics,Daily Learning Plan,Actual Progress,Back log,New topics learned,Blockers/Difficulties,Comments by Intern,LC comment,Random QA Review,Weekly LC Review
+2025-11-08 00:00:00,ISO27001: Standards,2:30 - 5:00 Information and security course, Information Security,,"ISO27001 overview.
+Information security principles.
+Risk management in security.",,,,,
+2025-12-08 00:00:00,Github,"10:30 - 13:30  Introduction to Git, Git fundamentals
+13:30 - 14:30 Lunch 
+14:30 - 15:00 Repositories
+15:00 - 15:30 Branches
+15:30 - 16:00 Hands On
+16:00 - 16:15 Break
+16:15 - 17:00 Revision","Git 
+Git commands
+Repositories
+Branches
+",,"Git basics (init, clone, add, commit, push, pull).
+Repository creation and management.
+Branching strategies (Gitflow, trunk-based workflow).",,,,,
+13-08-2025,"Github
+Github Assignment 1
+Github Assignment 2
+","10:30 - 11:30 Commit
+11:30 - 11:45 Short Revision
+11:45 - 12:00 Short Break
+12:00 - 13:00 Github Assignment 1
+13:00 - 14:00 Lunch
+14:00 - 15:30 Github Assignment 2
+15:30 - 15:45 Short Break
+15:45 - 16:30 Revision
+","Commit 
+Git Assignment 1
+Git Assignment 2
+",,"Making pull requests (PRs).
+Squashing commits.
+Commit best practices.",,,,,
+14-08-2025,"Github Assignment 3
+Devops Introduction
+Jenkins","10:30 - 12:00 Github Assignment 3
+12:00 - 13:00 Lunch
+13:00 - 15:00 Devops Intro
+15:00 - 15:30 Break
+15:30 - 17:30 Jenkins Intro
+17:30 - 18:00 Break
+18:00 - 19:00 Jenkins ","Worked on GitHub Assignment 3.
+Introduction to DevOps concepts.
+Hands-on Jenkins basics session.",,"DevOps principles and CI/CD.
+Jenkins installation.
+Jenkins concepts (jobs, pipelines).",,,,,
+15-08-2025,Jenkins (Continued),10:30 - 12:00 Jenkins ,"Continued Jenkins basics and workflows.
+Practical exercises on Jenkins jobs.",,"Jenkins job configuration.
+CI/CD pipeline automation.",,,,,
+18-08-2025,"Jenkins 
+","10:30 - 12:30 Jenkins 
+12:30 - 13:30 Jenkins(basics)
+13:30 - 14:30 Lunch
+14:30 - 16:30 Jenkins(coding)","Practiced Jenkins basics.
+Introduction to scripting in Jenkins.
+Hands-on with Groovy scripts.",,"Jenkins scripting.
+Groovy language basics.
+Automating Jenkins pipelines.",,,,,
+19-08-2025,"Jenkins Hands-On
+Docker 
+","10:00 - 12:00 Jenkins(hands-on)
+12:00 - 13:00 Lunch
+13:00 - 15:00 Jenkins(code)
+15:00 - 16:00 Break
+16:00 - 18:00 Docker","Jenkins Hands-on 
+Hands-on with pipeline and jobs
+Blue Ocean UI 
+Job using Blue Ocean",,"Jenkins pipelines with Blue Ocean.
+Docker basics introduction.
+Groovy scripting in pipelines.",,,,,
+20-08-2025,"Docker
+Docker Hands-on","10:00 - 12:00 Docker(basics)
+12:00 - 12:30 Daily Standup
+12:30 - 13:30 Docker(basics)
+13:30 - 14:30 Lunch
+14:30 - 16:00 Docker(hands-on)
+16:00 - 16:30 Break
+16:30 - 17:30 Docker(hands-on)
+","Installed and practiced Docker commands.
+Worked with Docker Hub, containers, and images.
+Hands-on exercises with Docker run and build.",,"Docker architecture.
+Containers vs images.
+Key Docker commands.",,,,,
+21-08-2025,"Docker Hands-on
+CI/CD Assginment","10:00 - 12:00 Docker Commands
+12:00 - 12:30 Standup
+12:30 - 13:30 Revision(jenkins/docker)
+13:30 - 14:30 Lunch
+14:30 - 16:30 CI/CD assignment
+16:30 - 17:00 Short break
+17:00 - 18:00 CI/CD assignment","Practiced Dockerfile creation.
+Revised Jenkins and Docker concepts.
+Started CI/CD assignment.",,"Writing Dockerfiles.
+CI/CD assignment workflows.",,,,,
+22-08-2025,"CI/CD Assignment
+Assignment Documentation","10:00 - 12:00 Assignment
+12:00 - 12:30 Standup
+12:30 - 13:30 Debugging
+13:30 - 14:30 Lunch
+14:30 - 16:30 Assignment/Documentation
+16:30 - 17:00 Short Break
+17:00 - 18:00 Revision","Worked on CI/CD assignment.
+Debugged Jenkins and Docker issues.
+Documented assignment process.",,"Debugging Jenkins pipelines.
+Writing proper documentation for CI/CD.",,,,,
+25-08-2025,Python,"10:00  - 12:00 Basics of Python
+12:00 - 12:30 Daily Standup
+12:30 - 13:30 Python Basics
+13:30 - 14:30 Lunch
+14:30 - 16:00 Python Concepts
+16:00 - 16:30 Short Break
+16:30 - 18:00 Python Concepts","Learned Python basics (syntax, variables, loops).
+Hands-on coding exercises.
+Discussed Python concepts in detail.",,"Python syntax & data types.
+Loops, functions, and conditional statements.",,,,,
+26-08-2025,Python,"10:00 - 12:00  Basics of Python
+12:00 - 12:30 OOPs in Python
+12:30 - 13:30 OOPs in Python
+13:30 - 14:30 Lunch
+14:30 - 16:00 Inheritence and error Handling
+16:00 - 16:30 Short Break
+16:30 - 18:00 Generators","Practiced Python OOPs (classes, objects, inheritance).
+Hands-on with error handling.
+Worked with generators.",,"OOPs in Python.
+Exception handling.
+Generators in Python.",,,,,
+28-08-2025,Python,"10:00 - 12:00 Revision
+12:00 - 11:30 Call with LC
+12:30 - 13:30 String Methods
+13:30 - 14:30 Lunch
+14:30 - 15:00 Quick Sort, Merge Sort
+15:00 - 16:00 Linked List
+16:00 - 16:30 short break
+16:30 - 17:00 Stack","Revision of Python basics.
+Learned string methods.
+Implemented sorting algorithms (Quick sort, Merge sort).
+Hands-on with linked list and stack.",,"String methods.
+Sorting algorithms (Quick Sort, Merge Sort).
+Linked List and Stack concepts.",,,,,
+29-08-2025,Python,"10:00 - 12:00 Revision
+12:00 - 12:30 Call with LC
+12:30 - 13:30 Queue
+13:30 - 14:30 Lunch
+14:30 - 16:00 Practice on Leetcode
+16:00 - 16:30 short break
+16:30 - 17:30 Deocators , OOPs ","Revision of Python concepts.
+Practiced on Leetcode problems.
+Worked on decorators and OOPs.",,"Decorators in Python.
+OOPs deeper concepts.",,,,,
+2025-01-09 00:00:00,Python,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 File Handling
+13:30 - 14:30 Lunch
+14:30 - 16:00 File Handling HandsOn
+16:00 - 16:30 short break
+16:30 - 18:00 Modules and Packages","Hands-on file handling in Python.
+Worked with modules and packages.
+Solved Leetcode problems.",,"File handling operations (read, write, open).
+Python modules and packages.",,,,,
+2025-02-09 00:00:00,"Python
+Git , Docker , Jenkins Revision","10:00 - 12:00 Leetcode 
+12:00 - 12:30 Standup
+12:30 - 13:30 File Handling
+13:30 - 14:30 Lunch
+14:30 - 16:00 Git ,Git assignment revision
+16:00 - 16:30 Short Break
+16:30 - 18:00 Jenkins , Docker revision","Revision of Git, Docker, Jenkins assignments.
+File handling hands-on.
+Leetcode problem solving.",,"File handling (revised).
+CI/CD concepts revisited.",,,,,
+2025-03-09 00:00:00,Python,"10:00 - 11:00 Leetcode
+11:00 - 12:00 Python Assignment 
+12:00 - 12:30 POSH Session
+12:30 - 13:00 Standup 
+13:00 - 14:00 Lunch
+14:00 - 16:00 Concurrency , Asyncio
+16:00 - 16:30 Break
+16:30 - 18:00 Threading","Hands-on with asyncio and concurrency in Python.
+Implemented threading.
+Attended POSH session.",,"Concurrency vs parallelism.
+Asyncio event loop.
+Python threading module.",,,,,
+2025-04-09 00:00:00,"Python
+","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 Concurrency, Multiprocessing , Iterator
+13:30 - 14:30 Lunch
+14:30 - 16:00 Python Assignment
+16:00 - 16:30 short break
+16:30 - 18:00 Mysql + Python","Implemented multiprocessing and iterators in Python.
+Worked on Python assignment.
+Started MySQL integration with Python.",,"Multiprocessing in Python.
+Iterators.
+MySQL with Python.",,,,,
+2025-05-09 00:00:00,Python,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 MYSQL+ Python
+13:30 - 14:30 Lunch
+14:30 - 16:00 Joins , Indexes, ETL
+16:00 - 16:30 short break
+16:30 - 18:00 Python Assignment","Hands-on MySQL with Python.
+Learned Joins and Indexes.
+Practiced ETL concepts.",,"SQL Joins.
+Indexes.
+ETL processes.",,,,,
+2025-08-09 00:00:00,"NumPy
+Pandas","10:00 - 12:00 Leetcode 
+12:00 - 12:30 Standup
+12:30 - 13:30 Numpy
+13:30 - 14:30 Lunch
+14:30 - 16:00 Numpy
+16:00 - 16:30 Short Break
+16:30 - 18:00 Pandas","Practiced Python libraries: NumPy and Pandas.
+Worked on array and dataframe operations",,"NumPy basics (arrays, operations).
+Pandas basics (DataFrames, Series).",,,,,
+2025-09-09 00:00:00,"FLask
+","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 Flask
+13:30 - 14:30 Lunch
+14:30 - 16:00 Flask
+16:00 - 16:30 short break
+16:30 - 18:00 Flask","Installed Flask and created first app.
+Hands-on practice with Flask routes.",,"Flask basics.
+Flask routing and app structure.",,,,,
+2025-10-09 00:00:00,"Flask 
+Flask Projects","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 Flask
+13:30 - 14:30 Lunch
+14:30 - 16:00 Flask Project 1
+16:00 - 16:30 short break
+16:30 - 18:00 FLask Project 2","Worked on Flask projects.
+Implemented two mini Flask applications",,"Flask project structure.
+Flask templates and routing.",,,,,
+2025-11-09 00:00:00,Github Actions,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup
+12:30 - 13:30 Github Actions 
+13:30 - 14:30 Lunch
+14:30 - 16:00 Github Actions Assignment
+16:00 - 16:30 short break
+16:30 - 18:00 Python Assignment Cont","Practiced Leetcode.
+Worked on GitHub Actions workflows.
+Hands-on with GitHub Actions assignment.",,"GitHub Actions basics.
+CI/CD using GitHub Actions.",,,,,
+2025-12-09 00:00:00,"Python Assignment New
+SQL","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup
+12:30 - 13:30 Python Assignment
+13:30 - 14:30 Lunch
+14:30 - 16:00 SQL
+16:00 - 16:30 short break
+16:30 - 18:00 Python Assignment Cont","Continued Python assignment.
+Practiced SQL queries.
+Worked on debugging assignments.",,"SQL basics (SELECT, INSERT, UPDATE).
+",,,,,
+15/9/2025,SQL,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 SQL
+13:30 - 14:30 Lunch
+14:30 - 16:00 SQL
+16:00 - 16:30 short break
+16:30 - 18:00 SQL","SQL 
+SQL Hands-On",,,,,,,
+16/9/2025,SQL,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:00 SQL
+13:00 - 14:00 Interns Catchup with Naveen
+14:30 - 16:00 SQL
+16:00 - 16:30 short break
+16:30 - 18:00 SQL","SQL 
+SQL Hands-On",,,,,,,
+17/9/2025,"SQL Documentation
+PySpark","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:00 SQL Docs
+13:00 - 14:00 Lunch
+14:00 - 16:00 PySpark
+16:00 - 16:30 Short break
+16:30 - 18:00 PySpark",,,,,,,,
+18/9/2025,PySpark,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PySark
+13:30 - 14:30 Lunch
+14:30 - 16:00 SQL Practice
+16:00 - 16:30 short break
+16:30 - 18:00 PySpark",,,,,,,,
+19/9/2025,PySpark,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PySark
+13:30 - 14:30 Lunch
+14:30 - 16:00 SQL Practice
+16:00 - 16:30 short break
+16:30 - 18:00 HandsOn - PySpark",,,,,,,,
+22/9/2025,"PySpark Assignment
+PySpark Assignment Docs
+PowerBI","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PySark Assignment
+13:30 - 14:30 Lunch
+14:30 - 16:00 Assignment Docs
+16:00 - 16:30 short break
+16:30 - 18:00 PowerBI",,,,,,,,
+23/9/2025,PowerBI,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PowerBI
+13:30 - 14:30 Lunch
+14:30 - 16:00 PowerBI
+16:00 - 16:30 short break
+16:30 - 18:00 PowerBI Assignent",,,,,,,,
+24/9/2025,PowerBI,"10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PowerBI 
+13:30 - 14:30 Lunch
+14:30 - 16:00 PowerBI Assignment
+16:00 - 16:30 short break
+16:30 - 18:00 AWS Theoretical",,,,,,,,
+25/9/2025,"AWS
+PowerBI Documentation","10:00 - 12:00 Leetcode
+12:00 - 12:30 Standup 
+12:30 - 13:30 PowerBI 
+13:30 - 14:30 Lunch
+14:30 - 16:00 PowerBI Assignment
+16:00 - 16:30 short break
+16:30 - 18:00 AWS",,,,,,,,
