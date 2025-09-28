@@ -1,8 +1,11 @@
+# extractor.py
+
 import re
 import json
 import sys
 from pathlib import Path
 
+# Extract tables from SQL files and save as JSON.
 def extract_tables(sql):
     tables = []
     pattern = re.compile(r"CREATE\s+TABLE\s+(\w+)\s*\((.*?)\);", re.IGNORECASE | re.DOTALL)
@@ -18,6 +21,7 @@ def extract_tables(sql):
         tables.append({"name": name, "columns": columns})
     return tables
 
+# Extract stored procedures from SQL files and save as JSON.
 def extract_procedures(sql):
     # Extract procedures (with full definition)
     procedure_pattern = re.compile(
@@ -39,7 +43,7 @@ def extract_procedures(sql):
         })
     return procedures
 
-
+# Extract views from SQL files and save as JSON.
 def extract_views(sql):
     views = []
     pattern = re.compile(r"CREATE\s+VIEW\s+(\w+)\s+AS\s+(.*?);", re.IGNORECASE | re.DOTALL)
@@ -48,7 +52,7 @@ def extract_views(sql):
         views.append({"name": name, "definition": definition.strip()+";"})
     return views
 
-
+# Extract INSERT statements from SQL files and save as JSON.
 def extract_inserts(sql):
     inserts = []
     pattern = re.compile(r"(INSERT\s+INTO\s+\w+\s*\(.*?\)\s*VALUES\s*\(.*?\);)", re.IGNORECASE | re.DOTALL)
@@ -57,7 +61,7 @@ def extract_inserts(sql):
         inserts.append({"type": "INSERT", "query": query.strip()})
     return inserts
 
-
+# Extract UPDATE statements from SQL files and save as JSON.
 def extract_updates(sql):
     updates = []
     pattern = re.compile(r"(UPDATE\s+\w+\s+SET\s+.*?\s+WHERE\s+.*?;)", re.IGNORECASE | re.DOTALL)
@@ -66,7 +70,7 @@ def extract_updates(sql):
         updates.append({"type": "UPDATE", "query": query.strip()})
     return updates
 
-
+# Extract DELETE statements from SQL files and save as JSON.
 def extract_deletes(sql):
     deletes = []
     pattern = re.compile(r"(DELETE\s+FROM\s+\w+\s+WHERE\s+.*?;)", re.IGNORECASE | re.DOTALL)
@@ -74,7 +78,6 @@ def extract_deletes(sql):
     for query in matches:
         deletes.append({"type": "DELETE", "query": query.strip()})
     return deletes
-
 
 def main():
     input_dir = Path("sql_files")
@@ -89,6 +92,7 @@ def main():
         print("No '.sql' files found in sql_files directory. Please add some SQL files and try again.")
         return
 
+    # Process each SQL file and extract information
     for sql_file in sql_files:
         print(f"Processing: {input_dir}/{sql_file.name}", end="")
         sql = sql_file.read_text()
@@ -100,6 +104,7 @@ def main():
             "dml": extract_inserts(sql) + extract_updates(sql) + extract_deletes(sql)
         }
 
+        # Save output to JSON file with the same base name as the SQL file
         output_file = output_dir / (sql_file.stem + ".json")
 
         with output_file.open("w", encoding="utf-8") as f:
