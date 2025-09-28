@@ -1,0 +1,71 @@
+{
+    "tables": [
+        {
+            "name": "Employees",
+            "columns": [
+                {
+                    "name": "EmpID",
+                    "type": "INT PRIMARY KEY"
+                },
+                {
+                    "name": "EmpName",
+                    "type": "VARCHAR(100)"
+                },
+                {
+                    "name": "DeptID",
+                    "type": "INT"
+                },
+                {
+                    "name": "Salary",
+                    "type": "DECIMAL(10,2)"
+                }
+            ]
+        }
+    ],
+    "procedures": [
+        {
+            "name": "GetEmployeeDetails",
+            "params": [
+                "@EmpID INT",
+                "@DeptID INT"
+            ],
+            "definition": "CREATE PROCEDURE GetEmployeeDetails @EmpID INT, @DeptID INT AS BEGIN SELECT EmpID, EmpName, Salary FROM Employees WHERE EmpID = @EmpID AND DeptID = @DeptID; END;"
+        }
+    ],
+    "views": [
+        {
+            "name": "HighSalaryEmployees",
+            "definition": "SELECT EmpID, EmpName, Salary\nFROM Employees\nWHERE Salary > 50000;"
+        }
+    ],
+    "dml": [
+        {
+            "type": "INSERT",
+            "query": "INSERT INTO Employees (EmpID, EmpName, DeptID, Salary)\nVALUES (1, 'Emp 1', 101, 60000);"
+        },
+        {
+            "type": "INSERT",
+            "query": "INSERT INTO Employees (EmpID, EmpName, DeptID, Salary)\nVALUES (2, 'Emp 2', 102, 45000);"
+        },
+        {
+            "type": "INSERT",
+            "query": "INSERT INTO Employees (EmpID, EmpName, DeptID, Salary)\nVALUES (3, 'Emp 3', 103, 47000);"
+        },
+        {
+            "type": "INSERT",
+            "query": "INSERT INTO Employees (EmpID, EmpName, DeptID, Salary)\nVALUES (4, 'Emp 4', 104, 50000);"
+        },
+        {
+            "type": "INSERT",
+            "query": "INSERT INTO Employees (EmpID, EmpName, DeptID, Salary)\nVALUES (5, 'Emp 5', 105, 74000);"
+        },
+        {
+            "type": "UPDATE",
+            "query": "UPDATE Employees\nSET Salary = 65000\nWHERE EmpID = 3;"
+        },
+        {
+            "type": "DELETE",
+            "query": "DELETE FROM Employees\nWHERE EmpID = 4;"
+        }
+    ]
+}
